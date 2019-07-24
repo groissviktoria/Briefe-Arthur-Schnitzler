@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an jeanette Heeger</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">25-26</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="" notAfter=""/>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>jeanette Heeger</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
+Aprilk 88</dateline>
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Mein ewig geliebter Schatz! Ich denk mir, du mußt dich wieder
+über meinen gestrigen Brief geärgert haben — es ist nichts an¬
+zufangen mit mir: nur mit deinen Küssen kannst du meinen
+bitterbösen Mund schließen. Sooft deine Briefe kommen, bin
+ich auf ein paar Augenblicke ruhig, beinah sorglos; dann aber
+geht der infame Hexentanz in meinem Innern wieder an. Sie
+reißen eine Truhe auf, wo vieles eingesargt und todt lag und
+breiten es aus, wollen es wieder lebendig machen. Verzeih
+mir, Kind, was kann der Mensch für seine Hexen? Unsagbar
+unglücklich bin ich, daß ich nicht zu dem ruhigen Bewußtsein
+des Glücks kommen kann, von dir geliebt zu sein. Wenn ich
+einmal unverwünscht dran denke, macht es mich glückselig!
+Es ist eine erbärmliche Kleinlichkeit der menschlichen Natur,
+daß sie sich nicht loslösen kann von gewesenem. Daß alte
+Worte nachklingen, daß traurige Schatten in die „blühende
+Gegenwartg hineinnicken. Aber warum denn, warum denn?
+Warum kann ichs nicht vertreiben, vernichten. Warum quäl
+ich dich und mich? Mich — ja gut —! aber dich, das ist gemein,
+weil du's nicht verdienst, weil ja wirklich alles vorbei ist! —
+Ach, und doch alle diese elenden infamen Worte, du würdest
+sie mir zugute halten, wenn du einen Begriff von dem wüthen¬
+den Egoismus meiner Leidenschaft fühltest! — Einmal sagtestdu.Es gibt Fälle, wo man nicht anders kanng, — oder so
+ähnlich. Um Himmelswillen, jetzt bin ich weg von dir, und
+wenn es wirklich so ist — Es ist ein Unsinn, und nebenbei
+wirklich eine Gemeinheit, daß ich das nicht lassen kann!
+Fühlst du es auch, daß alle diese Quälerein nur, nur meine
+Liebe sind! Fühlst du auch, das ich, während ich kleinlich und
+ungerecht deine arme Liebe peinige, zu gleicher Zeit dir zu
+Füßen sinken möchte und dir sagen: Nie ist ein Wesen so ge¬
+liebt worden - Und doch: ich bin ja nicht bei dir: du siehst
+nicht, wie ich jetzt am Schreibtisch sitze, ach Gott, meine Ver¬
+zweiflung, meine Sehnsucht siehst du nicht — du kannst nicht
+diese Geister bannen, die wieder alle auf mich losgelassen
+sind, denn du bist nicht da —Wenn ich wirklich edel wäre, müßt ich diesen Brief zerreißen;
+aber ich bin nicht edel genug: ich muß die grausame Genug¬
+thuung haben daß du weißt, wie ich mich zermartre wegen
+— Schatten und Unsinn. Heut ist einer meiner allerschlimm¬
+sten Tage, und du verstehst es! Bist du mir böse? Kränkst du
+dich? Oh wenn ich nur bei dir sein könnte, deine süßen Lip¬
+pen küssen, es wär ja alles wieder gut! Dann müßtest du auch
+an mich und nur an mich denken — Oh warum hab ich diesen
+Brief geschrieben? Warum hab ich die Kraft nicht, ihn zurück¬
+zuhalten. Zerreif ihn gleich: denk er ist einer jener bittern
+Launen, die man ihm verzeihen muß, denn so bitter kann nur
+die wahnsinnigste süßeste Liebe sein! Ja, bist gut, mein
+Schatz!</p>
+               <closer>Dein A</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

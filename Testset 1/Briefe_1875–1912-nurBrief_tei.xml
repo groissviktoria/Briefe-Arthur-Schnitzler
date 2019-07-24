@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Briefe 1875–1912-nurBrief</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: martin.anton.mueller@oeaw.ac.at</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='1309' lry='2225'>
+			<graphic url='Briefe 1875–1912-nurBrief-0001.jpg' width='1309px' height='2225px'/>
+			<zone points='109,205 1132,205 1132,2016 109,2016' rendition='printspace'/>
+			<zone points='119,211 341,211 341,244 119,244' rendition='TextRegion' subtype='title' xml:id='facs_1_r_1_1'>
+				<zone points='120,212 340,212 340,243 120,243' rendition='Line' xml:id='facs_1_tl_1'/>
+			</zone>
+			<zone points='784,211 1119,211 1119,252 784,252' rendition='TextRegion' subtype='date' xml:id='facs_1_r_2_1'>
+				<zone points='785,212 1118,212 1118,251 785,251' rendition='Line' xml:id='facs_1_tl_2'/>
+			</zone>
+			<zone points='117,309 344,309 344,350 117,350' rendition='TextRegion' subtype='salute' xml:id='facs_1_r_3_1'>
+				<zone points='118,310 343,310 343,349 118,349' rendition='Line' xml:id='facs_1_tl_3'/>
+			</zone>
+			<zone points='118,358 1126,358 1126,594 118,594' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_2'>
+				<zone points='119,359 1122,359 1122,398 119,398' rendition='Line' xml:id='facs_1_tl_4'/>
+				<zone points='120,407 1125,407 1125,448 120,448' rendition='Line' xml:id='facs_1_tl_5'/>
+				<zone points='119,457 1123,457 1123,496 119,496' rendition='Line' xml:id='facs_1_tl_6'/>
+				<zone points='119,506 1124,506 1124,544 119,544' rendition='Line' xml:id='facs_1_tl_7'/>
+				<zone points='119,554 415,554 415,593 119,593' rendition='Line' xml:id='facs_1_tl_8'/>
+			</zone>
+			<zone points='115,604 1125,604 1125,932 115,932' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_3'>
+				<zone points='121,605 1124,605 1124,644 121,644' rendition='Line' xml:id='facs_1_tl_9'/>
+				<zone points='119,654 1123,654 1123,694 119,694' rendition='Line' xml:id='facs_1_tl_10'/>
+				<zone points='119,703 1123,703 1123,742 119,742' rendition='Line' xml:id='facs_1_tl_11'/>
+				<zone points='119,752 1123,752 1123,790 119,790' rendition='Line' xml:id='facs_1_tl_12'/>
+				<zone points='118,800 1123,800 1123,840 118,840' rendition='Line' xml:id='facs_1_tl_13'/>
+				<zone points='118,850 1123,850 1123,889 118,889' rendition='Line' xml:id='facs_1_tl_14'/>
+				<zone points='116,899 235,899 235,931 116,931' rendition='Line' xml:id='facs_1_tl_15'/>
+			</zone>
+			<zone points='115,947 1124,947 1124,1037 115,1037' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_4'>
+				<zone points='119,948 1123,948 1123,987 119,987' rendition='Line' xml:id='facs_1_tl_16'/>
+				<zone points='116,998 310,998 310,1036 116,1036' rendition='Line' xml:id='facs_1_tl_17'/>
+			</zone>
+			<zone points='628,1045 1124,1045 1124,1127 628,1127' rendition='TextRegion' subtype='closer' xml:id='facs_1_r_3_5'>
+				<zone points='629,1046 1123,1046 1123,1085 629,1085' rendition='Line' xml:id='facs_1_tl_18'/>
+				<zone points='1010,1095 1123,1095 1123,1126 1010,1126' rendition='Line' xml:id='facs_1_tl_19'/>
+			</zone>
+			<zone points='118,1193 1123,1193 1123,1235 118,1235' rendition='TextRegion' subtype='paragraph' xml:id='facs_1_r_3_6'>
+				<zone points='119,1194 565,1194 565,1234 119,1234' rendition='Line' subtype='title' xml:id='facs_1_line_1562933496221_691'/>
+				<zone points='565,1194 854,1194 854,1234 565,1234' rendition='Line' subtype='placeName' xml:id='facs_1_line_1562933542104_702'/>
+				<zone points='854,1194 1122,1194 1122,1234 854,1234' rendition='Line' subtype='date' xml:id='facs_1_line_1562933542104_701'/>
+			</zone>
+			<zone points='117,1291 323,1291 323,1325 117,1325' rendition='TextRegion' subtype='salute' xml:id='facs_1_r_3_7'>
+				<zone points='118,1292 322,1292 322,1324 118,1324' rendition='Line' xml:id='facs_1_tl_21'/>
+			</zone>
+			<zone points='116,1340 548,1340 548,1430 116,1430' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_8'>
+				<zone points='121,1341 547,1341 547,1380 121,1380' rendition='Line' xml:id='facs_1_tl_22'/>
+				<zone points='117,1391 425,1391 425,1429 117,1429' rendition='Line' xml:id='facs_1_tl_23'/>
+			</zone>
+			<zone points='116,1438 1125,1438 1125,1569 116,1569' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_9'>
+				<zone points='119,1439 1124,1439 1124,1478 119,1478' rendition='Line' xml:id='facs_1_tl_24'/>
+				<zone points='119,1488 1124,1488 1124,1526 119,1526' rendition='Line' xml:id='facs_1_tl_25'/>
+				<zone points='117,1537 492,1537 492,1568 117,1568' rendition='Line' xml:id='facs_1_tl_26'/>
+			</zone>
+			<zone points='116,1585 1124,1585 1124,1672 116,1672' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_10'>
+				<zone points='118,1586 1123,1586 1123,1617 118,1617' rendition='Line' xml:id='facs_1_tl_27'/>
+				<zone points='117,1634 990,1634 990,1671 117,1671' rendition='Line' xml:id='facs_1_tl_28'/>
+			</zone>
+			<zone points='116,1683 1126,1683 1126,1912 116,1912' rendition='TextRegion' subtype='p' xml:id='facs_1_r_3_11'>
+				<zone points='118,1684 1125,1684 1125,1721 118,1721' rendition='Line' xml:id='facs_1_tl_29'/>
+				<zone points='118,1732 1124,1732 1124,1771 118,1771' rendition='Line' xml:id='facs_1_tl_30'/>
+				<zone points='118,1781 1123,1781 1123,1820 118,1820' rendition='Line' xml:id='facs_1_tl_31'/>
+				<zone points='117,1830 1124,1830 1124,1870 117,1870' rendition='Line' xml:id='facs_1_tl_32'/>
+				<zone points='122,1879 1125,1879 1125,1911 122,1911' rendition='Line' xml:id='facs_1_tl_33'/>
+			</zone>
+			<zone points='1103,1989 1123,1989 1123,2009 1103,2009' rendition='TextRegion' subtype='pb' xml:id='facs_1_r_4_1'>
+				<zone points='1104,1990 1122,1990 1122,2008 1104,2008' rendition='Line' xml:id='facs_1_tl_34'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='1311' lry='2220'>
+			<graphic url='Briefe 1875–1912-nurBrief-0002.jpg' width='1311px' height='2220px'/>
+			<zone points='183,124 1209,124 1209,2014 183,2014' rendition='printspace'/>
+			<zone points='190,130 260,130 260,164 190,164' rendition='TextRegion' subtype='head' xml:id='facs_2_r_1_1'>
+				<zone points='191,131 259,131 259,163 191,163' rendition='Line' xml:id='facs_2_tl_1'/>
+			</zone>
+			<zone points='190,211 1198,211 1198,792 190,792' rendition='TextRegion' subtype='p' xml:id='facs_2_r_2_1'>
+				<zone points='192,212 1197,212 1197,252 192,252' rendition='Line' xml:id='facs_2_tl_2'/>
+				<zone points='195,261 1195,261 1195,294 195,294' rendition='Line' xml:id='facs_2_tl_3'/>
+				<zone points='191,310 1195,310 1195,349 191,349' rendition='Line' xml:id='facs_2_tl_4'/>
+				<zone points='191,359 1197,359 1197,398 191,398' rendition='Line' xml:id='facs_2_tl_5'/>
+				<zone points='192,408 1197,408 1197,448 192,448' rendition='Line' xml:id='facs_2_tl_6'/>
+				<zone points='191,457 1197,457 1197,497 191,497' rendition='Line' xml:id='facs_2_tl_7'/>
+				<zone points='192,506 1197,506 1197,546 192,546' rendition='Line' xml:id='facs_2_tl_8'/>
+				<zone points='192,555 1195,555 1195,595 192,595' rendition='Line' xml:id='facs_2_tl_9'/>
+				<zone points='191,604 1197,604 1197,643 191,643' rendition='Line' xml:id='facs_2_tl_10'/>
+				<zone points='191,653 1197,653 1197,693 191,693' rendition='Line' xml:id='facs_2_tl_11'/>
+				<zone points='192,701 1197,701 1197,742 192,742' rendition='Line' xml:id='facs_2_tl_12'/>
+				<zone points='191,752 1010,752 1010,791 191,791' rendition='Line' xml:id='facs_2_tl_13'/>
+			</zone>
+			<zone points='189,798 1199,798 1199,988 189,988' rendition='TextRegion' subtype='p' xml:id='facs_2_r_2_2'>
+				<zone points='190,799 1198,799 1198,832 190,832' rendition='Line' xml:id='facs_2_tl_14'/>
+				<zone points='192,848 1198,848 1198,889 192,889' rendition='Line' xml:id='facs_2_tl_15'/>
+				<zone points='191,897 1198,897 1198,934 191,934' rendition='Line' xml:id='facs_2_tl_16'/>
+				<zone points='190,949 412,949 412,987 190,987' rendition='Line' xml:id='facs_2_tl_17'/>
+			</zone>
+			<zone points='190,996 650,996 650,1086 190,1086' rendition='TextRegion' subtype='p' xml:id='facs_2_r_2_3'>
+				<zone points='193,997 649,997 649,1035 193,1035' rendition='Line' xml:id='facs_2_tl_18'/>
+				<zone points='191,1046 576,1046 576,1085 191,1085' rendition='Line' xml:id='facs_2_tl_19'/>
+			</zone>
+			<zone points='190,1093 1201,1093 1201,1181 190,1181' rendition='TextRegion' subtype='p' xml:id='facs_2_r_2_4'>
+				<zone points='192,1094 1200,1094 1200,1134 192,1134' rendition='Line' xml:id='facs_2_tl_20'/>
+				<zone points='191,1144 779,1144 779,1180 191,1180' rendition='Line' xml:id='facs_2_tl_21'/>
+			</zone>
+			<zone points='190,1192 785,1192 785,1232 190,1232' rendition='TextRegion' subtype='p' xml:id='facs_2_r_2_5'>
+				<zone points='191,1193 784,1193 784,1231 191,1231' rendition='Line' xml:id='facs_2_tl_22'/>
+			</zone>
+			<zone points='862,1240 1201,1240 1201,1322 862,1322' rendition='TextRegion' subtype='closer' xml:id='facs_2_r_2_6'>
+				<zone points='863,1241 1200,1241 1200,1273 863,1273' rendition='Line' xml:id='facs_2_tl_23'/>
+				<zone points='1080,1290 1198,1290 1198,1321 1080,1321' rendition='Line' xml:id='facs_2_tl_24'/>
+			</zone>
+			<zone points='190,1339 833,1339 833,1380 190,1380' rendition='TextRegion' subtype='postscript' xml:id='facs_2_r_3_1'>
+				<zone points='191,1340 832,1340 832,1379 191,1379' rendition='Line' xml:id='facs_2_tl_25'/>
+			</zone>
+			<zone points='192,1438 419,1438 419,1472 192,1472' rendition='TextRegion' subtype='title' xml:id='facs_2_r_4_1'>
+				<zone points='193,1439 418,1439 418,1471 193,1471' rendition='Line' xml:id='facs_2_tl_26'/>
+			</zone>
+			<zone points='1039,1438 1200,1438 1200,1478 1039,1478' rendition='TextRegion' subtype='date' xml:id='facs_2_r_5_1'>
+				<zone points='1040,1439 1199,1439 1199,1477 1040,1477' rendition='Line' xml:id='facs_2_tl_27'/>
+			</zone>
+			<zone points='189,1536 466,1536 466,1577 189,1577' rendition='TextRegion' subtype='salute' xml:id='facs_2_r_6_1'>
+				<zone points='190,1537 465,1537 465,1576 190,1576' rendition='Line' xml:id='facs_2_tl_28'/>
+			</zone>
+			<zone points='189,1584 1202,1584 1202,1919 189,1919' rendition='TextRegion' subtype='p' xml:id='facs_2_r_6_2'>
+				<zone points='191,1585 1200,1585 1200,1624 191,1624' rendition='Line' xml:id='facs_2_tl_29'/>
+				<zone points='191,1634 1200,1634 1200,1673 191,1673' rendition='Line' xml:id='facs_2_tl_30'/>
+				<zone points='191,1683 1201,1683 1201,1722 191,1722' rendition='Line' xml:id='facs_2_tl_31'/>
+				<zone points='191,1731 1201,1731 1201,1771 191,1771' rendition='Line' xml:id='facs_2_tl_32'/>
+				<zone points='191,1780 1201,1780 1201,1820 191,1820' rendition='Line' xml:id='facs_2_tl_33'/>
+				<zone points='190,1829 1201,1829 1201,1870 190,1870' rendition='Line' xml:id='facs_2_tl_34'/>
+				<zone points='190,1878 1201,1878 1201,1918 190,1918' rendition='Line' xml:id='facs_2_tl_35'/>
+			</zone>
+			<zone points='190,1987 208,1987 208,2008 190,2008' rendition='TextRegion' subtype='pb' xml:id='facs_2_r_7_1'>
+				<zone points='191,1988 207,1988 207,2007 191,2007' rendition='Line' xml:id='facs_2_tl_36'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='1308' lry='2223'>
+			<graphic url='Briefe 1875–1912-nurBrief-0003.jpg' width='1308px' height='2223px'/>
+			<zone points='97,121 1122,121 1122,2022 97,2022' rendition='printspace'/>
+			<zone points='1047,127 1114,127 1114,161 1047,161' rendition='TextRegion' subtype='head' xml:id='facs_3_r_1_1'>
+				<zone points='1048,128 1113,128 1113,160 1048,160' rendition='Line' xml:id='facs_3_tl_1'/>
+			</zone>
+			<zone points='109,208 1116,208 1116,397 109,397' rendition='TextRegion' subtype='p' xml:id='facs_3_r_2_1'>
+				<zone points='113,209 1115,209 1115,249 113,249' rendition='Line' xml:id='facs_3_tl_2'/>
+				<zone points='112,259 1115,259 1115,298 112,298' rendition='Line' xml:id='facs_3_tl_3'/>
+				<zone points='112,308 1114,308 1114,347 112,347' rendition='Line' xml:id='facs_3_tl_4'/>
+				<zone points='110,356 820,356 820,396 110,396' rendition='Line' xml:id='facs_3_tl_5'/>
+			</zone>
+			<zone points='108,404 1116,404 1116,593 108,593' rendition='TextRegion' subtype='p' xml:id='facs_3_r_2_2'>
+				<zone points='110,405 1115,405 1115,445 110,445' rendition='Line' xml:id='facs_3_tl_6'/>
+				<zone points='112,455 1115,455 1115,493 112,493' rendition='Line' xml:id='facs_3_tl_7'/>
+				<zone points='109,503 717,503 717,542 109,542' rendition='Line' xml:id='facs_3_tl_8'/>
+				<zone points='109,552 946,552 946,592 109,592' rendition='Line' xml:id='facs_3_tl_9'/>
+			</zone>
+			<zone points='991,601 1115,601 1115,634 991,634' rendition='TextRegion' subtype='closer' xml:id='facs_3_r_2_3'>
+				<zone points='992,602 1114,602 1114,633 992,633' rendition='Line' xml:id='facs_3_tl_10'/>
+			</zone>
+			<zone points='109,700 569,700 569,741 109,741' rendition='TextRegion' subtype='title' xml:id='facs_3_TextRegion_1562934366304_786'>
+				<zone points='110,701 569,701 569,740 110,740' rendition='Line' xml:id='facs_3_line_1562934366319_789'/>
+			</zone>
+			<zone points='569,700 1115,700 1115,741 569,741' rendition='TextRegion' subtype='paragraph' xml:id='facs_3_TextRegion_1562934366304_785'>
+				<zone points='759,685 971,701 971,740 759,724' rendition='Line' subtype='placeName' xml:id='facs_3_line_1562934386597_794'/>
+				<zone points='971,701 1114,701 1114,740 971,740' rendition='Line' subtype='date' xml:id='facs_3_line_1562934386597_793'/>
+			</zone>
+			<zone points='107,797 376,797 376,831 107,831' rendition='TextRegion' subtype='salute' xml:id='facs_3_r_2_5'>
+				<zone points='108,798 375,798 375,830 108,830' rendition='Line' xml:id='facs_3_tl_12'/>
+			</zone>
+			<zone points='103,847 1116,847 1116,1916 103,1916' rendition='TextRegion' subtype='p' xml:id='facs_3_r_2_6'>
+				<zone points='111,848 1114,848 1114,885 111,885' rendition='Line' xml:id='facs_3_tl_13'/>
+				<zone points='108,896 1114,896 1114,937 108,937' rendition='Line' xml:id='facs_3_tl_14'/>
+				<zone points='108,946 1114,946 1114,985 108,985' rendition='Line' xml:id='facs_3_tl_15'/>
+				<zone points='108,995 1114,995 1114,1035 108,1035' rendition='Line' xml:id='facs_3_tl_16'/>
+				<zone points='107,1043 1111,1043 1111,1076 107,1076' rendition='Line' xml:id='facs_3_tl_17'/>
+				<zone points='107,1092 1113,1092 1113,1132 107,1132' rendition='Line' xml:id='facs_3_tl_18'/>
+				<zone points='108,1141 1114,1141 1114,1180 108,1180' rendition='Line' xml:id='facs_3_tl_19'/>
+				<zone points='108,1190 1114,1190 1114,1228 108,1228' rendition='Line' xml:id='facs_3_tl_20'/>
+				<zone points='108,1238 1114,1238 1114,1279 108,1279' rendition='Line' xml:id='facs_3_tl_21'/>
+				<zone points='107,1288 1114,1288 1114,1327 107,1327' rendition='Line' xml:id='facs_3_tl_22'/>
+				<zone points='107,1337 1112,1337 1112,1376 107,1376' rendition='Line' xml:id='facs_3_tl_23'/>
+				<zone points='107,1386 1113,1386 1113,1425 107,1425' rendition='Line' xml:id='facs_3_tl_24'/>
+				<zone points='107,1436 1114,1436 1114,1476 107,1476' rendition='Line' xml:id='facs_3_tl_25'/>
+				<zone points='107,1484 1114,1484 1114,1517 107,1517' rendition='Line' xml:id='facs_3_tl_26'/>
+				<zone points='107,1533 1114,1533 1114,1573 107,1573' rendition='Line' xml:id='facs_3_tl_27'/>
+				<zone points='106,1583 1114,1583 1114,1622 106,1622' rendition='Line' xml:id='facs_3_tl_28'/>
+				<zone points='104,1631 1115,1631 1115,1673 104,1673' rendition='Line' xml:id='facs_3_tl_29'/>
+				<zone points='105,1681 1114,1681 1114,1720 105,1720' rendition='Line' xml:id='facs_3_tl_30'/>
+				<zone points='104,1729 1111,1729 1111,1769 104,1769' rendition='Line' xml:id='facs_3_tl_31'/>
+				<zone points='104,1778 1113,1778 1113,1817 104,1817' rendition='Line' xml:id='facs_3_tl_32'/>
+				<zone points='104,1827 1113,1827 1113,1866 104,1866' rendition='Line' xml:id='facs_3_tl_33'/>
+				<zone points='105,1876 1114,1876 1114,1915 105,1915' rendition='Line' xml:id='facs_3_tl_34'/>
+			</zone>
+			<zone points='1093,1987 1113,1987 1113,2016 1093,2016' rendition='TextRegion' subtype='pb' xml:id='facs_3_r_3_1'>
+				<zone points='1094,1988 1112,1988 1112,2015 1094,2015' rendition='Line' xml:id='facs_3_tl_35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='1311' lry='2220'>
+			<graphic url='Briefe 1875–1912-nurBrief-0004.jpg' width='1311px' height='2220px'/>
+			<zone points='184,121 1209,121 1209,2019 184,2019' rendition='printspace'/>
+			<zone points='192,127 260,127 260,161 192,161' rendition='TextRegion' subtype='head' xml:id='facs_4_r_1_1'>
+				<zone points='193,128 259,128 259,160 193,160' rendition='Line' xml:id='facs_4_tl_1'/>
+			</zone>
+			<zone points='191,208 1198,208 1198,453 1198,592 191,592 190,445 190,404' rendition='TextRegion' subtype='p' xml:id='facs_4_TextRegion_1562934810826_854'>
+				<zone points='194,209 1195,209 1195,249 194,249' rendition='Line' xml:id='facs_4_tl_2'/>
+				<zone points='192,258 1197,258 1197,298 192,298' rendition='Line' xml:id='facs_4_tl_3'/>
+				<zone points='193,308 1197,308 1197,346 193,346' rendition='Line' xml:id='facs_4_tl_4'/>
+				<zone points='194,356 1197,356 1197,393 194,393' rendition='Line' xml:id='facs_4_tl_5'/>
+				<zone points='191,405 1196,405 1196,444 191,444' rendition='Line' xml:id='facs_4_tl_6'/>
+				<zone points='192,454 1197,454 1197,494 192,494' rendition='Line' xml:id='facs_4_tl_7'/>
+				<zone points='194,503 1197,503 1197,542 194,542' rendition='Line' xml:id='facs_4_tl_8'/>
+				<zone points='192,553 696,553 696,591 192,591' rendition='Line' xml:id='facs_4_tl_9'/>
+			</zone>
+			<zone points='190,601 1202,601 1202,1370 190,1370' rendition='TextRegion' subtype='p' xml:id='facs_4_r_1_5'>
+				<zone points='194,602 1196,602 1196,641 194,641' rendition='Line' xml:id='facs_4_tl_10'/>
+				<zone points='191,651 1196,651 1196,691 191,691' rendition='Line' xml:id='facs_4_tl_11'/>
+				<zone points='193,701 1196,701 1196,740 193,740' rendition='Line' xml:id='facs_4_tl_12'/>
+				<zone points='195,749 1197,749 1197,788 195,788' rendition='Line' xml:id='facs_4_tl_13'/>
+				<zone points='192,798 1196,798 1196,837 192,837' rendition='Line' xml:id='facs_4_tl_14'/>
+				<zone points='193,847 1196,847 1196,886 193,886' rendition='Line' xml:id='facs_4_tl_15'/>
+				<zone points='193,896 1199,896 1199,935 193,935' rendition='Line' xml:id='facs_4_tl_16'/>
+				<zone points='192,945 1198,945 1198,984 192,984' rendition='Line' xml:id='facs_4_tl_17'/>
+				<zone points='192,994 1198,994 1198,1033 192,1033' rendition='Line' xml:id='facs_4_tl_18'/>
+				<zone points='191,1042 1198,1042 1198,1081 191,1081' rendition='Line' xml:id='facs_4_tl_19'/>
+				<zone points='193,1091 1199,1091 1199,1127 193,1127' rendition='Line' xml:id='facs_4_tl_20'/>
+				<zone points='194,1142 1199,1142 1199,1180 194,1180' rendition='Line' xml:id='facs_4_tl_21'/>
+				<zone points='194,1190 1201,1190 1201,1229 194,1229' rendition='Line' xml:id='facs_4_tl_22'/>
+				<zone points='192,1240 1201,1240 1201,1271 192,1271' rendition='Line' xml:id='facs_4_tl_23'/>
+				<zone points='194,1289 1201,1289 1201,1327 194,1327' rendition='Line' xml:id='facs_4_tl_24'/>
+				<zone points='191,1338 422,1338 422,1369 191,1369' rendition='Line' xml:id='facs_4_tl_25'/>
+			</zone>
+			<zone points='190,1385 1202,1385 1202,1614 190,1614' rendition='TextRegion' subtype='p' xml:id='facs_4_r_1_6'>
+				<zone points='194,1386 1201,1386 1201,1426 194,1426' rendition='Line' xml:id='facs_4_tl_26'/>
+				<zone points='193,1436 1200,1436 1200,1474 193,1474' rendition='Line' xml:id='facs_4_tl_27'/>
+				<zone points='192,1484 1201,1484 1201,1523 192,1523' rendition='Line' xml:id='facs_4_tl_28'/>
+				<zone points='193,1533 1200,1533 1200,1571 193,1571' rendition='Line' xml:id='facs_4_tl_29'/>
+				<zone points='191,1582 244,1582 244,1613 191,1613' rendition='Line' xml:id='facs_4_tl_30'/>
+			</zone>
+			<zone points='900,1630 1203,1630 1203,1712 900,1712' rendition='TextRegion' subtype='closer' xml:id='facs_4_r_1_7'>
+				<zone points='901,1631 1202,1631 1202,1662 901,1662' rendition='Line' xml:id='facs_4_tl_31'/>
+				<zone points='1093,1680 1202,1680 1202,1711 1093,1711' rendition='Line' xml:id='facs_4_tl_32'/>
+			</zone>
+			<zone points='192,1985 213,1985 213,2013 192,2013' rendition='TextRegion' subtype='pb' xml:id='facs_4_r_2_1'>
+				<zone points='193,1986 212,1986 212,2012 193,2012' rendition='Line' xml:id='facs_4_tl_33'/>
+			</zone>
+			<zone points='724,431 857,431 857,437 724,437' rendition='Separator' xml:id='facs_4_r_3'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_5'>
+		<surface ulx='0' uly='0' lrx='1304' lry='2220'>
+			<graphic url='Briefe 1875–1912-nurBrief-0005.jpg' width='1304px' height='2220px'/>
+			<zone points='104,119 1129,119 1129,2018 104,2018' rendition='printspace'/>
+			<zone points='1051,125 1121,125 1121,158 1051,158' rendition='TextRegion' subtype='head' xml:id='facs_5_r_1_1'>
+				<zone points='1052,126 1120,126 1120,157 1052,157' rendition='Line' xml:id='facs_5_tl_1'/>
+			</zone>
+			<zone points='116,208 337,208 337,243 116,243' rendition='TextRegion' subtype='title' xml:id='facs_5_r_2_1'>
+				<zone points='117,209 336,209 336,242 117,242' rendition='Line' xml:id='facs_5_tl_2'/>
+			</zone>
+			<zone points='854,209 1118,209 1118,248 854,248' rendition='TextRegion' subtype='date' xml:id='facs_5_r_3_1'>
+				<zone points='855,210 1117,210 1117,247 855,247' rendition='Line' xml:id='facs_5_tl_3'/>
+			</zone>
+			<zone points='114,306 341,306 341,348 114,348' rendition='TextRegion' subtype='salute' xml:id='facs_5_r_4_1'>
+				<zone points='115,307 340,307 340,347 115,347' rendition='Line' xml:id='facs_5_tl_4'/>
+			</zone>
+			<zone points='112,353 1121,353 1121,1031 112,1031' rendition='TextRegion' subtype='p' xml:id='facs_5_r_4_2'>
+				<zone points='117,354 1119,354 1119,396 117,396' rendition='Line' xml:id='facs_5_tl_5'/>
+				<zone points='116,403 1118,403 1118,445 116,445' rendition='Line' xml:id='facs_5_tl_6'/>
+				<zone points='116,451 1119,451 1119,494 116,494' rendition='Line' xml:id='facs_5_tl_7'/>
+				<zone points='116,501 1119,501 1119,542 116,542' rendition='Line' xml:id='facs_5_tl_8'/>
+				<zone points='117,549 1120,549 1120,591 117,591' rendition='Line' xml:id='facs_5_tl_9'/>
+				<zone points='116,599 1119,599 1119,641 116,641' rendition='Line' xml:id='facs_5_tl_10'/>
+				<zone points='116,647 1120,647 1120,690 116,690' rendition='Line' xml:id='facs_5_tl_11'/>
+				<zone points='116,697 1118,697 1118,738 116,738' rendition='Line' xml:id='facs_5_tl_12'/>
+				<zone points='116,745 1118,745 1118,780 116,780' rendition='Line' xml:id='facs_5_tl_13'/>
+				<zone points='115,794 1119,794 1119,837 115,837' rendition='Line' xml:id='facs_5_tl_14'/>
+				<zone points='115,843 1118,843 1118,885 115,885' rendition='Line' xml:id='facs_5_tl_15'/>
+				<zone points='116,892 1118,892 1118,935 116,935' rendition='Line' xml:id='facs_5_tl_16'/>
+				<zone points='115,941 1118,941 1118,983 115,983' rendition='Line' xml:id='facs_5_tl_17'/>
+				<zone points='113,992 612,992 612,1030 113,1030' rendition='Line' xml:id='facs_5_tl_18'/>
+			</zone>
+			<zone points='112,1040 674,1040 674,1083 112,1083' rendition='TextRegion' subtype='p' xml:id='facs_5_r_4_3'>
+				<zone points='113,1041 673,1041 673,1082 113,1082' rendition='Line' xml:id='facs_5_tl_19'/>
+			</zone>
+			<zone points='775,1087 1120,1087 1120,1169 775,1169' rendition='TextRegion' subtype='closer' xml:id='facs_5_r_4_4'>
+				<zone points='776,1088 1119,1088 1119,1121 776,1121' rendition='Line' xml:id='facs_5_tl_20'/>
+				<zone points='998,1137 1118,1137 1118,1168 998,1168' rendition='Line' xml:id='facs_5_tl_21'/>
+			</zone>
+			<zone points='114,1188 632,1188 632,1230 114,1230' rendition='TextRegion' subtype='postscript' xml:id='facs_5_r_5_1'>
+				<zone points='115,1189 631,1189 631,1229 115,1229' rendition='Line' xml:id='facs_5_tl_22'/>
+			</zone>
+			<zone points='115,1287 558,1287 558,1330 115,1330' rendition='TextRegion' subtype='title' xml:id='facs_5_TextRegion_1562934994058_893'>
+				<zone points='116,1288 558,1288 558,1329 116,1329' rendition='Line' xml:id='facs_5_line_1562934994089_896'/>
+			</zone>
+			<zone points='558,1287 876,1287 876,1330 558,1330' rendition='TextRegion' subtype='placeName' xml:id='facs_5_TextRegion_1562935007196_901'>
+				<zone points='558,1288 876,1288 876,1329 558,1329' rendition='Line' xml:id='facs_5_line_1562935007227_904'/>
+			</zone>
+			<zone points='876,1287 1116,1287 1116,1330 876,1330' rendition='TextRegion' subtype='date' xml:id='facs_5_TextRegion_1562935007196_900'>
+				<zone points='876,1288 1115,1288 1115,1329 876,1329' rendition='Line' xml:id='facs_5_line_1562935007227_903'/>
+			</zone>
+			<zone points='112,1387 338,1387 338,1428 112,1428' rendition='TextRegion' subtype='salute' xml:id='facs_5_r_6_2'>
+				<zone points='113,1388 337,1388 337,1427 113,1427' rendition='Line' xml:id='facs_5_tl_24'/>
+			</zone>
+			<zone points='113,1433 1121,1433 1121,1918 113,1918' rendition='TextRegion' subtype='p' xml:id='facs_5_r_6_3'>
+				<zone points='115,1434 1119,1434 1119,1477 115,1477' rendition='Line' xml:id='facs_5_tl_25'/>
+				<zone points='115,1483 1118,1483 1118,1525 115,1525' rendition='Line' xml:id='facs_5_tl_26'/>
+				<zone points='114,1532 1119,1532 1119,1567 114,1567' rendition='Line' xml:id='facs_5_tl_27'/>
+				<zone points='116,1580 1119,1580 1119,1622 116,1622' rendition='Line' xml:id='facs_5_tl_28'/>
+				<zone points='115,1628 1120,1628 1120,1672 115,1672' rendition='Line' xml:id='facs_5_tl_29'/>
+				<zone points='114,1678 1119,1678 1119,1721 114,1721' rendition='Line' xml:id='facs_5_tl_30'/>
+				<zone points='115,1727 1120,1727 1120,1767 115,1767' rendition='Line' xml:id='facs_5_tl_31'/>
+				<zone points='115,1776 1119,1776 1119,1819 115,1819' rendition='Line' xml:id='facs_5_tl_32'/>
+				<zone points='114,1825 1118,1825 1118,1867 114,1867' rendition='Line' xml:id='facs_5_tl_33'/>
+				<zone points='115,1875 1120,1875 1120,1917 115,1917' rendition='Line' xml:id='facs_5_tl_34'/>
+			</zone>
+			<zone points='1100,1983 1118,1983 1118,2012 1100,2012' rendition='TextRegion' subtype='pb' xml:id='facs_5_r_7_1'>
+				<zone points='1101,1984 1117,1984 1117,2011 1101,2011' rendition='Line' xml:id='facs_5_tl_35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_r_1_1'>
+				<lg>
+					<l facs='#facs_1_tl_1'>An den Vater</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_2_1'>
+				<lg>
+					<l facs='#facs_1_tl_2'>[zum 10. April 1875]</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_1'>
+				<lg>
+					<l facs='#facs_1_tl_3'>Theurer Papa!</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_2'>
+				<lg>
+					<l facs='#facs_1_tl_4'>Mit frohem Herzen begrüß&apos; ich den heutigen festlichen Tag.</l>
+					<l facs='#facs_1_tl_5'>Gefühle des Dankes und der Liebe erwachen stärker denn je in</l>
+					<l facs='#facs_1_tl_6'>meiner Brust, und als Worte überschreiten sie meine Lippen,</l>
+					<l facs='#facs_1_tl_7'>- freilich haben sie auf dem Wege viel von ihrer Wärme und</l>
+					<l facs='#facs_1_tl_8'>Innigkeit verloren.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_3'>
+				<lg>
+					<l facs='#facs_1_tl_9'>Glück und Zufriedenheit seien Deine steten Begleiter; auf Dei¬</l>
+					<l facs='#facs_1_tl_10'>nen Lebensweg, der sich noch lange, lange, und immer durch</l>
+					<l facs='#facs_1_tl_11'>lachende Fluren hinschlängeln möge, soll die Freude unver¬</l>
+					<l facs='#facs_1_tl_12'>gängliche Rosen der Heiterkeit streuen. Geliebt von allen, die</l>
+					<l facs='#facs_1_tl_13'>Dich kennen, geachtet von aller Welt mögen Deine Tage</l>
+					<l facs='#facs_1_tl_14'>ruhig, ungetrübt selbst vom kleinsten Ungemach dahin¬</l>
+					<l facs='#facs_1_tl_15'>fließen !</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_4'>
+				<lg>
+					<l facs='#facs_1_tl_16'>Ich werde mich bestreben, möglichst viel zu Deinem Glücke</l>
+					<l facs='#facs_1_tl_17'>beizu tragen.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_5'>
+				<lg>
+					<l facs='#facs_1_tl_18'>Dein Dich innigliebender Sohn</l>
+					<l facs='#facs_1_tl_19'>Arthur</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_6'>
+				<lg>
+					<l facs='#facs_1_line_1562933496221_691'>An die Mutter Vöslau, d. 17. Juli 1875.</l>
+					<l facs='#facs_1_line_1562933542104_702'>An die Mutter Vöslau, d. 17. Juli 1875.</l>
+					<l facs='#facs_1_line_1562933542104_701'>An die Mutter Vöslau, d. 17. Juli 1875.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_7'>
+				<lg>
+					<l facs='#facs_1_tl_21'>Liebe Mama!</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_8'>
+				<lg>
+					<l facs='#facs_1_tl_22'>»Von heute bis auf morgen</l>
+					<l facs='#facs_1_tl_23'>Ist eine lange Frist«</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_9'>
+				<lg>
+					<l facs='#facs_1_tl_24'>sagte einer unsrer deutschen Dichter; aber in dieser langen</l>
+					<l facs='#facs_1_tl_25'>Frist hat sich nicht so viel ereignet, daß man vier Octavseiten</l>
+					<l facs='#facs_1_tl_26'>damit ausfüllen könnte.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_10'>
+				<lg>
+					<l facs='#facs_1_tl_27'>Aber - die Phönizier haben die Schreibekunst einmal erfun¬</l>
+					<l facs='#facs_1_tl_28'>den, und diese Gewohnheit hat sich bis auf uns vererbt.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_3_11'>
+				<lg>
+					<l facs='#facs_1_tl_29'>Du könntest Dir eigentlich alles denken, was ich Dir hier</l>
+					<l facs='#facs_1_tl_30'>schreibe. Gestern habe ich die drei Mandl&apos;s engagirt, mit mir</l>
+					<l facs='#facs_1_tl_31'>einen kleinen Waldspaziergang zu machen. Wir einigten uns</l>
+					<l facs='#facs_1_tl_32'>um V2 6 in der Frühe auf dem Platze zu sein. Ich spaziere um</l>
+					<l facs='#facs_1_tl_33'>V46 aus dem Hause und setze mich auf eine Bank auf der</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_r_4_1'>
+				<lg>
+					<l facs='#facs_1_tl_34'>1</l>
+				</lg>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_r_1_1'>
+				<lg>
+					<l facs='#facs_2_tl_1'>i8j8</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_1'>
+				<lg>
+					<l facs='#facs_2_tl_2'>Waldwiese, die wir genau bestimmt hatten. Ich warte. Es wird</l>
+					<l facs='#facs_2_tl_3'>V26. Das Kleeblatt der Mandl erscheint nicht. Es wird % 6.</l>
+					<l facs='#facs_2_tl_4'>Die Erwarteten scheinen noch äußerst selig zu schlummern.</l>
+					<l facs='#facs_2_tl_5'>Die Glocke verkündet die sechste Stunde. Keine Spur von den</l>
+					<l facs='#facs_2_tl_6'>Langschläfern. Vij. Eben so wenig. Um V27 endlich reißt der</l>
+					<l facs='#facs_2_tl_7'>Strick meiner Geduld; (denn das kann man nicht mehr den</l>
+					<l facs='#facs_2_tl_8'>Geduldsfaden nennen), und ich ziehe mit der längsten Nase</l>
+					<l facs='#facs_2_tl_9'>ab, die je irgend ein enttäuschtes Menschenkind gehabt hat.</l>
+					<l facs='#facs_2_tl_10'>Wenn Dich dieses Abenteuer nicht interessirt, - ich trage keine</l>
+					<l facs='#facs_2_tl_11'>Schuld dran; wenigstens hat mein Brief um eine Octavseite</l>
+					<l facs='#facs_2_tl_12'>zugenommen, und Du plagst Dich um die Zeit, in der Du das</l>
+					<l facs='#facs_2_tl_13'>liest, weniger in der Küche u. mit der Nähmaschine.</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_2'>
+				<lg>
+					<l facs='#facs_2_tl_14'>- Heute war ich auch schon im Bad. Gottlob! es war sehr an¬</l>
+					<l facs='#facs_2_tl_15'>genehm. Zuletzt muß ich noch auf den Spruch zurückkommen,</l>
+					<l facs='#facs_2_tl_16'>mit dem ich diese Zeilen eröffnet habe; nur mit einer kleinen</l>
+					<l facs='#facs_2_tl_17'>Veränderung.</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_3'>
+				<lg>
+					<l facs='#facs_2_tl_18'>»Zwischen heut und morgen</l>
+					<l facs='#facs_2_tl_19'>Liegt keine lange Frist.«</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_4'>
+				<lg>
+					<l facs='#facs_2_tl_20'>Das soll sich der Papa zu Herzen nehmen und nicht gar zu</l>
+					<l facs='#facs_2_tl_21'>sehr eilen, mich abzuholen; denn —</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_5'>
+				<lg>
+					<l facs='#facs_2_tl_22'>Gottlob! es war alles sehr angenehm.</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_2_6'>
+				<lg>
+					<l facs='#facs_2_tl_23'>Dein dankbarer Sohn</l>
+					<l facs='#facs_2_tl_24'>Arthur.</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_3_1'>
+				<lg>
+					<l facs='#facs_2_tl_25'>N.B. Viele Grüße der ganzen Sippschaft.</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_4_1'>
+				<lg>
+					<l facs='#facs_2_tl_26'>An den Vater</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_5_1'>
+				<lg>
+					<l facs='#facs_2_tl_27'>10/4 1878</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_6_1'>
+				<lg>
+					<l facs='#facs_2_tl_28'>Theuerster Papa!</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_6_2'>
+				<lg>
+					<l facs='#facs_2_tl_29'>An dem heutigen Tage bringe auch ich Dir die herzlichsten,</l>
+					<l facs='#facs_2_tl_30'>tiefgefühlten Glückwünsche dar. Sie wollen dasselbe sagen,</l>
+					<l facs='#facs_2_tl_31'>was ich täglich in meinem Innersten denke, was mein Herz</l>
+					<l facs='#facs_2_tl_32'>stets und unverändert hegt. Sie fassen in Worte, was besser</l>
+					<l facs='#facs_2_tl_33'>ungesagt bliebe; da diese Worte ja doch weit hinter dem zu¬</l>
+					<l facs='#facs_2_tl_34'>rückblieben, was das Herz empfindet. Mögst Du noch lang</l>
+					<l facs='#facs_2_tl_35'>und glücklich leben; alle Deine Wünsche mögen in fröhliche</l>
+				</lg>
+			</p>
+			<p facs='#facs_2_r_7_1'>
+				<lg>
+					<l facs='#facs_2_tl_36'>2</l>
+				</lg>
+			</p>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_r_1_1'>
+				<lg>
+					<l facs='#facs_3_tl_1'>188ß</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_2_1'>
+				<lg>
+					<l facs='#facs_3_tl_2'>Erfüllung gehen, so daß Zufriedenheit in Dein Herz einkehrt,</l>
+					<l facs='#facs_3_tl_3'>und Deine Tage in ungetrübter Heiterkeit dahinfließen. Sor¬</l>
+					<l facs='#facs_3_tl_4'>gen mögen Dir stets fern bleiben, und jedweder Segen des</l>
+					<l facs='#facs_3_tl_5'>Himmels und der Erde möge Dich beglücken.</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_2_2'>
+				<lg>
+					<l facs='#facs_3_tl_6'>Daß alles, was ich in diesen Zeilen niedergelegt, weit schöner</l>
+					<l facs='#facs_3_tl_7'>sich erfüllt, als ich es auszudrücken wüßte, ist der innigste</l>
+					<l facs='#facs_3_tl_8'>Wunsch und die ersehnteste Hoffnung</l>
+					<l facs='#facs_3_tl_9'>Deines dankbaren und Dich innigstliebenden Sohnes</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_2_3'>
+				<lg>
+					<l facs='#facs_3_tl_10'>Arthur.</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_TextRegion_1562934366304_786'>
+				<lg>
+					<l facs='#facs_3_line_1562934366319_789'>An die Mutter Leider Wien, 24/7 83.</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_TextRegion_1562934366304_785'>
+				<lg>
+					<l facs='#facs_3_line_1562934386597_794'>An die Mutter Leider Wien, 24/7 83.</l>
+					<l facs='#facs_3_line_1562934386597_793'>An die Mutter Leider Wien, 24/7 83.</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_2_5'>
+				<lg>
+					<l facs='#facs_3_tl_12'>Liebste Mama! -</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_2_6'>
+				<lg>
+					<l facs='#facs_3_tl_13'>Sei nicht böse - das bitt&apos; ich dich - vor allem, daß ich so</l>
+					<l facs='#facs_3_tl_14'>schreibfaul bin. Aber es ist wirklich unausstehlich langweilig</l>
+					<l facs='#facs_3_tl_15'>in Wien und ich fürchte immer, daß die Langeweile wie ein</l>
+					<l facs='#facs_3_tl_16'>Fluidum sich in die Poren des Briefpapiers versteckt und dann</l>
+					<l facs='#facs_3_tl_17'>auch in Ischl ihr Wesen treibt. Und das will ich beileibe nicht!</l>
+					<l facs='#facs_3_tl_18'>Ich wünsche Euch das beste Wetter, die angenehmste Gesell¬</l>
+					<l facs='#facs_3_tl_19'>schaft, das größte Amüsement; ich wünsche, daß Ihr Euch in</l>
+					<l facs='#facs_3_tl_20'>Ischl so wohl, so heimisch fühlt wie zu Hause u würde ein</l>
+					<l facs='#facs_3_tl_21'>diesbezügliches Geständnis, ohne beleidigt zu sein, ja mit dem</l>
+					<l facs='#facs_3_tl_22'>größten Vergnügen hinnehmen.. Wie ich meine Freiheit be¬</l>
+					<l facs='#facs_3_tl_23'>nütze, fragst du -? Oh liebste Mama, Du »machst Ironie«.</l>
+					<l facs='#facs_3_tl_24'>Also höre: Gestern mußten wir wieder exerciren, heute hab</l>
+					<l facs='#facs_3_tl_25'>ich von 6-8 Inspektion bei einem Cadet-Corporal, der bei</l>
+					<l facs='#facs_3_tl_26'>dem miserabeln Wetter Zahnschmerzen bekommen und ein</l>
+					<l facs='#facs_3_tl_27'>Glas Opium über den Durst getrunken hat. Freitag ist wieder</l>
+					<l facs='#facs_3_tl_28'>exerciren, Samstag Nachtmanöver am Laaberg (schöne Gegend</l>
+					<l facs='#facs_3_tl_29'>- aber wenigstens sieht man in der Nacht nicht, wo man ist!) -</l>
+					<l facs='#facs_3_tl_30'>gar nicht zu sprechen von den täglichen Frühvisiten und</l>
+					<l facs='#facs_3_tl_31'>schließlich von der Nachmittagsvisite, die ich vom 1.-10.</l>
+					<l facs='#facs_3_tl_32'>August habe ... Wie gesagt, es ist schrecklich. - Wenn du üb¬</l>
+					<l facs='#facs_3_tl_33'>rigens meinst, daß Vöslau besonders entzückend ist, theure</l>
+					<l facs='#facs_3_tl_34'>Mama, so ist das einer jener Holzwege, von denen bereits die</l>
+				</lg>
+			</p>
+			<p facs='#facs_3_r_3_1'>
+				<lg>
+					<l facs='#facs_3_tl_35'>3</l>
+				</lg>
+			</p>
+			<pb facs='#facs_4' n='4'/>
+			<p facs='#facs_4_r_1_1'>
+				<lg>
+					<l facs='#facs_4_tl_1'>i883</l>
+				</lg>
+			</p>
+			<p facs='#facs_4_TextRegion_1562934810826_854'>
+				<lg>
+					<l facs='#facs_4_tl_2'>alten Römer sagten: Irren ist menschlich. Allerdings hat man</l>
+					<l facs='#facs_4_tl_3'>viel »Ansprache« draußen; man sieht sozusagen vor lauter Be¬</l>
+					<l facs='#facs_4_tl_4'>kannten die Waldwiese nicht (was übrigens ganz gut ist) und</l>
+					<l facs='#facs_4_tl_5'>ich freue mich immer sehr, liebe, verwandte Gesichter zu sehn</l>
+					<l facs='#facs_4_tl_6'>- aber wenn ich an Ischl denke.?! Du weißt gar nicht,</l>
+					<l facs='#facs_4_tl_7'>liebe Mama, wie gut du&apos;s hast! - Dem 1. Großpapa geht es im</l>
+					<l facs='#facs_4_tl_8'>ganzen recht gut; er fühlt sich zwar etwas schwach, im all¬</l>
+					<l facs='#facs_4_tl_9'>gemeinen aber ist er viel besser.</l>
+				</lg>
+			</p>
+			<p facs='#facs_4_r_1_5'>
+				<lg>
+					<l facs='#facs_4_tl_10'>... Gestern war ich aus lauter Verzweiflg - meine Feder er-</l>
+					<l facs='#facs_4_tl_11'>röthet - im Fürsttheater. Das Stück hieß (sogar im Fürsttheater</l>
+					<l facs='#facs_4_tl_12'>frozzelt man mich): Frei will er sein. Frozzeln erinnert mich</l>
+					<l facs='#facs_4_tl_13'>(Julius wird schon wissen warum) an die Fische im Wolfgang¬</l>
+					<l facs='#facs_4_tl_14'>see und bringt mich vermittelst dieser Ideenassociation darauf,</l>
+					<l facs='#facs_4_tl_15'>euch um die geringsten Kleinigkeiten zu fragen, welche das</l>
+					<l facs='#facs_4_tl_16'>reizende Salzkammergut betreffen. Also erzählt, erzählt - !? Ist</l>
+					<l facs='#facs_4_tl_17'>der Wolfgangsee noch immer so naß wie früher (heuer viel¬</l>
+					<l facs='#facs_4_tl_18'>leicht noch mehr!) Der Schafberg noch immer so hoch? War ich</l>
+					<l facs='#facs_4_tl_19'>noch immer noch immer nicht oben? .. Oh ich werde ganz con-</l>
+					<l facs='#facs_4_tl_20'>fus - und ich will schließen, umsomehr, als mich die militärische</l>
+					<l facs='#facs_4_tl_21'>Pflicht zu dem Opiumcadeten ruft, welcher wahrscheinlich so¬</l>
+					<l facs='#facs_4_tl_22'>fort gesund wird, wenn ich eintrete. Oder vielleicht muß er</l>
+					<l facs='#facs_4_tl_23'>mich als Medicament löffelweise einnehmen - einen andern</l>
+					<l facs='#facs_4_tl_24'>Grund für die Notwendigkeit meines Dortseins weiß ich</l>
+					<l facs='#facs_4_tl_25'>wirklich nicht.</l>
+				</lg>
+			</p>
+			<p facs='#facs_4_r_1_6'>
+				<lg>
+					<l facs='#facs_4_tl_26'>Julius wird morgen, spätestens übermorgen einen Brief von</l>
+					<l facs='#facs_4_tl_27'>mir erhalten, unterdessen mag er gebeten sein, alle meine</l>
+					<l facs='#facs_4_tl_28'>Bekannten (beiderlei Geschlechtes) zu grüßen; ihn, Gisa und</l>
+					<l facs='#facs_4_tl_29'>dich küss&apos; ich herzlichst, bitte alle um häufige Nachrichten und</l>
+					<l facs='#facs_4_tl_30'>bin</l>
+				</lg>
+			</p>
+			<p facs='#facs_4_r_1_7'>
+				<lg>
+					<l facs='#facs_4_tl_31'>Euer Euchliebender</l>
+					<l facs='#facs_4_tl_32'>Arthur</l>
+				</lg>
+			</p>
+			<p facs='#facs_4_r_2_1'>
+				<lg>
+					<l facs='#facs_4_tl_33'>4</l>
+				</lg>
+			</p>
+			<pb facs='#facs_5' n='5'/>
+			<p facs='#facs_5_r_1_1'>
+				<lg>
+					<l facs='#facs_5_tl_1'>1884</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_2_1'>
+				<lg>
+					<l facs='#facs_5_tl_2'>An den Vater</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_3_1'>
+				<lg>
+					<l facs='#facs_5_tl_3'>[Sommer 1884?]</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_4_1'>
+				<lg>
+					<l facs='#facs_5_tl_4'>Liebster Papa!</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_4_2'>
+				<lg>
+					<l facs='#facs_5_tl_5'>Der gestrige Tag war gräulich verregnet; die projectirte Partie</l>
+					<l facs='#facs_5_tl_6'>geht daher erst heute, meine Abreise morgen Samstag von¬</l>
+					<l facs='#facs_5_tl_7'>statten. Daran schließt sich eine Bitte. Es geht mir mit mei¬</l>
+					<l facs='#facs_5_tl_8'>nem Gelde nach Zahlg der Hotelrechnung und der Fahrt nach</l>
+					<l facs='#facs_5_tl_9'>Ischl knapp aus. Um nicht eventuell in eine peinliche Situation</l>
+					<l facs='#facs_5_tl_10'>zu geraten, so habe die große Güte, mir die Unsumme von</l>
+					<l facs='#facs_5_tl_11'>ungefähr 15 fl zu schicken, da ich sonst nicht einmal in der</l>
+					<l facs='#facs_5_tl_12'>Lage wäre, z. B. auf der Reise eine Fensterscheibe zu zerbre¬</l>
+					<l facs='#facs_5_tl_13'>chen oder eine Locomotive zu ruiniren. Nun ist der Mensch</l>
+					<l facs='#facs_5_tl_14'>vor derartigem Unglück nie geschützt und ich möchte gegen</l>
+					<l facs='#facs_5_tl_15'>unangenehme Folgen gefeit sein. Jedenfalls, liebster Papa</l>
+					<l facs='#facs_5_tl_16'>sende mir das Geld gleich nach Erhalt des Briefes, so daß ich</l>
+					<l facs='#facs_5_tl_17'>doch mit dem angenehmen Gefühl, ein wohlhabender Mann</l>
+					<l facs='#facs_5_tl_18'>zu sein, von hier abreisen kann.</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_4_3'>
+				<lg>
+					<l facs='#facs_5_tl_19'>Es grüßt und küsst dich tausendmal</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_4_4'>
+				<lg>
+					<l facs='#facs_5_tl_20'>Dein dankbarer Sohn</l>
+					<l facs='#facs_5_tl_21'>Arthur.</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_5_1'>
+				<lg>
+					<l facs='#facs_5_tl_22'>An Julius herzlichen Gruß u Kuß</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_TextRegion_1562934994058_893'>
+				<lg>
+					<l facs='#facs_5_line_1562934994089_896'>An den Vater [Bad Ischl, Sommer 1884]</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_TextRegion_1562935007196_901'>
+				<lg>
+					<l facs='#facs_5_line_1562935007227_904'>An den Vater [Bad Ischl, Sommer 1884]</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_TextRegion_1562935007196_900'>
+				<lg>
+					<l facs='#facs_5_line_1562935007227_903'>An den Vater [Bad Ischl, Sommer 1884]</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_6_2'>
+				<lg>
+					<l facs='#facs_5_tl_24'>Theurer Papa!</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_6_3'>
+				<lg>
+					<l facs='#facs_5_tl_25'>Trotz allem . . . d. h. trotz der (im ganzen) mäßigen Gesell¬</l>
+					<l facs='#facs_5_tl_26'>schaft hier und trotz des nicht ganz sommeraufenthaltsgemä¬</l>
+					<l facs='#facs_5_tl_27'>ßen Studiums sehne ich mich vorderhand nach unserm Wien</l>
+					<l facs='#facs_5_tl_28'>sehr wenig zurück. Du wohl auch nicht, der jetzt sicher ein ab¬</l>
+					<l facs='#facs_5_tl_29'>wechslungsreicheres Leben führt als wir allhier. Wir sind sehr</l>
+					<l facs='#facs_5_tl_30'>begierig auf Deine Nachrichten, deren Du für uns wohl in¬</l>
+					<l facs='#facs_5_tl_31'>teressantere bereit haben wirst als wir für Dich. Jeden Vor¬</l>
+					<l facs='#facs_5_tl_32'>mittag von der Entdeckung neuer Bacillen zu hören und gleich</l>
+					<l facs='#facs_5_tl_33'>dazu von einem Mittel, das sie bereits in hunderttausendper¬</l>
+					<l facs='#facs_5_tl_34'>zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) - wie</l>
+				</lg>
+			</p>
+			<p facs='#facs_5_r_7_1'>
+				<lg>
+					<l facs='#facs_5_tl_35'>5</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

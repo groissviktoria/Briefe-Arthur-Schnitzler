@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Karl Emil Franzos</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">28-29</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-29">29. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Karl Emil Franzos</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
+29. 4. 88.</dateline>
+                  <salute>Hochverehrter Herr!</salute>
+               </opener>
+               <p>Ich nehme mir die Freiheit, Ihnen zwei Erzählungen zu über¬
+senden, von denen ich mir selbst kaum einbilden will, daß sie
+für Ihre „Dtsch. Dichtung der Vorzüge genug besitzen. Je¬
+denfalls aber wäre mir ein Urtheil von Ihnen höchst er¬
+wünscht, um das Sie hiemit zwar unbescheiden, aber herzlichst
+gebeten sind. Ich unterließ es, persönlich mit Ihnen über diese
+Sache zu reden, da ich in dem Augenblicke dieser Bitte am
+liebsten ein ganz und gar unbekannter, gewiß aber nicht der
+gut empfohlene und so liebenswürdig aufgenommene „Sohn
+meines Vatersg sein möchte.</p>
+               <closer>Mit besondrer Hochachtung</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

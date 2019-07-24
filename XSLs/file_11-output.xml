@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Olga Waissnir</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">12-13</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="" notAfter=""/>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnir</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien,
+12. Nov. 1886.</dateline>
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Da sitz ich ungeheuer gemütlich meine Nachmittagscigarre
+rauchend in der Kanzlei unsrer Abtheilung und werde von
+Satz zu Satz von den Leuten, die kommen u gehn, unterbro¬
+chen. Die Leute, die da kommen und gehn, sind nemlich die
+Anverwandten der Unglücklichen, die sich auf der psychia¬
+trischen Klinik befinden, und mir liegt die Verpflichtung ob,
+ihnen die Karten zu geben, welche zum Besuche der Kranken
+berechtigen. Welch ein Bild des Elends entrollt sich dal Ich, der
+doch eigentlich noch nicht so ganz im ärztlichen Berufe auf¬
+gegangen ist, sehe alles sozusagen von verschiedenen Stand¬
+punkten — Was für manche andre vielleicht flüchtig vorüber¬
+geht, gewinnt für mich sozusagen die Bedeutung einer Scene
+— pafst sich gewissermaßen meinem literarischen Gefühl an
+und erregt in mir das, was man so vieldeutig „Stimmung
+nennt. Sie begreifen, daß ich mich ununterbrochen als Zu¬
+schauer einer Menge von bürgerlichen Trauerspielen fühle.
+L'assommoir könnte die Mehrzahl heißen! Die Odigkeit der
+Existenz jagt die armen Teufel in die Schnapsboutique (Som¬
+lauer war es nicht), und dann jagt sie der Schnaps in den Irr¬
+sinn — zu uns. Oh ich könnte Ihnen Dramen erzählen! - Und
+jetzt — die Contraste! Man spaziert aus der Zelle der Tobsüch¬
+tigen heraus und überlegt gerade, was für ein schneidiges Ge¬fühl der Kesselflicker jetzt haben muß, welcher sich fest ein¬
+bildet, er habe eine Million geerbt - und findet sich auch schon
+auf der Straße unter einer Masse von Vernünftigen! Es gibt
+wirklich viel von der Sorte —— Und eine viertel Stunde später
+streckt man sich behaglich auf einem Fauteuil im Café aus und
+freut sich, wie fidel die Vernünftigen Billard und Karten spie¬
+len.. Und ein paar Momente später findet man sich in einem
+Concertsaale wieder, und es umbraust einen in all ihrer un¬
+faßbaren Göttlichkeit Musik mit all ihren Wundern. Man
+schließt die Augen und schwelgt. Doch auch nicht; wenn z.B.
+irgend ein unmögliches Frauenzimmer aufs Podium tritt und
+mit einer stupenden Stimmlosigkeit eine Arie angeblich
+esingts. O Dilettanten! Dilettanten! - Sie sind die Tempel¬
+schänder im Heiligtum der Kunst —Im übrigen bewundere ich Ihre Intuitionsgabe. Nur Sie kön¬
+nen eine solche besitzen. Auch möchte ich, wenn sich doch
+einige kleine Fehler eingeschlichen haben, lieber die Wirklich¬
+keit als Ihre Intuition corrigiren. Was den Glückstag betrifft,
+so ging er mit jener Spurlosigkeit vorüber, welche sämtliche in
+der letzten Zeit hingegangnen Tage auszeichnete. Hélas!Lesen Sie was schönes? Und was? Abgesehen von den deut¬
+schen Sagen, von denen ich hoffe, daß dieselben Sie mit eben
+derselben unsagbaren Gewalt anregen und fesseln wie mich.
+Ich kann mir nicht denken, dafs sich in dieser Hinsicht meine
+Vorliebe auch nur um den Schein eines Scheins je würde än¬
+dern können. Es gibt nichts herrlicheres für mich!</p>
+               <closer>Nehmen Sie den ehrfurchtsvollsten Gruß von Ihrem unver¬
+änderlich ergebenen
+ArthSch</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">10-12</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-10-31">31. 10. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>31/10 86</dateline>
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Um mich ganz „hineinzufeuerng in die Medizin, halte ich
+morgen meinen feierlichen Einzug ins Krankenhaus als Se¬
+cundararzt der psychiatrischen Abtheilung. da ich ein Stim¬
+mungsfex bin, liegt mir das Gebiet am nächsten. Oh, ich
+schwärme für Contraste! Denken Sie nur! man unterhält sich
+mit einem Verrückten und läßt sich von den Trugbildern sei¬
+ner Phantasie umgaukeln — und dann tritt man hinaus — mit¬
+ten in das Reich der Vernunft — unter seinesgleichen sozusagen
+und berauscht sich geradezu an all der Masse von Verstand,
+die noch auf der Welt herrscht. Alles in allem genommen übt
+der Wahnsinn einen zauberischen Reiz auf mich aus. Stellen
+Sie sich einen gewöhnlichen Menschen vor... haben Sie sich
+ihn vorgestellt — gutl denken Sie sich ein halbstündiges Ge¬
+spräch mit ihm nichts wird berührt, was nicht die bare All¬
+täglichkeit wäre ... man taucht unter in Banalität — der
+Mensch wird verrückt. Plötzlich ist er geistreich, amusant. Er
+redet Unsinn — aber es steckt Originalität — manchmal viel¬
+leicht was großes darin! Sein Geist spinnt Fäden zwischen den
+heterogensten Dingen, die er früher mit seinem armseligen
+Normalverstand nie hätte knüpfen können. Er wird phanta¬
+stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.Gleichviel; es sind sozusagen die Truppen da  nur fehlt die
+Strategie.Allerdings könnt ich das auch ganz anders malen; weit andre
+Bilder aufrollen - aber da wir nur in Briefen und nicht in Oe¬
+tavbänden correspondiren, muß ich darauf verzichten. Da
+morgen nicht nur der erste - sondern noch dazu ein Montag
+ist, wäre morgen eine glänzende Gelegenheit, etwas Ge¬
+scheidtes anzufangen; und da der Montag noch dazu ein Feier¬
+tag ist, könnte es mit einer gewissen Feierlichkeit geschehen!
+„Ins allgemeine möcht ich gerne tauchen und mit dem großen
+Strom der Zeiten gehn. Aus dem vollen leben! Das wäre es!Schon wieder Gelegenheit zu einem Octavband, der wahr¬
+scheinlich etwas confus ausfallen würde. — Die verrückte Ab¬
+theilung wirft ihre Schatten voraus. —Mein Zimmer im Spital will ich mir möglichst ostimmungs¬
+voll herrichten. Ich gehöre nemlich zu den unglückseligen
+Leuten, die eine weiße Tapete am Arbeiten hindern kann.
+Gute Ausrede, denken Sie sich. - Und dann ist’s auch wegen
+der Contraste! — Ich bitte sehr: stellen Sie sich vor, dieser Brief
+sei ein Auszug aus einem unglaublich langen Briefe, der Ihnen
+eigentlich zugedacht ist. Mein Geist wirft sonderbare Blasen
+aufs. An jede einzelne Bemerkung schließen sich nemlich in
+meinem Kopf eine solche Fülle von andern an, dass es mir um
+den Kopf, die Bemerkungen und manches andere beinahe leid
+thut. — Jal noch etwas literarisches! Ihr Interesse für den alten
+Sagenkreis hat, wie Sie ja wissen, meine lebhafte Zustimmung;
+aber ich muß sagen, in manchem kenn ich mich kaum aus, was
+mich natürlich (bei meiner Sympathie für die alte deutsche
+Literatur) häufig verstimmt. Wenn es mir nur Zeit und Um¬
+stände gestatteten mich intensiver mit all den alten Liedern zu
+beschäftigen! Wenn ich könnte, wie ich wollte; es wäre un¬
+sagbar herrlich; ich schwärme für die alte deutsche Sage. (Wie¬
+der ein Octavband.) — Herrn M.C. Herz hab ich neulich ge¬
+sprochen; im Momente, wo ich diese Zeilen schreibe, dürfte er
+wohl in Reichenau sein, wohin er, wie er mir sagt, jeden Sonn¬tag wallfahrtet. „Dem Walde dank ich seinen Grußg. Wie
+schön muß es jetzt da draußen sein! Hier — schrecklich! die
+Sonne und dabei ein kalter Wind, der die letzten gelben Blät¬
+ter über den Ring hinfegt. — Die Natur ist trübsinnig und ver¬
+sucht zu lächeln. —Erlauben Sie mir, Ihnen meine ehrfurchtsvollsten Grüße zu
+senden und erfreuen Sie bald mit ein paar Zeilen</p>
+               <closer>Ihren ergebenen
+Arthur Schnitzler</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>

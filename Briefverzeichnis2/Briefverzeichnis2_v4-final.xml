@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Briefverzeichnis2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>TRP document creator: viktoria.groiss@aidnet.at</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<list>
+
+				<item>
+					<name>Otto Abeles</name>
+					<date when="1924-02-09">9. 2. 1924</date>
+				</item>
+				<item>
+					<name>Ida d’Albert</name>
+					<date when="1913-05-13">13. 5. 1913</date>
+				</item>
+				<item>
+					<name>Peter Altenberg</name>
+					<date when="1913-04-22">22. 4. 1913</date>
+				</item>
+				<item>
+					<name>Anton Amon</name>
+					<date when="1924-11-24">24. 11. 1924</date>
+				</item>
+				<item>
+					<name>Marja Fjodorowna Andrejewana</name>
+					<date when="1921-04-18">18. 4. 1921</date>
+				</item>
+				<item>
+					<name>Leopold Freiherr von Andrian</name>
+					<date when="1913-01-22">22. 1. 1913</date>
+				</item>
+				<item>
+					<name>Paul Apel</name>
+					<date when="1913-10-30">30. 10. 1913</date>
+					<date when="1915-12-13">13. 12. 1915</date>
+					<date when="1916-01-10">10. 1. 1916</date>
+				</item>
+				<item>
+					<name>Robert Arnold</name>
+					<date when="1923-03-05">5. 3. 1923</date>
+				</item>
+				<item>
+					<name>Joseph S. Asch</name>
+					<date when="1924-08-04">4. 8. 1924</date>
+					<date when="1924-10-16">16. 10. 1924</date>
+				</item>
+				<item>
+					<name>Alfred Auerbach</name>
+					<date when="1931-10-07">7. 10. 1931</date>
+				</item>
+				<item>
+					<name>Raoul Auernheimer</name>
+					<date when="1926-04-22">22. 4. 1926</date>
+					<date when="1928-05-14">14. 5. 1928</date>
+					<date when="1928-05-17">17. 5. 1928</date>
+				</item>
+				<item>
+					<name>Nathan Ausubel</name>
+					<date when="1924-07-17">17. 7. 1924</date>
+				</item>
+				<item>
+					<name>David Josef Bach</name>
+					<date when="1922-05-26">26. 5. 1922</date>
+				</item>
+				<item>
+					<name>Hermann Bahr</name>
+					<date when="1913-04-22">22. 4. 1913</date>
+					<date when="1914-06-12">12. 6. 1914</date>
+					<date cert="low" when="1923-07-01">1. 7. 1923</date>
+				</item>
+				<item>
+					<name>Paul Barnay</name>
+					<date when="1924-07-21">21. 7. 1924</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Victor Barnowsky</name>
+					<date cert="low" when="1914-10-30">30. 10. 1914</date>
+					<date when="1914-11-18">18. 11. 1914</date>
+					<date when="1915-05-31">31. 5. 1915</date>
+				</item>
+				<item>
+					<name>Ludwig Bauer</name>
+					<date when="1920-02-16">16. 2. 1920</date>
+				</item>
+				<item>
+					<name>Sylvia Beach</name>
+					<date when="1927-01-13">13. 1. 1927</date>
+				</item>
+				<item>
+					<name>Bodil Bech</name>
+					<date when="1929-07-22">22. 7. 1929</date>
+				</item>
+				<item>
+					<name>Richard Beer-Hofmann</name>
+					<date when="1917-07-23">23. 7. 1917</date>
+				</item>
+				<item>
+					<name>Franz Beiderwieden</name>
+					<date when="1923-12-22">22. 12. 1923</date>
+				</item>
+				<item>
+					<name>Oscar Bendiener</name>
+					<date when="1930-05-01">1. 5. 1930</date>
+				</item>
+				<item>
+					<name>Elisabeth Bergner</name>
+					<date when="1931-04-09">9. 4. 1931</date>
+				</item>
+				<item>
+					<name>Oskar Bergstroem</name>
+					<date when="1921-12-28">28. 12. 1921</date>
+				</item>
+				<item>
+					<name>Alfred Bernau</name>
+					<date when="1922-02-06">6. 2. 1922</date>
+					<date when="1922-03-27">27. 3. 1922</date>
+					<date when="1926-07-22">22. 7. 1926</date>
+				</item>
+				<item>
+					<name>Murray C. Bernays</name>
+					<date when="1924-06-11">11. 6. 1924</date>
+				</item>
+				<item>
+					<name>Ilse Bernheimer</name>
+					<date when="1918-03-20">20. 3. 1918</date>
+				</item>
+					<item>	<name>Herman Bernstein</name>
+					<date when="1923-10-08">8. 10. 1923</date>
+					<date when="1924-03-19">19. 3. 1924</date>
+				</item>
+				<item>
+					<name>Sergiusvon Berthensson</name>
+					<date when="1921-10-17">17. 10. 1921</date>
+					<date when="1921-11-28">28. 11. 1921</date>
+				</item>
+				<item>
+					<name>Anton Bettelheim</name>
+					<date when="1925-12-07">7. 12. 1925</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Bezirksgericht Fünfhaus</name>
+					<date when="1922-09-18">18. 9. 1922</date>
+				</item>
+				<item>
+					<name>Julius Bittner</name>
+					<date cert="low" when="1913-02-03">3. 2. 1913</date>
+					<date when="1922-02-10">10. 2. 1922</date>
+					<date when="1922-03-07">7. 3. 1922</date>
+				</item>
+				<item>
+					<name>Paul Block</name>
+					<date when="1915-01-27">27. 1. 1915</date>
+				</item>
+				<item>
+					<name>Börsenverein der Deutschen Buchhändler Börsenverein</name>
+					<date when="1929-10-31">31. 10. 1929</date>
+				</item>
+				<item>
+					<name>Georgette Boner</name>
+					<date when="1927-03-19">19. 3. 1927</date>
+					<date when="1929-01-29">29. 1. 1929</date>
+					<date when="1930-06-02">2. 6. 1930</date>
+					<date when="1931-06-20">20. 6. 1931</date>
+				</item>
+				<item>
+					<name>Book-of-the-Month Club</name>
+					<date when="1929-02-04">4. 2. 1929</date>
+					<date when="1929-05-23">23. 5. 1929</date>
+					<date when="1929-07-13">13. 7. 1929</date>
+					<date cert="low" when="1930-02-01">1. 2. 1930</date>
+					<date when="1930-02-12">12. 2. 1930</date>
+					<date when="1930-06-26">26. 6. 1930</date>
+					<date when="1930-11-10">10. 11. 1930</date>
+					<date when="1931-01-19">19. 1. 1931</date>
+					<date when="1931-04-11">11. 4. 1931</date>
+				</item>
+				<item>
+					<name>Edouard Bourdet</name>
+					<date when="1929-10-24">24. 10. 1929</date>
+				</item>
+				<item>
+					<name>Georg Brandes</name>
+					<date when="1913-02-27">27. 2. 1913</date>
+					<date when="1914-10-20">20. 10. 1914</date>
+					<date when="1915-12-09">9. 12. 1915</date>
+					<date when="1915-12-22">22. 12. 1915</date>
+					<date when="1918-08-02">2. 8. 1918</date>
+					<date when="1920-08-16">16. 8. 1920</date>
+					<date cert="low" when="1921-12-28">28. 12. 1921</date>
+
+
+
+
+
+					<date when="1922-01-30">30. 1. 1922</date>
+					<date when="1925-07-07">7. 7. 1925</date>
+					<date cert="low" when="1925-07-29">29. 7. 1925.</date>
+				</item>
+				<item>
+					<name>Oswald Brüll</name>
+					<date when="1915-01-13">13. 1. 1915</date>
+				</item>
+				<item>
+					<name>Lili Cappellini</name>
+					<date when="1927-07-22">22. 7. 1927</date>
+				
+					<date when="1927-10-29">29. 10. 1927</date>
+					<date when="1927-11-16">16. 11. 1927</date>
+					<date when="1928-01-14">14. 1. 1928</date>
+					<date when="1928-03-02">2. 3. 1928</date>
+					<date when="1928-03-07">7. 3. 1928</date>
+				</item>
+				<item>
+					<name>Gustav Charlé</name>
+					<date when="1927-03-05">5. 3. 1927</date>
+				</item>
+				<item>
+					<name>Richard Charmatz</name>
+					<date when="1913-01-04">4. 1. 1913</date>
+					<date when="1917-12-12">12. 12. 1917</date>
+				</item>
+				<item>
+					<name>Suzanne Clauser</name>
+					<date when="1928-11-13">13. 11. 1928</date>
+					<date when="1928-11-23">23. 11. 1928</date>
+					<date when="1929-07-23">23. 7. 1929</date>
+					<date when="1929-08-06">6. 8. 1929</date>
+					<date when="1929-08-18">18. 8. 1929</date>
+					<date when="1930-01-03">3. 1. 1930</date>
+					<date when="19030-01-05">5. 1. 19030</date>
+					<date when="1930-01-07">7. 1. 1930</date>
+					<date when="1930-01-07">7. 1. 1930</date>
+					<date when="1930-01-12">12. 1. 1930</date>
+					<date when="1930-01-17">17. 1. 1930</date>
+					<date when="1930-01-22">22. 1. 1930</date>
+					<date when="1930-05-03">3. 5. 1930</date>
+					<date when="1930-05-07">7. 5. 1930</date>
+					<date when="1930-07-21">21. 7. 1930</date>
+					<date when="1930-07-24">24. 7. 1930</date>
+					<date when="1930-07-31">31. 7. 1930</date>
+					<date when="1930-08-06">6. 8. 1930</date>
+					<date when="1930-08-15">15. 8. 1930</date>
+					<date when="1930-08-16">16. 8. 1930</date>
+					<date when="1930-08-28">28. 8. 1930</date>
+					<date when="1930-09-01">1. 9. 1930</date>
+					<date when="1930-11-12">12. 11. 1930</date>
+					<date when="1930-11-13">13. 11. 1930</date>
+
+
+
+
+					<date when="1930-11-17">17. 11. 1930</date>
+					<date when="1931-01-26">26. 1. 1931</date>
+					<date when="1931-02-02">2. 2. 1931</date>
+					<date when="1931-02-04">4. 2. 1931</date>
+					<date when="1931-02-06">6. 2. 1931</date>
+					<date when="1931-02-08">8. 2. 1931</date>
+					<date when="1931-02-09">9. 2. 1931</date>
+					<date when="1931-02-12">12. 2. 1931</date>
+					<date when="1931-07-14">14. 7. 1931</date>
+					<date when="1931-07-18">18. 7. 1931</date>
+					<date when="1931-07-22">22. 7. 1931</date>
+					<date when="1931-07-26">26. 7. 1931</date>
+					<date when="1931-08-17">17. 8. 1931</date>
+					<date when="1931-08-27">27. 8. 1931</date>
+					<date when="1931-09-03">3. 9. 1931</date>
+					<date when="1931-09-09">9. 9. 1931</date>
+					<date when="1931-09-09">9. 9. 1931</date>
+					<date when="1931-09-12">12. 9. 1931</date>
+				</item>
+				<item>
+					<name>Cyril Clemens</name>
+					<date when="1931-01-19">19. 1. 1931</date>
+				</item>
+				<item>
+					<name>Miriam M. Cohen</name>
+					<date when="1929-11-21">21. 11. 1929</date>
+					<date when="1929-12-05">5. 12. 1929</date>
+				</item>
+				<item>
+					<name>Richard Nikolaus Graf Coudenhove-Kalergi</name>
+					<date when="1929-11-07">7. 11. 1929</date>
+				</item>
+				<item>
+					<name>Eugen Deimel</name>
+					<date when="1914-09-23">23. 9. 1914</date>
+				</item>
+				<item>
+					<name>Grete Dessoff</name>
+					<date when="1917-04-02">2. 4. 1917</date>
+				</item>
+				<item>
+					<name>Deutsches Landestheater Prag</name>
+					<date when="1915-12-20">20. 12. 1915</date>
+				</item>
+				<item>
+					<name>Max Devrient</name>
+					<date cert="low" when="1917-04-13">13. 4. 1917</date>
+					<date when="1927-12-12">12. 12. 1927</date>
+				</item>
+				<item>
+					<name>Paul Diamant</name>
+					<date when="1925-07-20">20. 7. 1925</date>
+				</item>
+				<item>
+					<name>Tilla Durieux</name>
+					<date when="1921-02-21">21. 2. 1921</date>
+				</item>
+				<item>
+					<name>Paul Eger</name>
+
+
+
+
+					<date when="1919-08-06">6. 8. 1919</date>
+					<date when="1919-08-20">20. 8. 1919</date>
+				</item>
+				<item>
+					<name>Josef Eidler</name>
+					<date when="1927-06-07">7. 6. 1927</date>
+				</item>
+				<item>
+					<name>Otto Eirich</name>
+					<date when="1924-06-12">12. 6. 1924</date>
+				</item>
+				<item>
+					<name>Ignaz Ekstein</name>
+					<date when="1915-04-28">28. 4. 1915</date>
+				</item>
+				<item>
+					<name>Fritz Endell</name>
+					<date when="1920-10-23">23. 10. 1920</date>
+				</item>
+				<item>
+					<name>Fritz Engel</name>
+					<date when="1928-07-14">14. 7. 1928</date>
+				</item>
+				<item>
+					<name>Paul Englisch</name>
+					<date when="1928-09-27">27. 9. 1928</date>
+				</item>
+				<item>
+					<name>Morris L. Ernst</name>
+					<date when="1930-10-29">29. 10. 1930</date>
+					<date when="1930-11-24">24. 11. 1930</date>
+					<date when="1930-12-24">24. 12. 1930</date>
+				</item>
+				<item>
+					<name>Erich Everth</name>
+					<date when="1919-01-27">27. 1. 1919</date>
+				</item>
+				<item>
+					<name>Paul Federn</name>
+					<date when="1919-04-18">18. 4. 1919</date>
+				</item>
+				<item>
+					<name>Samuel Fischer</name>
+					<date when="1913-05-05">5. 5. 1913</date>
+					<date when="1913-05-13">13. 5. 1913</date>
+					<date when="1914-09-30">30. 9. 1914</date>
+					<date when="1915-02-05">5. 2. 1915</date>
+					<date when="1915-03-10">10. 3. 1915</date>
+					<date when="1915-05-22">22. 5. 1915</date>
+					<date when="1919-01-15">15. 1. 1919</date>
+					<date when="1920-07-05">5. 7. 1920</date>
+					<date when="1923-08-28">28. 8. 1923</date>
+					<date when="1923-10-25">25. 10. 1923</date>
+					<date when="1923-11-08">8. 11. 1923</date>
+					<date when="1928-11-12">12. 11. 1928</date>
+					<date cert="low" when="1929-12-24">Zum 24. 12. 1929</date>
+					<date when="1930-02-26">26. 2. 1930</date>
+					<date when="1930-04-05">5. 4. 1930</date>
+				</item>
+				<item>
+					<name>S. Fischer (Verlag)</name>
+					<date when="1926-07-05">5. 7. 1926</date>
+				</item>
+				<item>
+					<name>Alfred Hermann Fried</name>
+
+
+
+
+
+					<date when="1919-03-19">19. 3. 1919</date>
+				</item>
+				<item>
+					<name>Leo Fromm</name>
+					<date when="1915-01-24">24. 1. 1915</date>
+				</item>
+				<item>
+					<name>Ludwig Fulda</name>
+					<date when="1921-11-29">29. 11. 1921</date>
+					<date when="1927-12-31">31. 12. 1927</date>
+					<date when="1928-07-01">1. 7. 1928</date>
+					<date when="1930-08-15">15. 8. 1930</date>
+					<date when="1930-12-20">20. 12. 1930</date>
+					<date when="1931-03-04">4. 3. 1931</date>
+				</item>
+				<item>
+					<name>Adolf Gelber</name>
+					<date when="1915-12-22">22. 12. 1915</date>
+				</item>
+				<item>
+					<name>Firmin Gémier</name>
+					<date when="1927-12-12">12. 12. 1927</date>
+					<date when="1928-01-09">9. 1. 1928</date>
+				</item>
+				<item>
+					<name>Louis Gillet</name>
+					<date when="1929-08-12">12. 8. 1929</date>
+					<date when="1929-10-24">24. 10. 1929</date>
+				</item>
+				<item>
+					<name>Paul Goldmann</name>
+					<date when="1925-03-09">9. 3. 1925</date>
+				</item>
+				<item>
+					<name>Maxim Gorki</name>
+					<date when="1921-04-18">18. 4. 1921</date>
+				</item>
+				<item>
+					<name>Leo Greiner</name>
+					<date when="1922-03-13">13. 3. 1922</date>
+					<date when="1922-04-07">7. 4. 1922</date>
+				</item>
+				<item>
+					<name>Kuno Grohmann</name>
+					<date when="1931-01-19">19. 1. 1931</date>
+				</item>
+				<item>
+					<name>Stefan Grossmann</name>
+					<date when="1921-02-17">17. 2. 1921</date>
+				</item>
+				<item>
+					<name>Willy Haas</name>
+					<date when="1927-02-19">19. 2. 1927</date>
+					<date when="1930-09-24">24. 9. 1930</date>
+				</item>
+				<item>
+					<name>Gerhart Hauptmann</name>
+					<date when="1922-03-17">17. 3. 1922</date>
+					<date when="1929-11-27">27. 11. 1929</date>
+				</item>
+				<item>
+					<name>Werner Hegemann</name>
+					<date when="1924-10-18">18. 10. 1924</date>
+					<date when="1925-06-06">6. 6. 1925</date>
+					<date when="1925-07-09">9. 7. 1925</date>
+					<date when="1925-12-28">28. 12. 1925</date>
+					<date when="1930-07-15">15. 7. 1930</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Carl Heine</name>
+					<date when="1913-12-19">19. 12. 1913</date>
+				</item>
+				<item>
+					<name>Wilhelm Heller</name>
+					<date when="1913-04-29">29. 4. 1913</date>
+					<date when="1913-05-05">5. 5. 1913</date>
+				</item>
+				<item>
+					<name>Hans Henning</name>
+					<date when="1914-04-02">2. 4. 1914</date>
+				</item>
+				<item>
+					<name>Edgar Herbst</name>
+					<date when="1913-10-06">6. 10. 1913</date>
+				</item>
+				<item>
+					<name>Franz Herterich</name>
+					<date when="1924-08-15">15. 8. 1924</date>
+					<date when="1926-04-08">8. 4. 1926</date>
+					<date when="1927-07-09">9. 7. 1927</date>
+					<date when="1928-03-24">24. 3. 1928</date>
+					<date when="1928-05-10">10. 5. 1928</date>
+				</item>
+				<item>
+					<name>Ludwig Hirschfeld</name>
+					<date when="1919-02-22">22. 2. 1919</date>
+				</item>
+				<item>
+					<name>Hugovon Hofmannsthal</name>
+					<date when="1914-03-28">28. 3. 1914</date>
+					<date when="1919-10-01">1. 10. 1919</date>
+					<date when="1923-01-15">15. 1. 1923</date>
+					<date when="1928-07-21">21. 7. 1928</date>
+				</item>
+				<item>
+					<name>Hans Homma</name>
+					<date when="1930-05-21">21. 5. 1930</date>
+				</item>
+				<item>
+					<name>Franz Horch</name>
+					<date when="1929-11-09">9. 11. 1929</date>
+					<date when="1929-11-13">13. 11. 1929</date>
+					<date when="1931-01-19">19. 1. 1931</date>
+				</item>
+				<item>
+					<name>Roy Temple House</name>
+					<date when="1931-03-18">18. 3. 1931</date>
+				</item>
+				<item>
+					<name>Ben W. Huebsch</name>
+					<date when="1930-02-12">12. 2. 1930</date>
+				</item>
+				<item>
+					<name>Hans Jacob</name>
+					<date when="1924-10-27">27. 10. 1924</date>
+				</item>
+				<item>
+					<name>Lucy von Jacobi</name>
+					<date when="1921-02-27">27. 2. 1921</date>
+					<date when="1921-03-09">9. 3. 1921</date>
+				</item>
+				<item>
+					<name>Leopold Jacobson</name>
+					<date when="1926-01-07">7. 1. 1926</date>
+				</item>
+				<item>
+					<name>Siegfried Jacoby</name>
+					<date when="1923-06-01">1. 6. 1923</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Edmond Jaloux</name>
+					<date when="1926-10-24">24. 10. 1926</date>
+				</item>
+				<item>
+					<name>Alexander Jaray</name>
+					<date when="1916-01-03">3. 1. 1916</date>
+				</item>
+				<item>
+					<name>Josef Jarno</name>
+					<date when="1919-03-31">31. 3. 1919</date>
+				</item>
+				<item>
+					<name>Alexander Joles</name>
+					<date when="1931-06-20">20. 6. 1931</date>
+				</item>
+				<item>
+					<name>Jacques Jolowitz</name>
+					<date when="1917-02-26">26. 2. 1917</date>
+				</item>
+				<item>
+					<name>Clara Jonas</name>
+					<date when="1913-11-24">24. 11. 1913</date>
+				</item>
+				<item>
+					<name>Herr Jonath</name>
+					<date when="1919-04-26">26. 4. 1919</date>
+				</item>
+				<item>
+					<name>Marc Kalckar</name>
+					<date when="1925-05-09">9. 5. 1925</date>
+				</item>
+				<item>
+					<name>Theodor Kappstein</name>
+					<date when="1922-07-24">24. 7. 1922</date>
+				</item>
+				<item>
+					<name>Alfred Kerr</name>
+					<date when="1918-07-05">5. 7. 1918</date>
+					<date when="1925-01-28">28. 1. 1925</date>
+				</item>
+				<item>
+					<name>Georg C. Klaren</name>
+					<date when="1927-07-23">23. 7. 1927</date>
+				</item>
+				<item>
+					<name>Josef Körner</name>
+					<date when="1926-03-20">20. 3. 1926</date>
+					<date when="1931-01-19">19. 1. 1931</date>
+					<date cert="low" when="1931-04-08">8. 4. 1931</date>
+				</item>
+				<item>
+					<name>Komitee zum Wiederaufbau der deutschen Angelegenheiten</name>
+					<date when="1919-02-10">10. 2. 1919</date>
+				</item>
+				<item>
+					<name>Friedrich Korger</name>
+					<date when="1928-05-05">5. 5. 1928</date>
+				</item>
+				<item>
+					<name>Eduard Korrodi</name>
+					<date when="1915-04-02">2. 4. 1915</date>
+				</item>
+				<item>
+					<name>Leopold Kramer</name>
+					<date when="1919-02-24">24. 2. 1919</date>
+					<date when="1919-03-31">31. 3. 1919</date>
+				</item>
+				<item>
+					<name>Rudolf Jeremias Kreutz</name>
+					<date when="1930-09-20">20. 9. 1930</date>
+
+
+
+
+
+				</item>
+				<item>
+					<name>Richard Lányi</name>
+					<date when="1922-11-30">30. 11. 1922</date>
+					<date when="1922-12-09">9. 12. 1922</date>
+				</item>
+				<item>
+					<name>Isaac Levine</name>
+					<date when="1925-04-14">14. 4. 1925</date>
+				</item>
+				<item>
+					<name>Gustaf Linden</name>
+					<date when="1915-12-22">22. 12. 1915</date>
+					<date when="1921-02-10">10. 2. 1921</date>
+					<date when="1921-04-25">25. 4. 1921</date>
+					<date when="1921-12-19">19. 12. 1921</date>
+				</item>
+				<item>
+					<name>Jakob Lippowitz</name>
+					<date when="1925-05-23">23. 5. 1925</date>
+				</item>
+				<item>
+					<name>Sol Liptzin</name>
+					<date when="1930-11-10">10. 11. 1930</date>
+					<date when="1930-11-26">26. 11. 1930</date>
+					<date when="1931-01-19">19. 1. 1931</date>
+					<date when="1931-03-21">21. 3. 1931</date>
+					<date when="1931-05-13">13. 5. 1931</date>
+				</item>
+				<item>
+					<name>Johann Löbl</name>
+					<date when="1915-11-03">3. 11. 1915</date>
+				</item>
+				<item>
+					<name>Grete Lorma</name>
+					<date when="1915-11-24">24. 11. 1915</date>
+				</item>
+				<item>
+					<name>Rudolph Lothar</name>
+					<date when="1917-12-24">24. 12. 1917</date>
+					<date when="1922-10-16">16. 10. 1922</date>
+				</item>
+				<item>
+					<name>Pierre Loving</name>
+					<date when="1920-05-08">8. 5. 1920</date>
+				</item>
+				<item>
+					<name>Alma Mahler</name>
+					<date when="1928-05-04">4. 5. 1928</date>
+					<date when="1929-08-04">4. 8. 1929</date>
+				</item>
+				<item>
+					<name>Heinrich Mann</name>
+					<date when="1917-10-03">3. 10. 1917</date>
+					<date when="1919-01-03">3. 1. 1919</date>
+					<date when="1920-11-18">18. 11. 1920</date>
+					<date when="1922-02-09">9. 2. 1922</date>
+					<date when="1922-12-28">28. 12. 1922</date>
+				</item>
+				<item>
+					<name>Thomas Mann</name>
+					<date when="1922-12-28">28. 12. 1922</date>
+					<date when="1924-11-06">6. 11. 1924</date>
+					<date when="1929-01-30">30. 1. 1929</date>
+				</item>
+				<item>
+					<name>Lilli Marberg</name>
+					<date when="1918-03-04">4. 3. 1918</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Konrad Maril</name>
+					<date when="1925-12-12">12. 12. 1925</date>
+					<date when="1926-03-01">1. 3. 1926</date>
+					<date when="1927-10-27">27. 10. 1927</date>
+					<date when="1927-11-07">7. 11. 1927</date>
+					<date cert="low" when="1928-08-13">13. 8. 1928</date>
+				</item>
+				<item>
+					<name>Carl Marilaun</name>
+					<date when="1931-01-22">22. 1. 1931</date>
+				</item>
+				<item>
+					<name>Gustav Meyrink</name>
+					<date when="1914-04-27">27. 4. 1914</date>
+				</item>
+				<item>
+					<name>Dora Michaelis</name>
+					<date when="1920-11-11">11. 11. 1920</date>
+					<date when="1920-11-22">22. 11. 1920</date>
+					<date when="1921-01-03">3. 1. 1921</date>
+					<date when="1921-02-05">5. 2. 1921</date>
+				</item>
+				<item>
+					<name>Karl Michaelis</name>
+					<date cert="low" when="1931-01-07">7. 1. 1931</date>
+				</item>
+				<item>
+					<name>Max von Millenkovich</name>
+					<date cert="low" when="1917-06-26">26. 6. 1917</date>
+				</item>
+				<item>
+					<name>Philip Moeller</name>
+					<date when="1931-01-30">30. 1. 1931</date>
+					<date when="1931-03-07">7. 3. 1931</date>
+				</item>
+				<item>
+					<name>Leopold Moll</name>
+					<date when="1927-11-07">7. 11. 1927</date>
+				</item>
+				<item>
+					<name>Max Montor</name>
+					<date when="1926-10-02">2. 10. 1926</date>
+				</item>
+				<item>
+					<name>Adelbert Muhr</name>
+					<date when="1919-04-03">3. 4. 1919</date>
+					<date when="1919-04-07">7. 4. 1919</date>
+					<date when="1919-04-11">11. 4. 1919</date>
+				</item>
+				<item>
+					<name>Robert Musil</name>
+					<date when="1922-02-12">12. 2. 1922</date>
+				</item>
+				<item>
+					<name>Franz Nabl</name>
+					<date when="1927-05-21">21. 5. 1927</date>
+				</item>
+				<item>
+					<name>Neue Jüdische Monatsschau, Redaktion</name>
+					<date when="1931-09-16">16. 9. 1931</date>
+				</item>
+				<item>
+					<name>Gabor Nobl</name>
+					<date when="1925-02-21">21. 2. 1925</date>
+				</item>
+				<item>
+					<name>Heinrich G. Noren</name>
+
+
+
+
+					<date when="1923-01-25">25. 1. 1923</date>
+				</item>
+				<item>
+					<name>Max Paulsen</name>
+					<date when="1923-01-05">5. 1. 1923</date>
+				</item>
+				<item>
+					<name>Herta Perutz</name>
+					<date when="1922-06-16">16. 6. 1922</date>
+				</item>
+				<item>
+					<name>Eduard Poldini</name>
+					<date when="1925-02-21">21. 2. 1925</date>
+				</item>
+				<item>
+					<name>Polizeikommissariat des XVIII Bezirks</name>
+					<date when="1926-06-12">12. 6. 1926</date>
+				</item>
+				<item>
+					<name>Clara Katharina Pollaczek</name>
+					<date when="1925-01-15">15. 1. 1925</date>
+					<date when="1925-01-18">18. 1. 1925</date>
+					<date when="1925-01-22">22. 1. 1925</date>
+					<date when="1925-03-15">15. 3. 1925</date>
+					<date when="1925-03-21">21. 3. 1925</date>
+					<date when="1925-10-18">18. 10. 1925</date>
+					<date when="1927-04-24">24. 4. 1927</date>
+					<date cert="low" when="1928-07-28">28. 7. 1928</date>
+					<date when="1928-08-18">18. 8. 1928</date>
+					<date when="1928-08-21">21. 8. 1928</date>
+					<date when="1928-08-31">31. 8. 1928</date>
+					<date when="1928-10-13">13. 10. 1928</date>
+					<date when="1929-01-03">3. 1. 1929</date>
+					<date when="1929-03-15">15. 3. 1929</date>
+					<date when="1930-07-21">21. 7. 1930</date>
+					<date when="1930-07-30">30. 7. 1930</date>
+					<date when="1930-11-14">14. 11. 1930</date>
+				</item>
+				<item>
+					<name>Frieda Pollak</name>
+					<date when="1920-01-28">28. 1. 1920</date>
+				</item>
+				<item>
+					<name>Robert Adam Pollak</name>
+					<date when="1928-04-10">10. 4. 1928</date>
+				</item>
+				<item>
+					<name>Johannes Jacobus Poortman</name>
+					<date when="1924-04-10">10. 4. 1924</date>
+				</item>
+				<item>
+					<name>Andrea H. Proudfoot</name>
+					<date when="1920-06-05">5. 6. 1920</date>
+					<date when="1920-08-20">20. 8. 1920</date>
+				</item>
+				<item>
+					<name>Leon Reich</name>
+					<date when="1914-04-11">11. 4. 1914</date>
+				</item>
+				<item>
+					<name>Theodor Reik</name>
+
+
+
+
+
+					<date when="1913-12-31">31. 12. 1913</date>
+				</item>
+				<item>
+					<name>Georg Reimers</name>
+					<date notBefore="1925-07-01" notAfter="1925-08-01">7. 1925</date>
+				</item>
+				<item>
+					<name>Paul Reininghaus</name>
+					<date when="1923-12-10">10. 12. 1923</date>
+					<date when="1930-12-13">13. 12. 1930</date>
+				</item>
+				<item>
+					<name>Renaissance-Bühne, Wien</name>
+					<date when="1921-06-28">28. 6. 1921</date>
+				</item>
+				<item>
+					<name>Jakob Reumann</name>
+					<date when="1921-01-14">14. 1. 1921</date>
+				</item>
+				<item>
+					<name>Werner Richter</name>
+					<date when="1920-12-30">30. 12. 1920</date>
+				</item>
+				<item>
+					<name>Romain Rolland</name>
+					<date when="1914-12-14">14. 12. 1914</date>
+					<date when="1915-01-07">7. 1. 1915</date>
+				</item>
+				<item>
+					<name>Robert Roseeu</name>
+					<date when="1913-06-27">27. 6. 1913</date>
+					<date when="1913-12-17">17. 12. 1913</date>
+				</item>
+				<item>
+					<name>Richard Rosenbaum</name>
+					<date cert="low" when="1915-05-05">5. 5. 1915</date>
+				</item>
+				<item>
+					<name>Harry Rosenfeld</name>
+					<date when="1922-04-18">18. 4. 1922</date>
+				</item>
+				<item>
+					<name>Gebrüder Rotter</name>
+					<date when="1927-07-09">9. 7. 1927</date>
+				</item>
+				<item>
+					<name>Heinz Saltner</name>
+					<date when="1930-03-20">20. 3. 1930</date>
+				</item>
+				<item>
+					<name>Felix Salten</name>
+					<date when="1923-07-22">22. 7. 1923</date>
+					<date when="1925-05-06">6. 5. 1925</date>
+					<date when="1927-02-10">10. 2. 1927</date>
+					<date when="1928-04-11">11. 4. 1928</date>
+					<date cert="low" when="1929-09-06">Zum 6. 9 1929</date>
+					<date when="1931-05-30">30. 5. 1931</date>
+				</item>
+				<item>
+					<name>Saltenburgbühnen, Berlin</name>
+					<date when="1925-04-10">10. 4. 1925</date>
+				</item>
+				<item>
+					<name>Max Samst</name>
+					<date when="1931-04-01">1. 4. 1931</date>
+				</item>
+				<item>
+					<name>Adele Sandrock</name>
+					<date when="1913-01-07">7. 1. 1913</date>
+				</item>
+				<item>
+					<name>Carl Schauermann</name>
+
+
+
+
+					<date when="1913-03-26">26. 3. 1913</date>
+					<date when="1913-04-29">29. 4. 1913</date>
+				</item>
+				<item>
+					<name>Hilde Schewior</name>
+					<date when="1928-03-17">17. 3. 1928</date>
+				</item>
+				<item>
+					<name>Otto P. Schinnerer</name>
+					<date when="1929-10-24">24. 10. 1929</date>
+					<date when="1929-11-25">25. 11. 1929</date>
+					<date when="1929-12-27">27. 12. 1929</date>
+					<date when="1930-02-06">6. 2. 1930</date>
+					<date when="1930-07-02">2. 7. 1930</date>
+					<date when="1930-08-24">24. 8. 1930</date>
+					<date when="1930-10-18">18. 10. 1930</date>
+					<date when="1930-11-06">6. 11. 1930</date>
+					<date when="1930-11-24">24. 11. 1930</date>
+					<date when="1931-01-08">8. 1. 1931</date>
+				</item>
+				<item>
+					<name>Heinrich Schnitzler</name>
+					<date when="1914-05-16">16. 5. 1914</date>
+					<date when="1918-08-12">12. 8. 1918</date>
+					<date when="1920-08-16">16. 8. 1920</date>
+					<date when="1921-08-08">8. 8. 1921</date>
+					<date when="1922-04-29">29. 4. 1922</date>
+					<date when="1922-06-09">9. 6. 1922</date>
+					<date when="1922-08-09">9. 8. 1922</date>
+					<date when="1922-08-19">19. 8. 1922</date>
+					<date when="1922-09-05">5. 9. 1922</date>
+					<date when="1922-10-28">28. 10. 1922</date>
+					<date when="1922-10-31">31. 10. 1922</date>
+					<date cert="low" when="1923-05-13">13. 5. 1923</date>
+					<date cert="low" when="1923-05-16">16. 5. 1923</date>
+					<date cert="low" when="1923-05-18">18. 5. 1923</date>
+					<date when="1923-05-20">20. 5. 1923</date>
+					<date when="1923-07-18">18. 7. 1923</date>
+					<date when="1924-07-19">19. 7. 1924</date>
+					<date when="1924-07-29">29. 7. 1924</date>
+					<date when="1924-12-04">4. 12. 1924</date>
+					<date when="1924-12-11">11. 12. 1924</date>
+					<date when="1926-02-22">22. 2. 1926</date>
+					<date when="1927-03-13">13. 3. 1927</date>
+					<date when="1927-06-06">6. 6. 1927</date>
+					<date when="1927-08-05">5. 8. 1927</date>
+					<date when="1927-09-24">24. 9. 1927</date>
+					<date when="1927-10-29">29. 10. 1927</date>
+
+
+
+
+					<date when="1927-11-21">21. 11. 1927</date>
+					<date when="1928-02-02">2. 2. 1928</date>
+					<date when="1928-03-21">21. 3. 1928</date>
+					<date when="1928-04-08">8. 4. 1928</date>
+					<date when="1928-05-09">9. 5. 1928</date>
+					<date when="1928-05-15">15. 5. 1928</date>
+					<date when="1928-09-26">26. 9. 1928</date>
+					<date when="1928-11-06">6. 11. 1928</date>
+					<date when="1929-01-13">13. 1. 1929</date>
+					<date when="1929-01-18">18. 1. 1929</date>
+					<date when="1929-01-27">27. 1. 1929</date>
+					<date when="1929-02-08">8. 2. 1929</date>
+					<date when="1929-02-15">15. 2. 1929</date>
+					<date when="1929-03-09">9. 3. 1929</date>
+					<date when="1929-04-01">1. 4. 1929</date>
+					<date when="1929-04-13">13. 4. 1929</date>
+					<date when="1929-06-13">13. 6. 1929</date>
+					<date when="1929-07-18">18. 7. 1929</date>
+					<date when="1929-10-07">7. 10. 1929</date>
+					<date when="1929-11-26">26. 11. 1929</date>
+					<date when="1929-12-05">5. 12. 1929</date>
+					<date when="1930-01-28">28. 1. 1930</date>
+					<date when="1930-02-06">6. 2. 1930</date>
+					<date when="1930-02-28">28. 2. 1930</date>
+					<date when="1930-04-01">1. 4. 1930</date>
+					<date when="1930-12-20">20. 12. 1930</date>
+					<date when="1931-01-11">11. 1. 1931</date>
+					<date when="1931-01-21">21. 1. 1931</date>
+					<date when="1931-01-28">28. 1. 1931</date>
+					<date when="1931-03-04">4. 3. 1931</date>
+					<date cert="low" when="1931-04-16">16. 4. 1931</date>
+					<date cert="low" when="1931-05-08">8. 5. 1931</date>
+					<date when="1931-09-05">5. 9. 1931</date>
+					<date when="1931-09-22">22. 9. 1931</date>
+					<date when="1931-10-10">10. 10. 1931</date>
+				</item>
+				<item>
+					<name>Olga Schnitzler</name>
+					<date when="1913-02-08">8. 2. 1913</date>
+					<date when="1915-07-17">17. 7. 1915</date>
+					<date when="1915-07-22">22. 7. 1915</date>
+					<date when="1915-07-25">25. 7. 1915</date>
+					<date when="1917-03-18">18. 3. 1917</date>
+					<date when="1917-08-28">28. 8. 1917</date>
+
+
+
+
+
+					<date when="1917-08-31">31. 8. 1917</date>
+					<date when="1918-08-16">16. 8. 1918</date>
+					<date when="1919-09-04">4. 9. 1919</date>
+					<date when="1919-09-11">11. 9. 1919</date>
+					<date when="1920-04-08">8. 4. 1920</date>
+					<date when="1921-03-13">13. 3. 1921</date>
+					<date when="1921-04-07">7. 4. 1921</date>
+					<date when="1921-07-08">8. 7. 1921</date>
+					<date when="1921-07-16">16. 7. 1921</date>
+					<date when="1921-11-29">29. 11. 1921</date>
+					<date when="1922-11-04">4. 11. 1922</date>
+					<date when="1923-01-22">22. 1. 1923</date>
+					<date when="1923-02-01">1. 2. 1923</date>
+					<date when="1923-02-19">19. 2. 1923</date>
+					<date when="1923-04-21">21. 4. 1923</date>
+					<date when="1923-05-19">19. 5. 1923</date>
+					<date when="1923-07-21">21. 7. 1923</date>
+					<date when="1923-10-03">3. 10. 1923</date>
+					<date when="1923-11-27">27. 11. 1923</date>
+					<date when="1923-12-09">9. 12. 1923</date>
+					<date when="1924-04-23">23. 4. 1924</date>
+					<date when="1924-07-05">5. 7. 1924</date>
+					<date when="1924-07-16">16. 7. 1924</date>
+					<date when="1924-12-26">26. 12. 1924</date>
+					<date when="1925-04-15">15. 4. 1925</date>
+					<date cert="low" when="1926-01-06">6. 1. 1926</date>
+					<date when="1926-01-30">30. 1. 1926</date>
+					<date when="1926-07-20">20. 7. 1926</date>
+					<date when="1926-09-09">9. 9. 1926</date>
+					<date when="1926-09-20">20. 9. 1926</date>
+					<date when="1926-09-26">26. 9. 1926</date>
+					<date when="1926-10-16">16. 10. 1926</date>
+					<date when="1926-10-23">23. 10. 1926</date>
+					<date when="1926-12-29">29. 12. 1926</date>
+					<date cert="low" when="1927-01-06">6. 1. 1927</date>
+				
+					<date when="1927-07-17">17. 7. 1927</date>
+					<date when="1927-11-03">3. 11. 1927</date>
+					<date when="1927-11-23">23. 11. 1927</date>
+					<date when="1928-01-11">11. 1. 1928</date>
+					<date when="1928-01-15">15. 1. 1928</date>
+					<date cert="low" when="1928-04-21">21. 4. 1928</date>
+					<date when="1928-07-13">13. 7. 1928</date>
+
+
+
+
+					<date when="1928-07-22">22. 7. 1928</date>
+					<date when="1928-08-16">16. 8. 1928</date>
+					<date when="1929-07-20">20. 7. 1929</date>
+					<date when="1929-08-02">2. 8. 1929</date>
+					<date when="1930-04-05">5. 4. 1930</date>
+					<date when="1931-01-14">14. 1. 1931</date>
+					<date when="1931-02-23">23. 2. 1931</date>
+				</item>
+				<item>
+					<name>Karl Schönherr</name>
+					<date when="1927-02-24">24. 2. 1927</date>
+				</item>
+				<item>
+					<name>Karl-Ludwig Schröder</name>
+					<date when="1913-02-05">5. 2. 1913</date>
+					<date when="1913-03-20">20. 3. 1913</date>
+				</item>
+				<item>
+					<name>Wolfgang Schumann</name>
+
+					<date when="1915-01-07">7. 1. 1915</date>
+				</item>
+				<item>
+					<name>Gustav Schwarzkopf</name>
+					<date when="1920-02-24">24. 2. 1920</date>
+				</item>
+				<item>
+					<name>Thomas Seltzer</name>
+					<date when="1924-08-04">4. 8. 1924</date>
+				</item>
+				<item>
+					<name>G. Bernard Shaw</name>
+					<date notBefore="1926-06-01" notAfter="1926-07-01">6. 1926</date>
+				</item>
+				<item>
+					<name>Maximilian Sladek</name>
+					<date when="1922-07-07">7. 7. 1922</date>
+					<date when="1924-12-08">8. 12. 1924</date>
+				</item>
+				<item>
+					<name>Kurt Sonnenfeld</name>
+					<date when="1916-12-18">18. 12. 1916</date>
+					<date when="1917-02-19">19. 2. 1917</date>
+					<date when="1920-01-15">15. 1. 1920</date>
+				</item>
+				<item>
+					<name>Paul Springer</name>
+					<date when="1920-05-01">1. 5. 1920</date>
+				</item>
+				<item>
+					<name>Karen Stampe-Bendix</name>
+					<date when="1931-05-27">27. 5. 1931</date>
+				</item>
+				<item>
+					<name>Albert Steinrück</name>
+					<date when="1914-11-05">5. 11. 1914</date>
+				</item>
+				<item>
+					<name>Elisabeth Steinrück</name>
+					<date when="1914-12-22">22. 12. 1914</date>
+					<date when="1915-12-13">13. 12. 1915</date>
+					<date when="1916-05-22">22. 5. 1916</date>
+					<date when="1916-02-25">25. 2. 1916</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Julius Stern</name>
+					<date when="1925-03-12">12. 3. 1925</date>
+				</item>
+				<item>
+					<name>Erwin Stranik</name>
+					<date when="1926-01-14">14. 1. 1926</date>
+				</item>
+				<item>
+					<name>Richard Strauss</name>
+					<date when="1919-06-04">4. 6. 1919</date>
+					<date when="1924-05-05">5. 5. 1924</date>
+				</item>
+				<item>
+					<name>Theodor Tagger</name>
+					<date when="1916-12-11">11. 12. 1916</date>
+				</item>
+				<item>
+					<name>Ernst Peter Tal</name>
+					<date when="1913-05-19">19. 5. 1913</date>
+				</item>
+				<item>
+					<name>Redaktion Tempo</name>
+					<date when="1929-02-18">18. 2. 1929</date>
+				</item>
+				<item>
+					<name>Thaliatheater, Breslau</name>
+					<date when="1924-07-21">21. 7. 1924</date>
+				</item>
+				<item>
+					<name>Hugo Thimig</name>
+					<date when="1913-11-11">11. 11. 1913</date>
+					<date when="1915-09-05">5. 9. 1915</date>
+				</item>
+				<item>
+					<name>Franz Tiemann</name>
+					<date when="1927-03-12">12. 3. 1927</date>
+				</item>
+				<item>
+					<name>Edward W. Titus</name>
+					<date when="1927-04-07">7. 4. 1927</date>
+					<date when="1927-04-20">20. 4. 1927</date>
+					<date when="1927-05-12">12. 5. 1927</date>
+				</item>
+				<item>
+					<name>Siegfried Trebitsch</name>
+					<date when="1913-04-12">12. 4. 1913</date>
+				</item>
+				<item>
+					<name>Kurt Tucholsky</name>
+					<date when="1913-10-14">14. 10. 1913</date>
+				</item>
+				<item>
+					<name>Agnes Ulmann</name>
+					<date when="1925-07-18">18. 7. 1925</date>
+					<date when="1929-05-25">25. 5. 1929</date>
+				</item>
+				<item>
+					<name>Fritz von Unruh</name>
+					<date when="1917-10-03">3. 10. 1917</date>
+					<date when="1930-09-18">18. 9. 1930</date>
+				</item>
+				<item>
+					<name>George Sylvester Viereck</name>
+					<date when="1927-06-18">18. 6. 1927</date>
+					<date when="1928-03-29">29. 3. 1928</date>
+				</item>
+				<item>
+					<name>David Wallace</name>
+					<date when="1925-04-23">23. 4. 1925</date>
+				</item>
+				<item>
+					<name>Jakob Wassermann</name>
+					<date when="1924-11-03">3. 11. 1924</date>
+
+
+
+
+
+				</item>
+				<item>
+					<name>Julie Wassermann</name>
+					<date when="1928-05-20">20. 5. 1928</date>
+				</item>
+				<item>
+					<name>Alexander Weil Ritter von Weilen</name>
+					<date when="1917-11-19">19. 11. 1917</date>
+				</item>
+				<item>
+					<name>Julian Weiß</name>
+					<date when="1931-06-17">17. 6. 1931</date>
+				</item>
+				<item>
+					<name>Adolf Weisse</name>
+					<date when="1914-11-11">11. 11. 1914</date>
+				</item>
+				<item>
+					<name>Otto Weizsaecker</name>
+					<date when="1914-06-12">12. 6. 1914</date>
+					<date when="1919-01-22">22. 1. 1919</date>
+				</item>
+				<item>
+					<name>Franz Werfel</name>
+					<date when="1926-06-05">5. 6. 1926</date>
+					<date when="1926-06-22">22. 6. 1926</date>
+				</item>
+				<item>
+					<name>Edith Werner</name>
+					<date when="1924-04-10">10. 4. 1924</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Paul Wiegler</name>
+					<date when="1927-10-19">19. 10. 1927</date>
+					<date when="1929-03-02">2. 3. 1929</date>
+					<date when="1930-08-23">23. 8. 1930</date>
+				</item>
+				<item>
+					<name>Wiener Bezirkskrankenkasse</name>
+					<date when="1928-12-13">13. 12. 1928</date>
+				</item>
+				<item>
+					<name>Anton Wildgans</name>
+					<date when="1930-04-20">20. 4. 1930</date>
+					<date when="1931-02-16">16. 2. 1931</date>
+				</item>
+				<item>
+					<name>Jakobvon Winternitz</name>
+					<date when="1914-12-07">7. 12. 1914</date>
+				</item>
+				<item>
+					<name>Else Wohlgemuth</name>
+					<date when="1931-01-14">14. 1. 1931</date>
+				</item>
+				<item>
+					<name>Lina Woiwode</name>
+					<date when="1918-02-22">22. 2. 1918</date>
+
+
+
+
+				</item>
+				<item>
+					<name>Heinrich Vork-Steiner</name>
+					<date when="1919-08-22">22. 8. 1919</date>
+				</item>
+				<item>
+					<name>Karl Zeiss</name>
+					<date when="1917-07-24">24. 7. 1917</date>
+				</item>
+				<item>
+					<name>Salomon Zimmels</name>
+					<date when="1914-10-17">17. 10. 1914</date>
+					<date when="1918-01-16">16. 1. 1918</date>
+				</item>
+				<item>
+					<name>Berta Zuckerkandl</name>
+					<date when="1929-03-04">4. 3. 1929</date>
+				</item>
+				<item>
+					<name>Victor Zuckerkandl</name>
+					<date when="1929-03-02">2. 3. 1929</date>
+				</item>
+				<item>
+					<name>Stefan Zweig</name>
+					<date when="1914-12-02">2. 12. 1914</date>
+					<date when="1924-11-06">6. 11. 1924</date>
+					<date when="1928-01-16">16. 1. 1928</date>
+				</item>
+
+			</list>
+		</body>
+	</text>
+</TEI>

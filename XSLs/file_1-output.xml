@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an den Vater</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">1-1</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1875-04-10">zum. 10. 4. 1875</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>zum 1o. April 1875</dateline>
+                  <salute>Theurer Papa!</salute>
+               </opener>
+               <p>Mit frohem Herzen begrüß“ ich den heutigen festlichen Tag.
+Gefühle des Dankes und der Liebe erwachen stärker denn je in
+meiner Brust, und als Worte überschreiten sie meine Lippen,
+— freilich haben sie auf dem Wege viel von ihrer Wärme und
+Innigkeit verloren.Glück und Zufriedenheit seien Deine steten Begleiter; auf Dei¬
+nen Lebensweg, der sich noch lange, lange, und immer durch
+lachende Fluren hinschlängeln möge, soll die Freude unver¬
+gängliche Rosen der Heiterkeit streuen. Geliebt von allen, die
+Dich kennen, geachtet von aller Welt mögen Deine Tage
+ruhig, ungetrübt selbst vom kleinsten Ungemach dahin¬
+fließen!Ich werde mich bestreben, möglichst viel zu Deinem Glücke
+beizutragen.</p>
+               <closer>Dein Dich innigliebender Sohn
+Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

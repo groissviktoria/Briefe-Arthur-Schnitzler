@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+    
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">1-1</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1875-04-10">zum. 10. 4. 1875</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>zum 1o. April 1875</dateline>
+                     <salute>Theurer Papa!</salute>
+                  </opener>
+                  <p>Mit frohem Herzen begrüß“ ich den heutigen festlichen Tag.
+Gefühle des Dankes und der Liebe erwachen stärker denn je in
+meiner Brust, und als Worte überschreiten sie meine Lippen,
+— freilich haben sie auf dem Wege viel von ihrer Wärme und
+Innigkeit verloren.Glück und Zufriedenheit seien Deine steten Begleiter; auf Dei¬
+nen Lebensweg, der sich noch lange, lange, und immer durch
+lachende Fluren hinschlängeln möge, soll die Freude unver¬
+gängliche Rosen der Heiterkeit streuen. Geliebt von allen, die
+Dich kennen, geachtet von aller Welt mögen Deine Tage
+ruhig, ungetrübt selbst vom kleinsten Ungemach dahin¬
+fließen!Ich werde mich bestreben, möglichst viel zu Deinem Glücke
+beizutragen.</p>
+                  <closer>Dein Dich innigliebender Sohn
+Arthur</closer>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">1-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1875-07-17">17. 7. 1875</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline/>
+                     <salute>Liebe Mama!</salute>
+                  </opener>
+                  <p>„Von heute bis auf morgen
+Ist eine lange Fristesagte einer unsrer deutschen Dichter; aber in dieser langen
+Frist hat sich nicht so viel ereignet, daß man vier Octavseiten
+damit ausfüllen könnte.Aber — die Phönizier haben die Schreibekunst einmal erfun¬
+den, und diese Gewohnheit hat sich bis auf uns vererbt.Du könntest Dir eigentlich alles denken, was ich Dir hier
+schreibe. Gestern habe ich die drei Mandl’s engagirt, mit mir
+einen kleinen Waldspaziergang zu machen. Wir einigten uns
+um ½6 in der Frühe auf dem Platze zu sein. Ich spaziere um
+¼ 6 aus dem Hause und setze mich auf eine Bank auf der</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">2-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1878-04-10">10. 4. 1878</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>10/4 1878</dateline>
+                     <salute>Theuerster Papa!</salute>
+                  </opener>
+                  <p>An dem heutigen Tage bringe auch ich Dir die herzlichsten,
+tiefgefühlten Glückwünsche dar. Sie wollen dasselbe sagen,
+was ich täglich in meinem Innersten denke, was mein Herz
+stets und unverändert hegt. Sie fassen in Worte, was besser
+ungesagt bliebe; da diese Worte ja doch weit hinter dem zu¬
+rückblieben, was das Herz empfindet. Mögst Du noch lang
+und glücklich leben; alle Deine Wünsche mögen in fröhliche</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">3-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1883-07-24">24. 7. 1883</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline/>
+                     <salute/>
+                  </opener>
+                  <p>Sei nicht böse — das bitt' ich dich — vor allem, daß ich so
+schreibfaul bin. Aber es ist wirklich unausstehlich langweilig
+in Wien und ich fürchte immer, dass die Langeweile wie ein
+Fluidum sich in die Poren des Briefpapiers versteckt und dann
+auch in Ischl ihr Wesen treibt. Und das will ich beileibe nicht!
+Ich wünsche Euch das beste Wetter, die angenehmste Gesell¬
+schaft, das größte Amusement; ich wünsche, daß Ihr Euch in
+Ischl so wohl, so heimisch fühlt wie zu Hause u würde ein
+diesbezügliches Geständnis, ohne beleidigt zu sein, ja mit dem
+größten Vergnügen hinnehmen.. Wie ich meine Freiheit be¬
+nütze, fragst du —? Oh liebste Mama, Du „machst Ironieg.
+Also höre: Gestern mußten wir wieder exerciren, heute hab
+ich von 6 — 8 Inspektion bei einem Cadet-Corporal, der bei
+dem miserabeln Wetter Zahnschmerzen bekommen und ein
+Glas Opium über den Durst getrunken hat. Freitag ist wieder
+exerciren, Samstag Nachtmanöver am Laaberg (schöne Gegend
+— aber wenigstens sieht man in der Nacht nicht, wo man ist!) —
+gar nicht zu sprechen von den täglichen Frühvisiten und
+schließlich von der Nachmittagsvisite, die ich vom 1.-1o.
+August habe Wie gesagt, es ist schrecklich. — Wenn du üb¬
+rigens meinst, daß Vöslau besonders entzückend ist, theure
+Mama, so ist das einer jener Holzwege, von denen bereits die</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">5-5</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate notBefore="18847-06-01" notAfter="18847-09-01">Sommer. 18847</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Sommer 18847</dateline>
+                     <salute>Liebster Papa!</salute>
+                  </opener>
+                  <p>Der gestrige Tag war gräulich verregnet; die projectirte Partie
+geht daher erst heute, meine Abreise morgen Samstag von¬
+statten. Daran schlieft sich eine Bitte. Es geht mir mit mei¬
+nem Gelde nach Zahlg der Hotelrechnung und der Fahrt nach
+Ischl knapp aus. Um nicht eventuell in eine peinliche Situation
+zu geraten, so habe die große Güte, mir die Unsumme von
+ungefähr 16 fl zu schicken, da ich sonst nicht einmal in der
+Lage wäre, z. B. auf der Reise eine Fensterscheibe zu zerbre¬
+chen oder eine Locomotive zu ruiniren. Nun ist der Mensch
+vor derartigem Unglück nie geschützt und ich möchte gegen
+unangenehme Folgen gefeit sein. Jedenfalls, liebster Papa
+sende mir das Geld gleich nach Erhalt des Briefes, so daß ich
+doch mit dem angenehmen Gefühl, ein wohlhabender Mann
+zu sein, von hier abreisen kann.Es grüßt und küsst dich tausendmalTrotz allem  d. h. trotz der (im ganzen) mäßigen Gesell¬
+schaft hier und trotz des nicht ganz sommeraufenthaltsgemä¬
+ßen Studiums sehne ich mich vorderhand nach unserm Wien
+sehr wenig zurück. Du wohl auch nicht, der jetzt sicher ein ab¬
+wechslungsreicheres Leben führt als wir allhier. Wir sind sehr
+begierig auf Deine Nachrichten, deren Du für uns wohl in¬
+teressantere bereit haben wirst als wir für Dich. Jeden Vor¬
+mittag von der Entdeckung neuer Bacillen zu hören und gleich
+dazu von einem Mittel, das sie bereits in hunderttausendper¬
+zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
+                  <closer>Dein dankbarer Sohn
+Arthur.</closer>
+                  <postscript>An Julius herzlichen Gruß u Kuß</postscript>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">5-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>[Bad Ischl,
+Sommer 1884</dateline>
+                     <salute>Theurer Papa!</salute>
+                  </opener>
+                  <p>Trotz allem  d. h. trotz der (im ganzen) mäßigen Gesell¬
+schaft hier und trotz des nicht ganz sommeraufenthaltsgemä¬
+ßen Studiums sehne ich mich vorderhand nach unserm Wien
+sehr wenig zurück. Du wohl auch nicht, der jetzt sicher ein ab¬
+wechslungsreicheres Leben führt als wir allhier. Wir sind sehr
+begierig auf Deine Nachrichten, deren Du für uns wohl in¬
+teressantere bereit haben wirst als wir für Dich. Jeden Vor¬
+mittag von der Entdeckung neuer Bacillen zu hören und gleich
+dazu von einem Mittel, das sie bereits in hunderttausendper¬
+zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">6-6</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1886-08-09">9. 8. 1886</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Wien.
+9/8 86</dateline>
+                     <salute>Liebste Mama!</salute>
+                  </opener>
+                  <p>— Schlecht geht’s heute — in der Ordination nemlich — knapp
+die Reisespesen hereingebracht —In Reichenau ists übrigens reizend. Neulich war Gustl Pick da
+und spielte uns seine feschesten „Tanzg vor; Samstag war ein
+höchst animirtes Kränzchen, und nur der Gedanke, meine
+theuern in Ischl endlich wiederzusehen, macht mir den Ab¬
+schied vom Saurüssel und Atzberg so leicht. Ich denke Sam¬
+stag morgens bei Euch einzutreffen, da ich Donnerstag und
+Freitag durch projectirte größere Partien noch festgehalten bin.
+— Der Thalhof, in specie Frau Waisnix u Frau Kohnberger er¬
+widern deine Grüße aufs herzlichste.Es grüßt und küßt dich tausendmal</p>
+                  <closer>Dein treuer Sohn
+Arthur</closer>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">6-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1886-09-21">21. 9. 1886</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Wien
+21./9/86</dateline>
+                     <salute>Theuerster Papa! -</salute>
+                  </opener>
+                  <p>Heute habe ich dir bereits von neuen Patienten zu vermelden.
+Gestern erschien ein blutleerer, magen- und lungenleidender
+Friseurgehilfe; heute ein Hauptmann des Ruhestandes (einer
+derjenigen, die „das nächste Mal so frei sein werdeng) und</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        <TextRegion type="paragraph"
+               id="r_2_1"
+               custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="187,210 1195,210 1195,346 187,346"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="183,251 192,251 193,249 206,249 207,251 226,251 227,249 245,249 246,251 249,251 250,249 255,249 256,251 261,251 263,249 269,249 270,251 272,252 274,252 277,249 283,249 284,251 288,251 289,249 290,248 292,247 293,246 294,244 295,244 299,248 301,249 302,251 303,252 312,252 313,251 314,249 317,249 318,251 330,251 331,249 335,249 336,251 337,252 345,252 346,251 347,249 351,249 352,251 357,251 359,249 360,249 361,251 362,252 374,252 375,250 376,249 377,250 380,250 381,249 390,249 393,252 398,252 399,250 400,249 401,250 406,250 408,249 410,249 412,250 419,250 420,249 422,249 423,250 428,250 429,249 433,249 434,250 438,250 439,249 441,250 442,252 446,252 447,250 448,249 449,249 451,250 453,250 454,249 466,249 467,250 468,252 473,252 475,250 482,250 483,249 485,249 486,250 487,252 493,252 496,249 497,250 502,250 504,249 505,250 510,250 511,249 517,249 519,250 524,250 525,249 526,249 528,250 529,252 563,252 564,251 575,251 577,250 578,249 579,249 581,250 582,251 596,251 597,250 599,250 601,251 603,251 604,250 606,251 623,251 625,250 626,251 633,251 635,250 639,250 640,251 651,251 652,250 655,250 656,251 660,251 661,250 662,250 664,251 666,251 668,250 671,250 673,251 675,251 676,250 680,250 681,251 694,251 695,250 697,251 698,253 708,253 710,255 712,256 713,258 714,259 727,259 728,258 729,256 731,255 733,253 734,251 744,251 746,250 750,250 751,251 808,251 809,250 810,251 819,251 820,250 821,251 825,251 826,250 828,251 881,251 882,250 887,250 888,251 891,251 892,250 895,250 897,252 898,254 900,255 902,257 903,259 917,259 919,257 920,259 929,259 930,257 932,255 934,254 935,252 936,251 1008,251 1011,248 1014,248 1017,251 1057,251 1059,252 1060,253 1061,255 1062,256 1064,257 1065,258 1076,258 1077,257 1079,257 1081,255 1082,253 1084,252 1088,248 1089,250 1090,251 1143,251 1144,249 1146,249 1147,248 1148,248 1151,251 1191,251 1192,249 1200,249 1200,210 1185,210 1180,215 1178,214 1176,212 1175,210 1173,209 1168,204 1149,204 1148,205 1147,207 1145,208 1143,210 1142,210 1140,209 1138,207 1137,205 1135,204 1119,204 1118,205 1113,205 1111,204 1080,204 1079,205 1077,205 1076,207 1074,209 1072,210 1047,210 1046,212 1045,213 1043,214 1042,216 1036,216 1035,214 1033,213 1032,212 1023,212 1019,216 1003,216 1002,217 1000,218 999,219 990,219 978,207 976,206 975,204 960,204 959,206 958,207 956,208 955,209 954,211 953,212 951,213 950,214 949,216 947,217 941,217 940,218 937,218 936,219 935,221 934,222 932,223 931,223 927,219 917,219 916,218 912,218 906,212 903,212 902,211 901,209 900,208 898,207 897,206 896,204 879,204 878,206 876,208 874,209 873,211 867,217 842,217 840,218 839,220 838,221 837,220 830,220 829,221 816,221 815,220 814,218 813,217 811,216 810,215 809,213 806,213 805,212 801,212 800,213 797,213 796,215 794,217 792,218 749,218 744,213 743,213 742,212 736,212 734,213 733,215 731,217 676,217 664,205 649,205 647,206 646,207 645,209 644,210 642,211 641,212 640,214 638,215 636,217 628,217 616,205 598,205 597,206 596,206 594,207 593,209 592,209 591,210 589,211 588,212 587,214 586,212 582,212 580,214 568,214 567,212 544,212 543,214 541,215 539,217 538,219 536,220 535,220 534,219 533,217 531,216 520,205 517,205 516,204 488,204 481,211 480,213 478,214 477,213 476,211 472,211 471,210 469,209 468,207 466,205 458,205 457,204 438,204 437,205 435,206 434,208 433,209 418,209 416,210 415,211 414,213 413,214 409,214 408,215 406,216 405,218 403,220 396,220 395,219 386,219 385,220 379,220 377,219 375,219 374,220 365,220 364,219 361,219 360,220 356,220 355,219 351,219 350,220 348,220 347,219 340,219 338,220 336,220 335,219 333,218 332,216 331,215 329,214 323,214 322,213 321,211 308,211 307,213 306,214 300,214 299,213 298,213 297,211 294,211 293,213 292,214 289,214 288,215 287,217 285,218 283,220 264,220 263,219 256,219 255,220 254,220 253,219 249,219 247,218 246,217 245,215 244,214 242,213 241,212 225,212 224,213 222,214 217,214 207,204 200,204 198,205 197,207 195,209 183,209"/>
+                <Baseline points="190,246 289,246 570,245 746,245 925,251 1006,243 1142,243 1194,243"/>
+                <TextEquiv>
+                    <Unicode>deiner Unermüdlichkeit überhaupt notwendig oder möglich ist</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="182,299 189,299 190,298 193,298 194,299 199,299 200,298 212,298 213,299 217,299 218,298 229,298 231,299 238,299 240,298 242,298 243,299 256,299 261,294 265,294 266,295 267,297 269,298 270,299 276,299 277,298 286,298 287,299 293,299 294,298 310,298 311,299 318,299 319,298 323,298 324,299 340,299 342,298 344,298 345,299 366,299 367,297 368,297 369,296 371,295 372,294 377,294 378,295 380,296 381,297 382,297 383,299 400,299 401,297 404,297 405,299 409,299 410,297 417,297 419,299 421,299 422,297 425,297 426,299 430,299 431,298 434,298 435,297 440,297 441,298 444,298 445,297 455,297 456,296 458,295 459,293 465,293 472,300 482,300 483,298 491,298 492,297 504,297 506,298 509,298 511,297 517,297 518,298 520,299 545,299 547,297 549,298 550,299 657,299 658,298 665,298 666,296 668,294 670,293 673,293 675,294 677,296 678,298 680,299 726,299 728,297 729,297 730,296 731,296 733,295 734,294 743,294 744,293 745,293 749,297 750,299 754,299 755,298 762,298 763,297 764,297 765,298 768,298 769,297 771,297 772,298 782,298 783,297 784,297 786,298 792,298 793,297 796,300 800,300 801,298 816,298 817,300 820,300 821,298 822,297 823,297 825,296 826,296 827,294 834,294 835,296 837,298 840,298 841,299 858,299 859,298 860,299 912,299 918,293 921,293 923,295 924,297 926,298 928,300 986,300 991,305 995,305 996,306 1015,306 1017,305 1019,303 1020,301 1022,300 1023,299 1051,299 1052,300 1145,300 1146,299 1198,299 1198,267 1174,267 1173,265 1171,264 1169,262 1168,260 1166,259 1164,257 1163,255 1161,254 1160,253 1151,253 1137,267 1110,267 1108,266 1107,264 1105,262 1103,261 1102,259 1100,257 1098,256 1097,254 1096,253 1094,252 1091,252 1089,253 1088,254 1087,256 1086,257 1084,256 1083,254 1082,254 1081,256 1079,257 1078,257 1076,259 1063,259 1062,258 1060,257 1059,256 1058,254 1057,253 1055,253 1054,252 1039,252 1038,253 1036,253 1035,255 1033,257 1031,258 1030,260 1028,262 1026,263 1025,265 1024,266 1006,266 1005,265 1004,263 1002,262 1000,260 982,260 980,262 979,264 977,265 975,267 952,267 951,266 949,265 948,264 947,262 946,261 944,260 936,260 934,261 933,262 932,264 931,265 929,266 928,268 926,270 924,271 923,273 921,275 918,275 917,274 915,273 914,271 912,269 910,268 909,266 907,264 905,263 904,261 902,259 900,258 899,256 898,255 896,254 895,253 888,253 886,254 884,256 883,258 881,259 870,259 864,253 857,253 850,260 849,260 840,269 839,269 837,270 836,272 834,274 830,274 828,273 827,272 826,270 825,269 823,268 818,268 817,269 808,269 806,267 804,266 803,264 799,260 797,260 796,261 794,259 792,259 791,261 789,262 788,263 786,263 784,262 783,261 782,259 780,258 778,256 777,254 775,253 774,252 765,252 763,254 762,256 760,257 758,259 757,261 755,262 749,268 748,270 746,271 744,273 743,275 741,276 739,278 738,277 736,276 734,276 726,268 724,268 722,267 720,265 719,263 717,262 715,260 714,258 712,257 710,255 709,253 707,252 704,252 702,253 701,255 700,256 698,257 697,258 696,260 695,261 693,262 692,263 691,265 690,266 688,267 687,268 686,270 681,270 680,271 678,272 677,274 676,275 666,265 664,264 663,262 661,260 659,259 648,259 646,261 644,262 643,264 642,265 640,266 639,267 619,267 618,268 614,268 613,266 611,265 610,264 609,262 608,261 606,260 605,259 604,257 603,256 601,255 600,254 599,252 590,252 589,254 587,255 586,256 585,258 584,259 582,260 581,261 580,263 579,264 577,265 576,266 575,268 574,268 572,269 571,270 562,270 561,269 557,269 556,268 537,268 535,270 532,270 530,268 501,268 499,269 498,270 497,270 495,271 494,271 493,269 492,269 490,268 470,268 469,269 468,271 466,272 464,274 463,276 461,276 460,274 458,272 456,271 455,269 454,268 451,268 449,266 448,264 446,263 435,252 430,252 429,253 427,254 426,256 424,258 422,259 406,259 405,260 398,260 397,261 396,260 391,260 389,261 387,263 386,265 384,266 382,268 381,270 379,271 377,273 376,275 374,276 373,276 367,270 366,270 364,268 362,268 361,269 342,269 340,267 335,267 334,269 319,269 318,267 316,266 314,264 313,262 311,261 310,261 309,260 296,260 292,264 291,264 290,262 289,261 287,260 271,260 260,271 258,270 256,268 255,266 253,265 247,259 242,259 241,260 232,260 227,265 226,267 224,268 223,269 221,269 219,268 217,268 215,269 213,269 212,268 198,268 197,269 195,269 194,268 181,268"/>
+                <Baseline points="188,296 250,295 362,295 451,294 660,293 729,293 823,293 908,292 1192,292"/>
+                <TextEquiv>
+                    <Unicode>und küsse dich tausendmal als dein dich innigstliebender</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="182,347 192,347 194,348 195,350 197,352 199,353 200,355 207,355 215,347 249,347 250,348 255,348 257,347 259,349 260,351 262,352 264,354 278,354 279,353 281,353 282,352 283,350 284,349 286,348 316,348 317,346 323,346 325,348 331,348 332,346 342,346 344,348 347,348 349,346 357,346 359,348 361,348 362,346 364,348 365,347 373,347 374,346 375,346 376,347 384,347 385,346 395,346 397,347 426,347 427,346 448,346 448,317 418,317 408,307 399,307 398,308 396,309 395,311 390,316 389,315 388,313 386,312 384,310 382,310 381,308 372,308 371,307 369,307 367,308 365,308 364,307 361,307 360,308 359,308 355,312 354,314 352,315 351,316 288,316 287,315 285,314 284,313 283,311 282,310 280,309 279,308 263,308 261,309 259,309 258,308 254,308 253,309 250,309 249,308 239,308 237,309 236,310 235,312 234,313 232,314 231,315 230,317 225,317 224,315 217,315 216,317 215,317 214,315 212,314 206,308 198,308 197,309 196,309 195,308 190,308 188,309 182,309"/>
+                <Baseline points="188,344 351,343 442,343"/>
+                <TextEquiv>
+                    <Unicode>dankbarer Sohn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>deiner Unermüdlichkeit überhaupt notwendig oder möglich ist
+und küsse dich tausendmal als dein dich innigstliebender
+dankbarer Sohn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">8-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1886-10-22">22. 10. 1886</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Wien. Freitag
+3 Uhr Nachts.
+[22. Oktober 1886</dateline>
+                     <salute>Verehrteste gnädige Frau!</salute>
+                  </opener>
+                  <p>Sie wünschen einen Brief von mir, der nur lustiges enthält —
+und wissen recht gut, daß ich Ihnen nichts abschlagen kann, —
+hier haben Sie also Ihren „lustigeng Brief -
+Erfahren Sie denn, gnädige Frau, vor allem, daß auf der gan¬
+zen weiten Welt kein Mensch sich wohler befinden kann als
+ich. In aller Gottesfrühe fängt mein Glück bereits an. Ich stehe
+nämlich schon um 7 oder ½8 auf - und wie gerne ich das
+thue, bedarf keiner Versicherung. Dann mach ich mich auf den
+Weg ins Krankenhaus, schon im Hinbummeln alle die Freuden
+erwägend, die mir im Laufe des Tags erblühen können. Ich
+gehe aufs Krankenzimmer und wandle zwischen den Betten
+der Patienten hin und her; die Seligkeit, die ich hier in der
+Ausübung meines Berufes finde, zu schildern ist kaum mög¬
+lich. Es ist ja so herrlich! jeder Kranke hört einmal auf krank
+zu sein — so oder so! - und wenn einer von diesen Armen
+vielleicht einmal die Insolenz hat, sich über seinen Zustand zu
+beklagen, so muß man ihn wohl daran erinnern, daß der liebe
+Gott in seiner unergründlichen Weisheit zwar viele hundert
+Krankheiten geschaffen - aber nur eine Gesundheit! Diesen
+Optimismus, der täglich neu genährt wird, im Herzen, geh'
+ich nun ins Café frühstücken und Zeitung lesen. Diese theilt
+mir immer nur angenehmes mit, und mein naives Gemüth
+empfindet in jedem Localbericht den Reiz einer pikanten, psy¬
+chologischen Thatsache; die Feuilletons — und wären sie selbst
+von Pötzl oder Frey — sind mir Caviar für meinen literarischen
+Appetit, und wenn ich mich über die politischen Ereignisse
+orientire, so schwelge ich mit jenem Manne aus den Fliegen¬</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">10-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1886-10-31">31. 10. 1886</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>31/10 86</dateline>
+                     <salute>Verehrteste gnädige Frau!</salute>
+                  </opener>
+                  <p>Um mich ganz „hineinzufeuerng in die Medizin, halte ich
+morgen meinen feierlichen Einzug ins Krankenhaus als Se¬
+cundararzt der psychiatrischen Abtheilung. da ich ein Stim¬
+mungsfex bin, liegt mir das Gebiet am nächsten. Oh, ich
+schwärme für Contraste! Denken Sie nur! man unterhält sich
+mit einem Verrückten und läßt sich von den Trugbildern sei¬
+ner Phantasie umgaukeln — und dann tritt man hinaus — mit¬
+ten in das Reich der Vernunft — unter seinesgleichen sozusagen
+und berauscht sich geradezu an all der Masse von Verstand,
+die noch auf der Welt herrscht. Alles in allem genommen übt
+der Wahnsinn einen zauberischen Reiz auf mich aus. Stellen
+Sie sich einen gewöhnlichen Menschen vor... haben Sie sich
+ihn vorgestellt — gutl denken Sie sich ein halbstündiges Ge¬
+spräch mit ihm nichts wird berührt, was nicht die bare All¬
+täglichkeit wäre ... man taucht unter in Banalität — der
+Mensch wird verrückt. Plötzlich ist er geistreich, amusant. Er
+redet Unsinn — aber es steckt Originalität — manchmal viel¬
+leicht was großes darin! Sein Geist spinnt Fäden zwischen den
+heterogensten Dingen, die er früher mit seinem armseligen
+Normalverstand nie hätte knüpfen können. Er wird phanta¬
+stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">12-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate notBefore="" notAfter=""/>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnir</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Wien,
+12. Nov. 1886.</dateline>
+                     <salute>Verehrteste gnädige Frau!</salute>
+                  </opener>
+                  <p>Da sitz ich ungeheuer gemütlich meine Nachmittagscigarre
+rauchend in der Kanzlei unsrer Abtheilung und werde von
+Satz zu Satz von den Leuten, die kommen u gehn, unterbro¬
+chen. Die Leute, die da kommen und gehn, sind nemlich die
+Anverwandten der Unglücklichen, die sich auf der psychia¬
+trischen Klinik befinden, und mir liegt die Verpflichtung ob,
+ihnen die Karten zu geben, welche zum Besuche der Kranken
+berechtigen. Welch ein Bild des Elends entrollt sich dal Ich, der
+doch eigentlich noch nicht so ganz im ärztlichen Berufe auf¬
+gegangen ist, sehe alles sozusagen von verschiedenen Stand¬
+punkten — Was für manche andre vielleicht flüchtig vorüber¬
+geht, gewinnt für mich sozusagen die Bedeutung einer Scene
+— pafst sich gewissermaßen meinem literarischen Gefühl an
+und erregt in mir das, was man so vieldeutig „Stimmung
+nennt. Sie begreifen, daß ich mich ununterbrochen als Zu¬
+schauer einer Menge von bürgerlichen Trauerspielen fühle.
+L'assommoir könnte die Mehrzahl heißen! Die Odigkeit der
+Existenz jagt die armen Teufel in die Schnapsboutique (Som¬
+lauer war es nicht), und dann jagt sie der Schnaps in den Irr¬
+sinn — zu uns. Oh ich könnte Ihnen Dramen erzählen! - Und
+jetzt — die Contraste! Man spaziert aus der Zelle der Tobsüch¬
+tigen heraus und überlegt gerade, was für ein schneidiges Ge¬</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">13-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1886-11-12">12. 11. 1886</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Dienstag Nachts auf dem Journale
+[21. Juni 1887</dateline>
+                     <salute>Verehrte gnädige Frau!</salute>
+                  </opener>
+                  <p>Die Decoration vor allem: Eine echt österreichische Kanzlei¬
+stube. Ich an einem hohen Schreibepult, Bücher, Acten rechts,</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">15-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1887-06-21">21. 6. 1887</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>(16. September 1887</dateline>
+                     <salute>Verehrte gnädige Frau!</salute>
+                  </opener>
+                  <p>Ich danke Ihnen! - Für alles; denn Sie sind so ein Wesen, dem
+man in einem fort danken muß. Vor allem für die Liebens¬
+würdigkeit, das Sie existiren — obzwar diese Liebenswürdig¬
+keit nicht auf mich gemünzt ist — dann für Ihren Brief, aus
+dem es mir so herrlich entgegenwehte wie von einem Glet¬</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">18-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-04-07">7. 4. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann und Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin,
+“ April 88.</dateline>
+                     <salute>Liebste Eltern!</salute>
+                  </opener>
+                  <p>Mir kommt vor, als wäre ich schon Wochen lang hier. Die Lin¬
+den sind mir ganz bekannt, und sogar an die abscheuliche
+Aussprache der Leute beginn' ich mich zu gewöhnen. Ich habe
+Berlin ganz und voll auf mich wirken lassen. Ich suchte noch
+niemanden auf, um in meinen Eindrücken als Fremder nicht
+gestört zu werden. Das Leben und Treiben imponirte mir gar
+nicht. Es ist vielleicht in manchen Straßen voller als in Wien,
+und um Mitternacht gibt es in der Umgegend des Café Bauer
+mehr Leute als zu der Zeit irgendwo auf dem Ring, aber ich
+kann das durchaus nicht so großartig finden. Es gehen halt
+mehr Leute spät schlafen als in Wien. Die „niedern Ständeg,
+mit denen man ja als Ankommender und Wohnungssuchen¬
+der vor allem zu thun hat, sind höchst widerlich. Jeder Kellner
+ist ein Intelligenzlackel; jeder Portier ist arrogant und jeder</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">17-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1887-09-16">16. 9. 1887</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Wien
+31. Dec 1887</dateline>
+                     <salute>Verehrteste gnädige Frau!</salute>
+                  </opener>
+                  <p>Sylvester! — Ich aber sitze mutterseelenallein in meinem Spi¬
+talszimmer und habe „Dienstg. In diesem Augenblicke unter¬
+halten Sie sich köstlich und haben keine Ahnung, daß ich mit
+Ihnen rede. Es liegt etwas recht erbärmliches darin, daß man
+so viele typische Dinge erleben muß. Z.B. daß es vor meinen
+Fenstern schneit, daß die Bäume im Hof kahl sind und daß
+keine Seele in den Alleen umherwandelt außer dem ver¬
+mummten Nachtwächter — dass gerade hier in meinem „Stüb¬
+cheng die Lampe brennt und eine halb geleerte Cognacflasche
+vor mir auf dem Tische steht — wie lächerliche Schablone ist
+das alles. Auch meine weihevolle Stimmung ist Schablone,
+und doch kann ich mich nicht recht von ihr befreien! Und wie
+viele Millionen haben vor mir dasselbe gefühlt und wie viele
+Millionen werden dasselbe nach mir fühlen - Auch Sie erleben
+in diesem Momente sicherlich Schablonen. Man stößt mit Ih¬
+nen an! man trinkt auf Ihr Wohl, man wünscht Ihnen ein
+glückliches neues Jahr. Hören Sie mein kleines Gläschen da¬
+zwischen klirren-? Es ist ein hochrothes kleines Liqueurglas
+mit goldnen Rändern - und stammt aus einer alten Garnitur
+— es kommt mir heute beinahe schauerlich vor. Komisch, wie?
+Aber man hat manchmal solche Augenblicke, wenn man
+nicht aus sich heraus kann. Dieses klingende rothe Glas
+könnte Ihnen tausenderlei Dinge sagen... wenn Ihr Cham¬
+pagnerkelch zu fragen geneigt wäre. Es möchte Ihnen hun¬
+dert Räthsel lösen und hundert aufgeben — Es möchte
+Ihnen aber eines sicherlich so deutlich sagen, daß es ein
+Dutzend andrer klingender Gläser nicht übertönen könnten:
+derjenige, der es heut in trüber Schneenacht an die Lippen
+führt, wird stets derselbe bleiben, stets. Ich wollte jetzt irgend
+etwas thun, daß Sie mich hören müßten. Es nagt an mir,
+daß Sie in dieser Sekunde gar nichts von mir wissen. Lächer¬
+lich — toll! Nun, wie Sie meinen, aber eines geben Sie mir</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">20-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-04-10">etwa. 10. 4. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann und Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin</dateline>
+                     <salute>Theuerste Eltern! —</salute>
+                  </opener>
+                  <p>Ich kann natürlich nicht sagen, daß ich mich hier bereits hei¬
+misch fühle — aber fremd durchaus nicht mehr. Auch hab ich
+Berlin in manchem Unrecht gethan: es geht wirklich ein grof¬
+städtischer, ein ganz andrer Zug als in Wien durch dieses Le¬
+ben, dem es vielleicht an Wärme, aber gewiß nicht an Bewe¬
+gung fehlt. Nach Mitternacht (pardon, das ich um diese Zeit
+noch auf bin) herrscht noch in einem gewissen unsrer inner¬
+sten Stadt entsprechenden Theile eine fabelhafte Wachheit — da
+verkaufen Blumenjünglinge (noch um 2 Uhr Nachts) Rosen¬
+bouquets, Cigarrenladen sind offen; in den Kaffeehäusern
+wogt es; einzeln stehende Personen beiderlei Geschlechtes, Fa¬
+milien (jeder Art) ziehen durch die Straßen und freuen sich
+der deutschen Einheit, sowie des eignen bedeutenden Lebens.
+Wen das dynastische Gefühl zu erdrücken droht, der hat einen
+schwarzen Flor um den Arm und thut, als wenn der deutsche
+Kaiser speciell ihm gestorben sei. — Die Theater, wie man mir</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">22-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-04-21">21. 4. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann und Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin
+I2z.] April 88</dateline>
+                     <salute>Liebste Eltern! —</salute>
+                  </opener>
+                  <p>Gestern Vormittag war ich mit Dr. Löb im Krankenhaus
+Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">25-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate notBefore="" notAfter=""/>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>jeanette Heeger</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin
+Aprilk 88</dateline>
+                     <salute/>
+                  </opener>
+                  <p>Mein ewig geliebter Schatz! Ich denk mir, du mußt dich wieder
+über meinen gestrigen Brief geärgert haben — es ist nichts an¬
+zufangen mit mir: nur mit deinen Küssen kannst du meinen
+bitterbösen Mund schließen. Sooft deine Briefe kommen, bin
+ich auf ein paar Augenblicke ruhig, beinah sorglos; dann aber
+geht der infame Hexentanz in meinem Innern wieder an. Sie
+reißen eine Truhe auf, wo vieles eingesargt und todt lag und
+breiten es aus, wollen es wieder lebendig machen. Verzeih
+mir, Kind, was kann der Mensch für seine Hexen? Unsagbar
+unglücklich bin ich, daß ich nicht zu dem ruhigen Bewußtsein
+des Glücks kommen kann, von dir geliebt zu sein. Wenn ich
+einmal unverwünscht dran denke, macht es mich glückselig!
+Es ist eine erbärmliche Kleinlichkeit der menschlichen Natur,
+daß sie sich nicht loslösen kann von gewesenem. Daß alte
+Worte nachklingen, daß traurige Schatten in die „blühende
+Gegenwartg hineinnicken. Aber warum denn, warum denn?
+Warum kann ichs nicht vertreiben, vernichten. Warum quäl
+ich dich und mich? Mich — ja gut —! aber dich, das ist gemein,
+weil du's nicht verdienst, weil ja wirklich alles vorbei ist! —
+Ach, und doch alle diese elenden infamen Worte, du würdest
+sie mir zugute halten, wenn du einen Begriff von dem wüthen¬
+den Egoismus meiner Leidenschaft fühltest! — Einmal sagtest</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">26-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1887-12-31">31. 12. 1887</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Olga Waissnix</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>[Berlin,
+Ende April 88</dateline>
+                     <salute>Verehrteste gnädige Frau!</salute>
+                  </opener>
+                  <p>Wer Briefe, wie Ihren letzten so lange nicht beantwortet, ver¬
+dient gar nicht, daß er sie bekommt, denn Sie glauben nicht,
+Sie wissen vielleicht gar nicht mehr, was für ein Ton durch
+diesen letzten Brief durchgegangen ist ... Der reine Frühling!</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">28-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-04-29">29. 4. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Karl Emil Franzos</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin
+29. 4. 88.</dateline>
+                     <salute>Hochverehrter Herr!</salute>
+                  </opener>
+                  <p>Ich nehme mir die Freiheit, Ihnen zwei Erzählungen zu über¬
+senden, von denen ich mir selbst kaum einbilden will, daß sie
+für Ihre „Dtsch. Dichtung der Vorzüge genug besitzen. Je¬
+denfalls aber wäre mir ein Urtheil von Ihnen höchst er¬
+wünscht, um das Sie hiemit zwar unbescheiden, aber herzlichst
+gebeten sind. Ich unterließ es, persönlich mit Ihnen über diese
+Sache zu reden, da ich in dem Augenblicke dieser Bitte am
+liebsten ein ganz und gar unbekannter, gewiß aber nicht der
+gut empfohlene und so liebenswürdig aufgenommene „Sohn
+meines Vatersg sein möchte.</p>
+                  <closer>Mit besondrer Hochachtung</closer>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">29-29</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-05-10">etwa. 10. 5. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>Berlin
+setwa 10. Mai] 88</dateline>
+                     <salute>Theuerster Papa!</salute>
+                  </opener>
+                  <p>Anbei schicke ich die Correctur zurück. Wie schreibt man im
+Plural: Selfmademen oder self mades men? Mama möge in
+diesem Sinne die ersten Zeilen corrigiren, sie weiss ja doch am
+meisten englisch von uns allen. Sonst hab' ich nur Buchstaben¬
+fehler ausgebessert. Den Ausfall auf den Antisemitismus
+überlasse ich deiner Umsicht. Wenn du willst kannst du die
+Stelle „Sogar der Antisemitismusg etc. weglassen. —
+Wenn du es für durchaus nothwendig gehalten hättest, hätte
+ich auch aus dem Brief drei machen können; aber so wenig
+mir selbst diese Correspondenz behagt; ich erkenne ihr doch
+den Vorzug zu, dafs sie concis ist und alles sagt, ohne viel
+zu schwefeln.Noch eine Bitte: daßs der Brief von mir ist, weiß man ja ohne¬
+hin; ich bitte dich, meine journalistische Zurückhaltung zu be¬
+rücksichtigen und es einfach bei der Unterschrift A.S. bewen¬
+den zu lassen. Wenn mir etwas selber nicht gefällt, so unter¬
+zeichne ich es nicht gern mit meinem vollen Namen.- Sosehr ich nun zugestehen muß, daß ich Berlin in meinen
+früheren Briefen an Euch bitter Unrecht gethan habe, so wenig
+kann ich meine Freude darüber unterdrücken, daß ich es bald
+wieder verlassen kann. Ob das nur die erbliche Schnitzlerische
+Unruhe ist, weifs ich nicht. — Ich denke also Montag Abend,
+nachdem ich den Sonntag in Dresden verbringen möchte, wie¬
+der in Wien, bei Euch zu sein, spätestens Dinstag früh.</p>
+                  <closer>Ich grüße und küsse Euch alle tausend Mal als
+Dein Dich innigst liebender dankbarer Sohn Arthur</closer>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+         <teiheader>
+         <fileDesc xmlns="">
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt/>
+            <seriesStmt/>
+            <sourceDesc>
+               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">29-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+            <profileDesc>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName>Arthur Schnitzler</persName>
+                     <placeName/>
+                     <correspDate when="1888-05-23">23. 5. 1888</correspDate>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName>Johann und Louise Schnitzler</persName>
+                  </correspAction>
+               </correspDesc>
+            </profileDesc>
+            <revisionDesc/>
+         </fileDesc>
+      </teiheader>
+         <text>
+            <body>
+               <div type="writingSession">
+                  <opener>
+                     <dateline>London,
+23/5 88</dateline>
+                     <salute>Liebste Eltern!</salute>
+                  </opener>
+                  <p>Eben habe ich ein Telegramm an Euch abgesandt u nun folgt
+die ausführlichere Bearbeitung. —</p>
+               </div>
+            </body>
+         </text>
+      </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+</PcGts>

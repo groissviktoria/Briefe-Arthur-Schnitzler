@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an den Vater</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">2-3</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1878-04-10">10. 4. 1878</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>10/4 1878</dateline>
+                  <salute>Theuerster Papa!</salute>
+               </opener>
+               <p>An dem heutigen Tage bringe auch ich Dir die herzlichsten,
+tiefgefühlten Glückwünsche dar. Sie wollen dasselbe sagen,
+was ich täglich in meinem Innersten denke, was mein Herz
+stets und unverändert hegt. Sie fassen in Worte, was besser
+ungesagt bliebe; da diese Worte ja doch weit hinter dem zu¬
+rückblieben, was das Herz empfindet. Mögst Du noch lang
+und glücklich leben; alle Deine Wünsche mögen in fröhlicheErfüllung gehen, so daß Zufriedenheit in Dein Herz einkehrt,
+und Deine Tage in ungetrübter Heiterkeit dahinfließen. Sor¬
+gen mögen Dir stets fern bleiben, und jedweder Segen des
+Himmels und der Erde möge Dich beglücken.Dafs alles, was ich in diesen Zeilen niedergelegt, weit schöner
+sich erfüllt, als ich es auszudrücken wüßte, ist der innigste
+Wunsch und die ersehnteste Hoffnung
+Deines dankbaren und Dich innigstliebenden Sohnes</p>
+               <closer>Arthur.</closer>
+               <postscript>An Julius herzlichen Gruß u Kuß</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>

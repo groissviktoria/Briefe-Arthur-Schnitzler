@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an den Vater</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">5-6</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>[Bad Ischl,
+Sommer 1884</dateline>
+                  <salute>Theurer Papa!</salute>
+               </opener>
+               <p>Trotz allem  d. h. trotz der (im ganzen) mäßigen Gesell¬
+schaft hier und trotz des nicht ganz sommeraufenthaltsgemä¬
+ßen Studiums sehne ich mich vorderhand nach unserm Wien
+sehr wenig zurück. Du wohl auch nicht, der jetzt sicher ein ab¬
+wechslungsreicheres Leben führt als wir allhier. Wir sind sehr
+begierig auf Deine Nachrichten, deren Du für uns wohl in¬
+teressantere bereit haben wirst als wir für Dich. Jeden Vor¬
+mittag von der Entdeckung neuer Bacillen zu hören und gleich
+dazu von einem Mittel, das sie bereits in hunderttausendper¬
+zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wieerhebend muß das sein; und ein wie viel erhebenderes, gleich
+den Abend darauf bei einem Glase Champagner über die Zu¬
+versicht und das — Selbstbewußstsein jener Forscher lächeln zu
+können, die bei all ihrem Eifer jeden Moment an irgend was
+unüberwindliches anrennen —
+Es grüßt u küsst Dich herzlich</p>
+               <closer>Dein Dich innigliebender
+Arthur.</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

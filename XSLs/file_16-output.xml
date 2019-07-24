@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">20-22</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-10">etwa. 10. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin</dateline>
+                  <salute>Theuerste Eltern! —</salute>
+               </opener>
+               <p>Ich kann natürlich nicht sagen, daß ich mich hier bereits hei¬
+misch fühle — aber fremd durchaus nicht mehr. Auch hab ich
+Berlin in manchem Unrecht gethan: es geht wirklich ein grof¬
+städtischer, ein ganz andrer Zug als in Wien durch dieses Le¬
+ben, dem es vielleicht an Wärme, aber gewiß nicht an Bewe¬
+gung fehlt. Nach Mitternacht (pardon, das ich um diese Zeit
+noch auf bin) herrscht noch in einem gewissen unsrer inner¬
+sten Stadt entsprechenden Theile eine fabelhafte Wachheit — da
+verkaufen Blumenjünglinge (noch um 2 Uhr Nachts) Rosen¬
+bouquets, Cigarrenladen sind offen; in den Kaffeehäusern
+wogt es; einzeln stehende Personen beiderlei Geschlechtes, Fa¬
+milien (jeder Art) ziehen durch die Straßen und freuen sich
+der deutschen Einheit, sowie des eignen bedeutenden Lebens.
+Wen das dynastische Gefühl zu erdrücken droht, der hat einen
+schwarzen Flor um den Arm und thut, als wenn der deutsche
+Kaiser speciell ihm gestorben sei. — Die Theater, wie man mirerzählt und wie ich zum Theil selbst gesehen, sind alle immer
+voll; in einem ist Francillon zum roo., im andern die Schüt¬
+zenliesl zum zoo., im dritten Farinelli zum roo., im vierten
+die Reise um die Erde zum 62 z. mal u.s.w.— Daß das Leben jedoch hier billiger ist für den, der doch etwas
+sehen und nicht Volksküchen oder Stalehner-Kost zu sich neh¬
+men will, als bei uns, kann ich und mit mir auch competentere
+Beurtheiler nicht finden. Ich benütze diese Gelegenheit Euch
+die zweite Rate meines Miethzinses anzugeben: 35.— Zusam¬
+men 75. Jede Kleinigkeit extra, Bedienung, Licht, etc. - Aller¬
+dings wohne ich jetzt wenigstens nett - und — es mag ja ein
+Fehler von mir sein — in einem schäbigen Local zu wohnen
+raubt mir alle Stimmung! —Nun von meinen Besuchen: Fränkl äußerst liebenswürdig.
+Scheint pedantisch, anständig, nicht bedeutend. Oben in seiner
+Poliklinik große Nettigkeit; liebenswürdiger Assistent Rosen¬
+berg (Mentholwahnsinn). Man ist oben von 12-3. Gestern hab
+ich bereits einen Nasenpolypen kauterisirt und adenoide Ve¬
+getationen an der hintern Rachenwand, die hier viel häufiger
+sind als in Wien, mittelst einer in Wien glaub“ ich nicht üb¬
+lichen Methode operirt.Krause hat seine Poliklinik zur selben Zeit; er empfing mich
+mit einer etwas blasirten Liebenswürdigkeit, wird im Sommer¬
+semester kaum lesen, und läfst sozusagen immer den histori¬
+schen Hintergrund durchschimmern, wenn er auftritt. Doch
+stehe mir das Material zur Verfügung. —
+Lazarus, den ich dieser Tage aufsuche, soll zur selben Zeit
+lesen. —Leyden ist verreist.—Die eigentlichen Vorlesungen beginnen erst Ende April. Nun
+einige wichtige Fragen, um deren stricte Beantwortung höf¬
+lichst gebeten wird:Soll ich Westphal besuchen?Wie heißt gunserg Kalischer mit dem Vornamen.Soll ich Mar August Fritsche besuchen?Wie heift der von dir gemeinte Rosenthal mit dem Vor¬
+namen? Wie Behrend’ Ist er Sanitätsrat oder Docent? - Heute
+such' ich Gerhardt, Senator auf. —
+Bei Tewele war ich Sonntag.Auch Josef Kainz war dort, ein „Urwienerg mit zwei reizen¬
+den Kindern.Frau Rodenberg empfing mich mit vollendeter Liebenswürdig¬
+keit; ihren Mann habe ich noch nicht kennengelernt; ich lasse
+Dr Schiff aufs allerherzlichste danken! —
+Fränkl „hofftg mich auch bald im Kreise der Seinen sehn zu
+können. —— Journalistisch ist hier nichts zu leisten, bevor das Semester
+anfängt: es ist alles ganz todt; viele sind verreist. —
+Nun noch etwas: Ich habe die Miethe im vorhinein bezahlt,
+und auch in den allerersten Tagen als Debutant mehr aus¬
+gegeben, als mein Durchschnittsgeld per Tag ausmacht. Mie¬
+the und Reise (mit Gepäck etc.) allein machen ungefähr
+160 Mark. Bleiben vo. Seit Donnerstag Abend bin ich da: ihr
+begreift also dafs es mir sehr lieb wäre, schon Freitag im Be¬
+sitze weitern Geldes zu sein! Es ist sehr peinlich, mit zehn
+Mark herumzugehn! Wie denkst du, liebster Papa, über einen
+wenn auch nur minimalen Reservefond, der bezweckt, daß ich
+Samstag nicht immer gar zu bärmliche herumgehe? — Ich un¬
+terwerfe mich ganz Euern weisen Entschlüssen. Hrn. Benve¬
+nisti hab ich aufgesucht; er war sehr charmant. - Ist das Geld
+(für alle Fälle! ich werds nicht brauchen!) bei Bleichröder an¬
+gewiesen? —Gestern Vormittag war ich mit Dr. Löb im Krankenhaus
+Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬tal, wo Hr Dr. Heilsmann (er hat bei Papa gehört) den Cice¬
+rone machte. Heute führte mich Prof. Lewin, der Papa herzlich
+grüßt, in seiner Abthlg auf der Charité umher; u ich machte
+die Visite mit. Gestern Abend war ich bei Rodenbergs zu
+einem pfreundschaftlichen Theeg geladen; man war allgemein
+sehr intelligent. Die Tochter des Hauses hat natürlich ein Au¬
+tographenalbum mit geistreichen Worten der größten Dichter:
+So hat z.B. lbsen hineingeschrieben. „Berlin, den 12. März
+1888. Henrik lbseng. — (Aus!) Dann war ein Baron da, der
+lbsen und den Geschmack der Haustochter verdammte, einen
+langen arischen Bart sowie allgemeine Bildung hatte. Die gras¬
+sirt überhaupt hier schrecklich. An unserm Tisch (es wurde
+nemlich ein ziemlich gelungener Versuch gemacht zu soupiren)
+waren wir unser 6, drei Damen und drei Herren, und jeder
+konnte über alles mitreden. Einer fand zu meinem größten
+Ergötzen, daß die Wiener Kaffeehäuser anu gar keinen Ver¬
+gleich mit den Berliner Kaffeehäusern aushielten.&amp; Der s.Z.
+berühmte Pianist Schulhof spielte ein paar halbvergangene
+Klavierstücke u mußte sich gleich darauf ins Stammbuch der
+Haustochter schreiben. Er kritzelte Noten hin. Da passirte ihm— ein Klex; den er sofort zum E. ernannte. „Eine Pfundnoteg
+rief ein älterer Witzbold aus; was große Heiterkeit hervor¬
+rief. Nach dem Souper bekam man, wie hier üblich, wieder
+Bier zu trinken, Patzenhoferg. Ein Assistent von Virchow,
+Dr. Israel, war anwesend und natürlich spielte auch die Bron¬
+chitis des Kaisers in die Unterhaltung. Glaubt nur nicht, daf
+Berlin düster gestimmt ist. Berlin kann überhaupt nicht ge¬
+stimmt sein; man kann sich hier gewiß unterhalten, man kann
+sich ärgern, man kann einen Schmerz empfinden (den eignen),
+aber von dem intimen Reiz der „Stimmungg ist nichts zu be¬
+merken. Sonderbar berührte es mich, als ich hundert Schritte
+weit vom königlichen Schlosse ausrufen hörte „Schlechtere
+Nachrichten vom Kaiser — nur zehn Pfennige! —— Und auf Mackenzie schimpft man hier! Das ist fabelhaft.
+Tobold war mir interessant. Er zeigte mir ein Modell (keinBild!) des kaiserlichen Kehlkopfes, das er sich nach der Con¬
+sultation vom 18. Mai v.]. angefertigt. Alle waren damals
+klar darüber: Carcinom. Alle schlugen Laryngofissur vor, die
+damals wirklich leicht ausführbar — es ermöglicht hätte, das
+allein erkrankte linke wahre Stimmband zu entfernen. Nur
+M. war für endolaryngeale Behandlung; u wollte zuwarten.
+Nun sagt Tobold, wenn die Laryngofissur gemacht worden
+wäre, so hätte dieselbe das Leben des Patienten sicher auf
+lange, auf Jahre erhalten, verschließt sich aber, wie es scheint,
+der großen Möglichkeit, daß nach Entfernung des kranken
+Stimmbands von der Wundfläche aus noch viel rascher, als es
+nun geschehen, neue Wucherungen carc. Natur vielleicht her¬
+vorgesprieft wären. Tobold wirft M. geradezu Ungeschicklich¬
+keit vor, was man hier sehr vielfach hört. Auch auf Krause ist
+man nicht gut zu sprechen. Tobold wollte s.Z. den Papa und
+Störk zur Consultation vorschlagen und hätte dir dann, wie er
+mir sagte, jedenfalls telegraphirt „Halten Sie sich bereite.- Der Kronprinz zieht fast täglich mit dem bekannten „klin¬
+genden Spieleg über die Linden. Schreckliche conventionelle
+Lüge. Und Berlin ist weder aufgeregt, noch verdüstert: nur
+ein Theaterdirector sagte mir: Zwei Landestrauer in einer
+Sähsong, das halten wir nich aus!— Ich habe noch einige Fragen zu stellen, um deren möglichst
+schleunige Beantwortung ich bitte: Ein Doctor Fraunstädter
+macht eine Arbeit über Tuberculose u. Syphilis; er ersucht um
+eine Zusammenstellung der diesbezüglichen Arbeiten aus dei¬
+ner Feder, l.Papa. — Ein Dr. Greifenhagen aus Rußland frägt
+nach dem Beginn des nächsten Kurses.— Dr. Kalischer wird die Güte haben, mir ehestens eine Zu¬
+sammenstellung jener Vereine etc. zu machen, an welche die
+Zusendung der I. Kl. Rsch geboten wäre: das Blatt kennt hier
+nemlich kein Mensch, außer mir und Dr. Kalischer. —Von Rodenberg beste Grüße. Ich lasse Hrn Dr. Schiff nochmals
+bestens danken: man war sehr liebenswürdig gegen mich.Mit meinen Besuchen komm ich noch immer nicht zu Ende: ichhabe über 40 zu machen, doch auch was andres zu thun; die
+Entfernungen sind groß, fast alle haben zur selben Zeit 4-5,
+5-6 Sprechstunde; einen od den andern trifft man nicht u.s.w.
+— Ende nächster Woche hoff ich fertig zu sein.—
+Julius u Gisa bitte ich um Entschuldigung, daß ich noch immer
+nicht ihre l. Zeilen speciell beantwortet habe: es wird schon
+kommen!</p>
+               <closer>Ich grüße und küsse Euch alle tausendmal.</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

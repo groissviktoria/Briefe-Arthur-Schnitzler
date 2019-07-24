@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an den Vater</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">6-8</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-09-21">21. 9. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien
+21./9/86</dateline>
+                  <salute>Theuerster Papa! -</salute>
+               </opener>
+               <p>Heute habe ich dir bereits von neuen Patienten zu vermelden.
+Gestern erschien ein blutleerer, magen- und lungenleidender
+Friseurgehilfe; heute ein Hauptmann des Ruhestandes (einer
+derjenigen, die „das nächste Mal so frei sein werdeng) undeine Köchin. Merkwürdig, daß gar kein Papst oder Kaiser zu
+mir in die Privatordination kommt. —Der erste Patient, der heute eintrat, gleichfalls ein neuer,
+machte, als er meiner ansichtig wurde, ein schauderhaft blödes
+Gesicht;  ich, die Bedeutung dieses Gesichtes nur allzugut
+kennend, erwiderte auf diesen stummen Ausdruck seiner Ent¬
+täuschung sofort: „Der Professor kommt erst Ende der Wo¬
+cheg, worauf jener irgend eine Bemerkung machte, welche mir
+offenbar begreiflich machen sollte, daß ihn eigentlich nur der
+Ruf deines Namens, lieber Papa, hergelockt... und ver¬
+schwandFrau Margulies aus Sophia entliess ich heute ygebessert — auf
+Verlangeng in ihre Heimat; sie zahlte für ihre 6 Visiten und
+brachte heute als „Zuwagg gleich einen Sohn mit, der große
+Mandeln hatte, was uns beiden wenig Beschwerden machte.— Gestern reiste die Brodenserin ab, der du eine Mandel her¬
+ausgeschnitten hast. —Am häufigsten erscheinen die Sängerinen, Lehrerinen, u.s.w.
+Das wär“ ein Malheur, wenn so eine einmal im Ernst ge¬
+sund würde. „Sie erben sich aber vom Vater zum Sohne,
+vom Professor zum Assistenten — wie eine ew'ge Krankheit
+fort.4 —— Uber deine bisherigen Berliner Berichte, aus denen je¬
+denfalls eine gute Laune, und eine vollkommene Zufrie¬
+denheit mit deiner Reise spricht, waren wir — trotz ihrer
+Kürze alle sehr erfreut. Was! es ist doch ein Genuß, nur Kor¬
+respondenzkarten zu schreiben.. Wenn einen so ein Brief¬
+papier anstarrt mit seinen vier großen weißen arroganten
+Seiten .. man steht anfangs immer ganz rathlos da, wenn
+einem noch so viel einfällt. Begreifst du jetzt meine berühm¬
+ten Reisecorrespondenzen? Ich bin offenbar hereditär be¬
+lastet.Ich schließe in der Hoffnung, daß du dich an der Spree fern
+vom Getümmel des medizinischen Wiener Lebens, der Mon¬
+tags-Revue und Antipolikliniker so gut erholst, als das bei</p>
+               <closer>Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

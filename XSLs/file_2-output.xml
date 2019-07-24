@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">1-2</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1875-07-17">17. 7. 1875</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline/>
+                  <salute>Liebe Mama!</salute>
+               </opener>
+               <p>„Von heute bis auf morgen
+Ist eine lange Fristesagte einer unsrer deutschen Dichter; aber in dieser langen
+Frist hat sich nicht so viel ereignet, daß man vier Octavseiten
+damit ausfüllen könnte.Aber — die Phönizier haben die Schreibekunst einmal erfun¬
+den, und diese Gewohnheit hat sich bis auf uns vererbt.Du könntest Dir eigentlich alles denken, was ich Dir hier
+schreibe. Gestern habe ich die drei Mandl’s engagirt, mit mir
+einen kleinen Waldspaziergang zu machen. Wir einigten uns
+um ½6 in der Frühe auf dem Platze zu sein. Ich spaziere um
+¼ 6 aus dem Hause und setze mich auf eine Bank auf derWaldwiese, die wir genau bestimmt hatten. Ich warte. Es wird
+½6. Das Kleeblatt der Mandl erscheint nicht. Es wird ¾6.
+Die Erwarteten scheinen noch äußerst selig zu schlummern.
+Die Glocke verkündet die sechste Stunde. Keine Spur von den
+Langschläfern. ¼ 7. Eben so wenig. Um ½7 endlich reift der
+Strick meiner Geduld; (denn das kann man nicht mehr den
+Geduldsfaden nennen), und ich ziehe mit der längsten Nase
+ab, die je irgend ein enttäuschtes Menschenkind gehabt hat.
+Wenn Dich dieses Abenteuer nicht interessirt, — ich trage keine
+Schuld dran; wenigstens hat mein Brief um eine Octavseite
+zugenommen, und Du plagst Dich um die Zeit, in der Du das
+liest, weniger in der Küche u. mit der Nähmaschine.- Heute war ich auch schon im Bad. Gottlobl es war sehr an¬
+genehm. Zuletzt muß ich noch auf den Spruch zurückkommen,
+mit dem ich diese Zeilen eröffnet habe; nur mit einer kleinen
+Veränderung.2Zwischen heut und morgen
+Liegt keine lange Frist.“Das soll sich der Papa zu Herzen nehmen und nicht gar zu
+sehr eilen, mich abzuholen; denn ——Gottlobl es war alles sehr angenehm.</p>
+               <closer>Dein dankbarer Sohn
+Arthur.</closer>
+               <postscript>N.B. Viele Grüße der ganzen Sippschaft.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>

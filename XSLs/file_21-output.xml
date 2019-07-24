@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an den Vater</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">29-29</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-05-10">etwa. 10. 5. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
+setwa 10. Mai] 88</dateline>
+                  <salute>Theuerster Papa!</salute>
+               </opener>
+               <p>Anbei schicke ich die Correctur zurück. Wie schreibt man im
+Plural: Selfmademen oder self mades men? Mama möge in
+diesem Sinne die ersten Zeilen corrigiren, sie weiss ja doch am
+meisten englisch von uns allen. Sonst hab' ich nur Buchstaben¬
+fehler ausgebessert. Den Ausfall auf den Antisemitismus
+überlasse ich deiner Umsicht. Wenn du willst kannst du die
+Stelle „Sogar der Antisemitismusg etc. weglassen. —
+Wenn du es für durchaus nothwendig gehalten hättest, hätte
+ich auch aus dem Brief drei machen können; aber so wenig
+mir selbst diese Correspondenz behagt; ich erkenne ihr doch
+den Vorzug zu, dafs sie concis ist und alles sagt, ohne viel
+zu schwefeln.Noch eine Bitte: daßs der Brief von mir ist, weiß man ja ohne¬
+hin; ich bitte dich, meine journalistische Zurückhaltung zu be¬
+rücksichtigen und es einfach bei der Unterschrift A.S. bewen¬
+den zu lassen. Wenn mir etwas selber nicht gefällt, so unter¬
+zeichne ich es nicht gern mit meinem vollen Namen.- Sosehr ich nun zugestehen muß, daß ich Berlin in meinen
+früheren Briefen an Euch bitter Unrecht gethan habe, so wenig
+kann ich meine Freude darüber unterdrücken, daß ich es bald
+wieder verlassen kann. Ob das nur die erbliche Schnitzlerische
+Unruhe ist, weifs ich nicht. — Ich denke also Montag Abend,
+nachdem ich den Sonntag in Dresden verbringen möchte, wie¬
+der in Wien, bei Euch zu sein, spätestens Dinstag früh.</p>
+               <closer>Ich grüße und küsse Euch alle tausend Mal als
+Dein Dich innigst liebender dankbarer Sohn Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

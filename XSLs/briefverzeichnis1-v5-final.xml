@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Briefverzeichnis1</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>tranScriptorium</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher>TRP document creator: viktoria.groiss@aidnet.at</publisher>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+
+
+                <item>
+                    <name>Leopold Freiherr von Andrian</name>
+                    <date when="1912-11-18">18. 11. 1912</date>
+                    <date when="1912-12-07">7. 12. 1912</date>
+                </item>
+                <item>
+                    <name>L. Andro</name>
+                    <date when="1912-02-12">12. 2. 1912</date>
+                </item>
+                <item>
+                    <name>Raoul Auernheimer</name>
+                    <date when="1910-12-06">6. 12. 1910</date>
+                </item>
+                <item>
+                    <name>Julius Bab</name>
+                    <date when="1909-01-18">18. 1. 1909</date>
+                </item>
+                <item>
+                    <name>Daniel Bachrach</name>
+                    <date when="1904-03-07">7. 3. 1904</date>
+                </item>
+                <item>
+                    <name>Hermann Bahr</name>
+                    <date when="1897-11-18">18. 11. 1897</date>
+                    <date when="1901-06-26">26. 6. 1901</date>
+                    <date when="1903-04-06">6. 4. 1903</date>
+                    <date when="1903-11-10">10. 11. 1903</date>
+                    <date when="1904-12-05">5. 12. 1904</date>
+                    <date when="1904-12-14">14. 12. 1904</date>
+                    <date when="1905-07-30">30. 7. 1905</date>
+                    <date when="1905-09-17">17. 9. 1905</date>
+                    <date when="1906-06-24">24. 6. 1906</date>
+                    <date when="1907-10-11">11. 10. 1907</date>
+                    <date when="1910-11-17">17. 11. 1910</date>
+                </item>
+                <item>
+                    <name>Ladislaus Bánóczi</name>
+                    <date when="1908-09-29">29. 9. 1908</date>
+                </item>
+                <item>
+                    <name>Viktor Barnowsky</name>
+                    <date when="1912-12-03">3. 12. 1912</date>
+                </item>
+                <item>
+                    <name>Ludwig Bauer</name>
+                    <date when="1903-07-10">10. 7. 1903</date>
+                </item>
+                <item>
+                    <name>Richard Beer-Hofmann</name>
+                    <date when="1891-06-06">6. 6. 1891</date>
+                    <date cert="low" when="1891-09-22">22. 9. 1891</date>
+                    <date when="1892-03-11">11. 3. 1892</date>
+                    <date when="1892-09-13">13. 9. 1892</date>
+                    <date when="1894-10-05">5. 10. 1894</date>
+                    <date when="1894-10-15">15. 10. 1894</date>
+                    <date when="1894-10-20">20. 10. 1894</date>
+                    <date when="1895-06-15">15. 6. 1895</date>
+                    <date when="1895-09-15">15. 9. 1895</date>
+                    <date when="1897-04-26">26. 4. 1897</date>
+                    <date when="1897-05-20">20. 5. 1897</date>
+                    <date when="1897-09-25">25. 9. 1897</date>
+                    <date when="1900-03-02">2. 3. 1900</date>
+                    <date when="1904-11-15">15. 11. 1904</date>
+                </item>
+                <item>
+                    <name>Alfred Freiherr von Berger</name>
+                    <date when="1906-09-07">7. 9. 1906</date>
+                    <date when="1907-09-26">26. 9. 1907</date>
+                    <date when="1910-11-26">26. 11. 1910</date>
+                    <date when="1911-09-20">20. 9. 1911</date>
+                    <date when="1912-06-17">17. 6. 1912</date>
+                </item>
+                <item>
+                    <name>Oskar Bie</name>
+                    <date when="1911-11-19">19. 11. 1911</date>
+                </item>
+                <item>
+                    <name>Felix Bloch Erben (Verlag)</name>
+                    <date when="1911-12-09">9. 12. 1911</date>
+                </item>
+                <item>
+                    <name>Philipp Bock</name>
+                    <date when="1911-01-21">21. 1. 1911</date>
+                </item>
+                <item>
+                    <name>Otto Brahm</name>
+                    <date when="1896-02-25">25. 2. 1896</date>
+                    <date when="1896-09-14">14. 9. 1896</date>
+                    <date when="1806-09-30">30. 9. 1806</date>
+                    <date when="1897-01-07">7. 1. 1897</date>
+                    <date when="1897-05-23">23. 5. 1897</date>
+                    <date when="1901-12-22">22. 12. 1901</date>
+                    <date when="1902-01-09">9. 1. 1902</date>
+                    <date when="1903-11-02">2. 11. 1903</date>
+                    <date when="1903-11-10">10. 11. 1903</date>
+                    <date when="1904-08-13">13. 8. 1904</date>
+                    <date when="1905-10-01">1. 10. 1905</date>
+                    <date when="1906-01-23">23. 1. 1906</date>
+                    <date when="1906-01-27">27. 1. 1906</date>
+                    <date when="1906-04-28">28. 4. 1906</date>
+                    <date notBefore="1906-05-01" notAfter="1906-06-01">5. 1906</date>
+                    <date when="1906-07-12">12. 7. 1906</date>
+                    <date when="1906-07-28">28. 7. 1906</date>
+                    <date when="1906-08-06">6. 8. 1906</date>
+                    <date when="1908-03-16">16. 3. 1908</date>
+                    <date when="1909-08-04">4. 8. 1909</date>
+                    <date when="1909-08-14">14. 8. 1909</date>
+                    <date when="1909-12-09">9. 12. 1909</date>
+                    <date when="1909-12-18">18. 12. 1909</date>
+                    <date when="1909-12-27">27. 12. 1909</date>
+                    <date when="1910-12-23">23. 12. 1910</date>
+                    <date when="1911-09-23">23. 9. 1911</date>
+                    <date when="1911-10-04">4. 10. 1911</date>
+                    <date when="1911-12-30">30. 12. 1911</date>
+                    <date when="1912-09-23">23. 9. 1912</date>
+                </item>
+                <item>
+                    <name>Georg Brandes</name>
+                    <date when="1894-06-12">12. 6. 1894</date>
+                    <date when="1897-01-11">11. 1. 1897</date>
+                    <date when="1897-02-03">3. 2. 1897</date>
+                    <date when="1898-07-23">23. 7. 1898</date>
+                    <date when="1899-01-12">12. 1. 1899</date>
+                    <date when="1899-05-08">8. 5. 1899</date>
+                    <date when="1900-05-03">3. 5. 1900</date>
+                    <date when="1906-03-13">13. 3. 1906</date>
+                    <date when="1908-07-04">4. 7. 1908</date>
+                    <date when="1911-01-19">19. 1. 1911</date>
+                </item>
+                <item>
+                    <name>Albert Ehrenstein</name>
+                    <date when="1911-02-09">9. 2. 1911</date>
+                    <date when="1911-05-06">6. 5. 1911</date>
+                </item>
+                <item>
+                    <name>Paul Englisch</name>
+                    <date when="1911-12-30">30. 12. 1911</date>
+                </item>
+                <item>
+                    <name>Fritz Epstein</name>
+                    <date when="1907-04-11">11. 4. 1907</date>
+                    <date when="1907-04-17">17. 4. 1907</date>
+                </item>
+                <item>
+                    <name>Stephan Epstein</name>
+                    <date when="1902-10-01">1. 10. 1902</date>
+                </item>
+                <item>
+                    <name>Samuel Fischer</name>
+                    <date when="1907-02-23">23. 2. 1907</date>
+                    <date when="1907-04-17">17. 4. 1907</date>
+                    <date when="1907-11-15">15. 11. 1907</date>
+                    <date when="1907-11-16">16. 11. 1907</date>
+                    <date when="1908-05-14">14. 5. 1908</date>
+                    <date when="1908-05-29">29. 5. 1908</date>
+                    <date when="1910-06-04">4. 6. 1910</date>
+                    <date when="1910-11-30">30. 11. 1910</date>
+                    <date when="1910-12-17">17. 12. 1910</date>
+                    <date when="1911-06-24">24. 6. 1911</date>
+                    <date when="1911-10-20">20. 10. 1911</date>
+                </item>
+                <item>
+                    <name>Karl Emil Franzos</name>
+                    <date when="1888-04-29">29. 4. 1888</date>
+                </item>
+                <item>
+                    <name>Rosa Freudenthal</name>
+                    <date when="1897-10-02">2. 10. 1897</date>
+                    <date when="1897-10-09">9. 10. 1897</date>
+                </item>
+                <item>
+                    <name>Ernst Friedmann</name>
+                    <date when="1912-09-13">13. 9. 1912</date>
+                </item>
+                <item>
+                    <name>Carl Friese</name>
+                    <date when="1907-02-13">13. 2. 1907</date>
+                    <date when="1907-02-20">20. 2. 1907</date>
+                </item>
+                <item>
+                    <name>Ludwig Fulda</name>
+                    <date when="1898-11-28">28. 11. 1898</date>
+                    <date when="1898-12-28">28. 12. 1898</date>
+                    <date when="1899-01-04">4. 1. 1899</date>
+                    <date when="1899-03-10">10. 3. 1899</date>
+                    <date when="1899-04-25">25. 4. 1899</date>
+                    <date when="1900-06-20">20. 6. 1900</date>
+                    <date when="1900-06-23">23. 6. 1900</date>
+                    <date when="1900-07-07">7. 7. 1900</date>
+                    <date when="1901-01-17">17. 1. 1901</date>
+                    <date when="1901-03-22">22. 3. 1901</date>
+                    <date when="1901-06-08">8. 6. 1901</date>
+                    <date when="1904-07-23">23. 7. 1904</date>
+                    <date when="1904-08-25">25. 8. 1904</date>
+                </item>
+                <item>
+                    <name>Marie Glümer</name>
+                    <date notBefore="1889-06-01" notAfter="1889-09-01">Sommer. 1889</date>
+                    <date when="1889-08-04">4. 8. 1889</date>
+                    <date cert="low" when="1889-08-05">5. 8. 1889</date>
+                    <date cert="low" when="1889-08-06">6. 8. 1889</date>
+                    <date cert="low" when="1889-08-28">28. 8. 1889</date>
+                    <date cert="low" when="1889-09-04">4. 9. 1889</date>
+                    <date when="1889-09-05">5. 9. 1889</date>
+                    <date cert="low" when="1889-09-08">8. 9. 1889</date>
+                    <date cert="low" when="1889-09-23">23. 9. 1889</date>
+                    <date when="1889-10-05">5. 10. 1889</date>
+                    <date cert="low" when="1889-10-07">7. 10. 1889</date>
+                    <date cert="low" when="1889-10-08">8. 10. 1889</date>
+                    <date when="1889-11-14">14. 11. 1889</date>
+                    <date cert="low" when="1889-11-22">22. 11. 1889</date>
+                    <date when="1889-12-03">3. 12. 1889</date>
+                    <date when="1890-07-30">30. 7. 1890</date>
+                    <date cert="low" when="1890-09-15">15. 9. 1890</date>
+                    <date notBefore="1890-09-01" notAfter="1890-10-01">9. 1890</date>
+                    <date when="1890-10-06">6. 10. 1890</date>
+                    <date when="1890-10-07">7. 10. 1890</date>
+                    <date when="1890-10-12">12. 10. 1890</date>
+                    <date when="1890-10-27">27. 10. 1890</date>
+                    <date when="1890-11-18">18. 11. 1890</date>
+                    <date cert="low" when="1890-11-19">19. 11. 1890</date>
+                    <date when="1890-10-24">24. 10. 1890</date>
+                    <date when="1891-02-09">9. 2. 1891</date>
+                    <date when="1891-03-12">12. 3. 1891</date>
+                    <date when="1891-07-02">2. 7. 1891</date>
+                    <date when="1892-08-30">30. 8. 1892</date>
+                    <date when="1892-09-29">29. 9. 1892</date>
+                    <date when="1892-10-09">9. 10. 1892</date>
+                    <date when="1892-10-12">12. 10. 1892</date>
+                    <date when="1892-10-15">15. 10. 1892</date>
+                    <date when="1892-11-09">9. 11. 1892</date>
+                    <date when="1892-11-13">13. 11. 1892</date>
+                    <date when="1892-11-17">17. 11. 1892</date>
+                    <date when="1892-11-18">18. 11. 1892</date>
+                    <date when="1892-11-19">19. 11. 1892</date>
+                    <date when="1892-11-27">27. 11. 1892</date>
+                    <date when="1892-11-30">30. 11. 1892</date>
+                    <date when="1892-12-14">14. 12. 1892</date>
+                    <date when="1892-12-16">16. 12. 1892</date>
+                    <date when="1892-12-31">31. 12. 1892</date>
+                    <date when="1893-01-16">16. 1. 1893</date>
+                    <date when="1893-01-17">17. 1. 1893</date>
+                    <date when="1893-01-18">18. 1. 1893</date>
+                    <date when="1893-02-02">2. 2. 1893</date>
+                    <date when="1893-02-04">4. 2. 1893</date>
+                    <date when="1893-02-16">16. 2. 1893</date>
+                    <date when="1893-02-19">19. 2. 1893</date>
+                    <date when="1893-03-20">20. 3. 1893</date>
+                    <date when="1893-03-29">29. 3. 1893</date>
+                    <date when="1893-04-04">4. 4. 1893</date>
+                    <date when="1893-04-22">22. 4. 1893</date>
+                    <date when="1893-04-26">26. 4. 1893</date>
+                    <date when="1893-04-29">29. 4. 1893</date>
+                    <date when="1893-05-23">23. 5. 1893</date>
+                    <date when="1893-05-29">29. 5. 1893</date>
+                    <date when="1893-06-02">2. 6. 1893</date>
+                </item>
+                <item>
+                    <name>Eduard Goldbeck</name>
+                    <date when="1909-03-15">15. 3. 1909</date>
+                </item>
+                <item>
+                    <name>Paul Goldmann</name>
+                    <date cert="low" when="1896-11-21">21. 11. 1896</date>
+                    <date when="1896-11-22">22. 11. 1896</date>
+                </item>
+                <item>
+                    <name>Elise Gomperz</name>
+                    <date when="1910-12-15">15. 12. 1910</date>
+                </item>
+                <item>
+                    <name>Theodor Gomperz</name>
+                    <date when="1910-12-15">15. 12. 1910</date>
+                </item>
+                <item>
+                    <name>Walter Graetzer</name>
+                    <date when="1910-05-03">3. 5. 1910</date>
+                </item>
+                <item>
+                    <name>Harley Granville-Barker</name>
+                    <date when="1911-02-09">9. 2. 1911</date>
+                </item>
+                <item>
+                    <name>Jack Thomas Grein</name>
+                    <date when="1009-10-16">16. 10. 1009</date>
+                </item>
+                <item>
+                    <name>Stefan Grossmann</name>
+                    <date when="1912-02-12">12. 2. 1912</date>
+                </item>
+                <item>
+                    <name>Elisabeth Gussmann</name>
+                    <date when="1906-01-03">3. 1. 1906</date>
+                    <date when="1912-04-29">29. 4. 1912</date>
+                </item>
+                <item>
+                    <name>Olga Gussmann s. Olga Schnitzler</name>
+                </item>
+                <item>
+                    <name>Maximilian Harden</name>
+                    <date cert="low" when="1904-12-11">etwa. 11. 12. 1904</date>
+                </item>
+                <item>
+                    <name>Gerhart Hauptmann</name>
+                    <date when="1899-07-15">15. 7. 1899</date>
+                    <date when="1899-08-25">25. 8. 1899</date>
+                </item>
+                <item>
+                    <name>Auguste Hauschner</name>
+                    <date when="1909-01-23">23. 1. 1909</date>
+                </item>
+                <item>
+                    <name>Jeanette Heeger</name>
+                    <date cert="low" notBefore="1888-04-01" notAfter="1888-05-01">4. 1888</date>
+                    <date when="1888-08-06">6. 8. 1888</date>
+                    <date cert="low" when="1889-07-27">27. 7. 1889</date>
+                    <date when="1889-09-07">7. 9. 1889</date>
+                    <date cert="low" notBefore="1889-12-01" notAfter="1890-01-01">12. 1889</date>
+                </item>
+                <item>
+                    <name>Egon Heller</name>
+                    <date when="1912-12-28">28. 12. 1912</date>
+                </item>
+                <item>
+                    <name>Hugo Heller</name>
+                    <date cert="low" when="1906-09-30">30. 9. 1906</date>
+                </item>
+                <item>
+                    <name>Wilhelm Heller</name>
+                    <date when="1898-07-15">15. 7. 1898</date>
+                </item>
+                <item>
+                    <name>Theodor Herzl</name>
+                    <date when="1892-07-25">25. 7. 1892</date>
+                    <date when="1892-08-05">5. 8. 1892</date>
+                    <date when="1892-11-12">12. 11. 1892</date>
+                    <date when="1892-12-30">30. 12. 1892</date>
+                    <date when="1893-06-13">13. 6. 1893</date>
+                    <date when="1893-06-21">21. 6. 1893</date>
+                    <date when="1893-10-02">2. 10. 1893</date>
+                    <date when="1893-12-10">10. 12. 1893</date>
+                    <date when="1894-07-05">5. 7. 1894</date>
+                    <date when="1894-11-10">10. 11. 1894</date>
+                    <date when="1894-11-17">17. 11. 1894</date>
+                    <date when="1894-11-30">30. 11. 1894</date>
+                    <date when="1894-12-15">15. 12. 1894</date>
+                    <date when="1894-12-19">19. 12. 1894</date>
+                    <date when="1894-12-26">26. 12. 1894</date>
+                    <date when="1895-01-07">7. 1. 1895</date>
+                    <date when="1895-01-14">14. 1. 1895</date>
+                    <date when="1895-01-30">30. 1. 1895</date>
+                    <date when="1895-02-18">18. 2. 1895</date>
+                    <date when="1895-03-09">9. 3. 1895</date>
+                    <date when="1895-03-27">27. 3. 1895</date>
+                    <date when="1895-04-06">6. 4. 1895</date>
+                    <date when="1895-05-01">1. 5. 1895</date>
+                    <date when="1895-05-16">16. 5. 1895</date>
+                    <date when="1895-06-30">30. 6. 1895</date>
+                    <date when="1900-11-15">15. 11. 1900</date>
+                    <date when="1900-11-17">17. 11. 1900</date>
+                    <date when="1900-12-22">22. 12. 1900</date>
+                    <date when="1900-12-24">24. 12. 1900</date>
+                </item>
+                <item>
+                    <name>Richard Heuberger</name>
+                    <date when="1910-06-16">16. 6. 1910</date>
+                </item>
+                <item>
+                    <name>Hugo von Hofmannsthal</name>
+                    <date when="1891-07-27">27. 7. 1891</date>
+                    <date when="1895-07-10">10. 7. 1895</date>
+                    <date when="1895-08-04">4. 8. 1895</date>
+                    <date when="1896-08-07">7. 8. 1896</date>
+                    <date when="1897-04-26">26. 4. 1897</date>
+                    <date when="1897-07-08">8. 7. 1897</date>
+                    <date cert="low" when="1898-07-19">19. 7. 1898</date>
+                    <date when="1899-03-22">22. 3. 1899</date>
+                    <date when="1900-07-17">17. 7. 1900</date>
+                    <date when="1903-01-07">7. 1. 1903</date>
+                    <date when="1903-06-26">26. 6. 1903</date>
+                    <date when="1904-08-09">9. 8. 1904</date>
+                    <date when="1910-11-02">2. 11. 1910</date>
+                </item>
+                <item>
+                    <name>Friedrich Hofreiter</name>
+                    <date when="1912-03-20">20. 3. 1912</date>
+                </item>
+                <item>
+                    <name>Michael Holzmann</name>
+                    <date when="1912-03-07">7. 3. 1912</date>
+                </item>
+                <item>
+                    <name>Irma Janiczek</name>
+                    <date when="1909-06-09">9. 6. 1909</date>
+                </item>
+                <item>
+                    <name>Samuel Jankolowitz</name>
+                    <date when="1908-12-16">16. 12. 1908</date>
+                </item>
+                <item>
+                    <name>Franz Jauner</name>
+                    <date notBefore="1898-03-01" notAfter="1898-04-01">3. 1898</date>
+                </item>
+                <item>
+                    <name>Kurt Junker</name>
+                    <date when="1912-06-13">13. 6. 1912</date>
+                </item>
+                <item>
+                    <name>Julius Kapp</name>
+                    <date when="1911-06-13">13. 6. 1911</date>
+                    <date when="1911-06-20">20. 6. 1911</date>
+                </item>
+                <item>
+                    <name>Eugenie Kaufmann</name>
+                    <date cert="low" when="1903-03-01">1. 3. 1903</date>
+                </item>
+                <item>
+                    <name>Alfred Kerr</name>
+                    <date when="1905-01-05">5. 1. 1905</date>
+                </item>
+                <item>
+                    <name>Hermann Kienzl</name>
+                    <date when="1907-04-17">17. 4. 1907</date>
+                </item>
+                <item>
+                    <name>Alfred Klaar</name>
+                    <date when="1903-09-12">12. 9. 1903</date>
+                </item>
+                <item>
+                    <name>Victor Klemperer</name>
+                    <date when="1911-02-04">4. 2. 1911</date>
+                </item>
+                <item>
+                    <name>Otto König</name>
+                    <date when="1911-06-10">10. 6. 1911</date>
+                </item>
+                <item>
+                    <name>Leopold Kramer</name>
+                    <date when="1908-12-15">15. 12. 1908</date>
+                </item>
+                <item>
+                    <name>Das literarische Echo, Redaktion</name>
+                    <date when="1906-12-01">1. 12. 1906</date>
+                </item>
+                <item>
+                    <name>Theodor Loewe</name>
+                    <date when="1911-10-09">9. 10. 1911</date>
+                </item>
+                <item>
+                    <name>Rudolf Lothar</name>
+                    <date when="1912-02-26">26. 2. 1912</date>
+                </item>
+                <item>
+                    <name>Heinrich Mann</name>
+                    <date when="1911-06-01">1. 6. 1911</date>
+                    <date when="1911-06-26">26. 6. 1911</date>
+                </item>
+                <item>
+                    <name>Felix und Julie Markbreiter</name>
+                    <date when="1909-05-19">19. 5. 1909</date>
+                </item>
+                <item>
+                    <name>Julie Markbreiter</name>
+                    <date when="1910-11-14">14. 11. 1910</date>
+                    <date when="1912-02-03">3. 2. 1912</date>
+                </item>
+                <item>
+                    <name>Ferdinand Matras</name>
+                    <date when="1909-05-27">27. 5. 1909</date>
+                </item>
+                <item>
+                    <name>Alfred Mayer</name>
+                    <date when="1912-10-10">10. 10. 1912</date>
+                </item>
+                <item>
+                    <name>Max Mell</name>
+                    <date when="1006-10-26">26. 10. 1006</date>
+                </item>
+                <item>
+                    <name>Albert Graf Mensdorff-Pouilly-Dietrichstein</name>
+                    <date when="1912-06-02">2. 6. 1912</date>
+                </item>
+                <item>
+                    <name>Leonie Meyerhof-Hildeck</name>
+                    <date when="1908-12-07">7. 12. 1908</date>
+                    <date when="1908-12-15">15. 12. 1908</date>
+                </item>
+                <item>
+                    <name>Jakob Minor</name>
+                    <date when="1908-02-10">10. 2. 1908</date>
+                </item>
+                <item>
+                    <name>Morgen, Redaktion</name>
+                    <date when="1907-12-05">5. 12. 1907</date>
+                    <date when="1907-12-21">21. 12. 1907</date>
+                </item>
+                <item>
+                    <name>Leopold Müller</name>
+                    <date when="1894-01-18">18. 1. 1894</date>
+                    <date cert="low" when="1898-03-01">1. 3. 1898</date>
+                    <date cert="low" when="1808-03-15">15. 3. 1808</date>
+                </item>
+                <item>
+                    <name>Franz Nabl</name>
+                    <date when="1907-02-06">6. 2. 1907</date>
+                </item>
+                <item>
+                    <name>Walter Nagelstock</name>
+                    <date when="1904-03-21">21. 3. 1904</date>
+                </item>
+                <item>
+                    <name>Wladimir Nemirowitsch</name>
+                    <date when="1912-10-01">1. 10. 1912</date>
+                </item>
+                <item>
+                    <name>Franz Neumann</name>
+                    <date when="1908-09-15">15. 9. 1908</date>
+                </item>
+                <item>
+                    <name>Wilhelm Neumann</name>
+                    <date when="1912-12-19">19. 12. 1912</date>
+                </item>
+                <item>
+                    <name>N.N.</name>
+                    <date when="1895-06-21">21. 6. 1895</date>
+                    <date when="1906-12-20">20. 12. 1906</date>
+                    <date when="1911-12-28">28. 12. 1911</date>
+                </item>
+                <item>
+                    <name>Karl Oettinger</name>
+                    <date when="1905-03-20">20. 3. 1905</date>
+                </item>
+                <item>
+                    <name>Felix Freiherr von Oppenheimer</name>
+                    <date when="1909-08-22">22. 8. 1909</date>
+                </item>
+                <item>
+                    <name>Gustav Pick</name>
+                    <date when="1908-01-24">24. 1. 1908</date>
+                </item>
+                <item>
+                    <name>Milena Preindlsberger</name>
+                    <date when="1905-04-12">12. 4. 1905</date>
+                </item>
+                <item>
+                    <name>Marie Reinhard</name>
+                    <date when="1895-07-16">16. 7. 1895</date>
+                    <date when="1895-07-17">17. 7. 1895</date>
+                    <date when="1895-07-21">21. 7. 1895</date>
+                    <date when="1895-08-04">4. 8. 1895</date>
+                    <date cert="low" when="1895-09-04">4. 9. 1895</date>
+                    <date when="1896-02-09">9. 2. 1896</date>
+                    <date when="1896-07-07">7. 7. 1896</date>
+                    <date when="1896-07-07">7. 7. 1896</date>
+                    <date when="1896-08-13">13. 8. 1896</date>
+                    <date when="1896-08-19">19. 8. 1896</date>
+                    <date when="1896-08-23">23. 8. 1896</date>
+                    <date when="1897-06-17">17. 6. 1897</date>
+                    <date when="1897-06-21">21. 6. 1897</date>
+                    <date when="1897-06-22">22. 6. 1897</date>
+                    <date when="1897-06-27">27. 6. 1897</date>
+                    <date when="1897-06-27">27. 6. 1897</date>
+                    <date when="1897-06-28">28. 6. 1897</date>
+                    <date when="1897-07-18">18. 7. 1897</date>
+                    <date when="1897-07-23">23. 7. 1897</date>
+                    <date when="1897-11-24">24. 11. 1897</date>
+                    <date when="1897-11-26">26. 11. 1897</date>
+                    <date when="1898-07-21">21. 7. 1898</date>
+                    <date when="1898-08-10">10. 8. 1898</date>
+                    <date cert="low" when="1898-08-31">31. 8. 1898</date>
+                    <date when="1898-10-03">3. 10. 1898</date>
+                    <date cert="low" when="1898-10-04">4. 10. 1898</date>
+                    <date cert="low" when="1898-10-05">5. 10. 1898</date>
+                    <date when="1898-10-07">7. 10. 1898</date>
+                    <date cert="low" when="1898-10-09">9. 10. 1898</date>
+                    <date cert="low" when="1898-10-10">10. 10. 1898</date>
+                    <date when="1898-10-11">11. 10. 1898</date>
+                </item>
+                <item>
+                    <name>Max Reinhardt</name>
+                    <date when="1909-12-24">24. 12. 1909</date>
+                </item>
+                <item>
+                    <name>Rainer Maria Rilke</name>
+                    <date when="1899-04-13">13. 4. 1899</date>
+                    <date when="1901-07-04">4. 7. 1901</date>
+                    <date when="1901-12-07">7. 12. 1901</date>
+                </item>
+                <item>
+                    <name>Richard Rosenbaum</name>
+                    <date when="1910-12-03">3. 12. 1910</date>
+                </item>
+                <item>
+                    <name>Richard Rosenheim</name>
+                    <date when="1911-01-13">13. 1. 1911</date>
+                </item>
+                <item>
+                    <name>Ernst Rotmund</name>
+                    <date when="1911-06-08">8. 6. 1911</date>
+                </item>
+                <item>
+                    <name>Alexander Salkind</name>
+                    <date when="1907-01-16">16. 1. 1907</date>
+                </item>
+                <item>
+                    <name>Felix Salten</name>
+                    <date when="1892-03-21">21. 3. 1892</date>
+                    <date when="1893-07-05">5. 7. 1893</date>
+                    <date cert="low" when="1893-08-14">14. 8. 1893</date>
+                    <date when="1893-08-17">17. 8. 1893</date>
+                    <date when="1897-04-26">26. 4. 1897</date>
+                    <date when="1898-09-24">24. 9. 1898</date>
+                    <date when="1899-09-04">4. 9. 1899</date>
+                    <date when="1903-11-07">7. 11. 1903</date>
+                    <date when="1903-11-10">10. 11. 1903</date>
+                    <date when="1903-11-12">12. 11. 1903</date>
+                    <date when="1904-04-13">13. 4. 1904</date>
+                    <date when="1905-01-10">10. 1. 1905</date>
+                    <date when="1905-04-11">11. 4. 1905</date>
+                    <date when="1905-12-20">20. 12. 1905</date>
+                
+                    <date when="1906-04-27">27. 4. 1906</date>
+                    <date when="1906-05-16">16. 5. 1906</date>
+                    <date when="1907-01-18">18. 1. 1907</date>
+                    <date when="1907-08-05">5. 8. 1907</date>
+                    <date when="1908-05-30">30. 5. 1908</date>
+                    <date when="1911-10-20">20. 10. 1911</date>
+                </item>
+                <item>
+                    <name>Adele Sandrock</name>
+                    <date when="1893-12-04">4. 12. 1893</date>
+                    <date when="1893-12-06">6. 12. 1893</date>
+                    <date when="1893-12-29">29. 12. 1893</date>
+                    <date when="1894-05-17">17. 5. 1894</date>
+                    <date cert="low" when="1894-05-22">22. 5. 1894</date>
+                </item>
+                <item>
+                    <name>Marek Scherlag</name>
+                    <date when="1909-01-11">11. 1. 1909</date>
+                </item>
+                <item>
+                    <name>Carl Schlundt</name>
+                    <date when="1904-06-01">1. 6. 1904</date>
+                </item>
+                <item>
+                    <name>Marie Schmidt</name>
+                    <date when="1904-02-03">3. 2. 1904</date>
+                </item>
+                <item>
+                    <name>Heinrich Schnitzler</name>
+                    <date when="1908-12-19">19. 12. 1908</date>
+                    <date when="1909-04-24">24. 4. 1909</date>
+                    <date when="1911-02-24">24. 2. 1911</date>
+                </item>
+                <item>
+                    <name>Johann Schnitzler</name>
+                    <date when="1875-04-10">zum. 10. 4. 1875</date>
+                    <date when="1878-04-10">10. 4. 1878</date>
+                    <date notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</date>
+                    <date notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</date>
+                    <date when="1886-09-21">21. 9. 1886</date>
+                    <date when="1888-05-10">etwa. 10. 5. 1888</date>
+                </item>
+                <item>
+                    <name>Johann und Louise Schnitzler</name>
+                    <date when="1888-04-07">7. 4. 1888</date>
+                    <date when="1888-04-10">etwa. 10. 4. 1888</date>
+                    <date when="1888-04-21">21. 4. 1888</date>
+                    <date when="1888-05-23">23. 5. 1888</date>
+                    <date when="1888-06-15">15. 6. 1888</date>
+                    <date when="1888-06-25">25. 6. 1888</date>
+                    <date cert="low" when="1889-09-09">9. 9. 1889</date>
+                    <date when="1889-09-16">16. 9. 1889</date>
+                    <date cert="low" when="1890-08-01">1. 8. 1890</date>
+                    <date cert="low" when="1890-08-17">17. 8. 1890</date>
+                </item>
+                <item>
+                    <name>Louise Schnitzler</name>
+                    <date when="1875-07-17">17. 7. 1875</date>
+                    <date when="1883-07-24">24. 7. 1883</date>
+                    <date when="1886-08-09">9. 8. 1886</date>
+                    <date when="1888-07-16">16. 7. 1888</date>
+                    <date when="1893-07-07">7. 7. 1893</date>
+                    <date when="1893-07-12">12. 7. 1893</date>
+                    <date when="1901-06-22">22. 6. 1901</date>
+                </item>
+                <item>
+                    <name>Olga Schnitzler</name>
+                    <date when="1899-06-21">21. 6. 1899</date>
+                    <date when="1899-07-06">6. 7. 1899</date>
+                    <date cert="low" when="1900-07-25">25. 7. 1900</date>
+                    <date when="1900-08-04">4. 8. 1900</date>
+                    <date when="1900-08-23">23. 8. 1900</date>
+                    <date cert="low" when="1900-10-19">19. 10. 1900</date>
+                    <date cert="low" when="1901-03-05">5. 3. 1901</date>
+                    <date cert="low" when="1901-03-18">18. 3. 1901</date>
+                    <date when="1901-03-25">25. 3. 1901</date>
+                    <date when="1901-03-26">26. 3. 1901</date>
+                    <date when="1901-03-27">27. 3. 1901</date>
+                    <date when="1901-03-28">28. 3. 1901</date>
+                    <date when="1901-03-29">29. 3. 1901</date>
+                    <date when="1901-03-31">31. 3. 1901</date>
+                    <date cert="low" when="1901-03-31">31. 3. 1901</date>
+                    <date when="1901-04-01">1. 4. 1901</date>
+                    <date when="1901-04-02">2. 4. 1901</date>
+                    <date when="1901-04-04">4. 4. 1901</date>
+                    <date when="1901-04-05">5. 4. 1901</date>
+                    <date when="1901-04-06">6. 4. 1901</date>
+                    <date when="1901-04-09">9. 4. 1901</date>
+                    <date when="1901-04-09">9. 4. 1901</date>
+                    <date when="1901-04-11">11. 4. 1901</date>
+                    <date when="1901-04-12">12. 4. 1901</date>
+                    <date when="1901-04-14">14. 4. 1901</date>
+                    <date when="1901-04-14">14. 4. 1901</date>
+                    <date when="1901-04-16">16. 4. 1901</date>
+                    <date when="1901-12-29">29. 12. 1901</date>
+                    <date when="1901-12-30">30. 12. 1901</date>
+                    <date cert="low" when="1901-12-31">31. 12. 1901</date>
+                    <date when="1902-01-01">1. 1. 1902</date>
+                    <date when="1902-10-19">19. 10. 1902</date>
+                    <date when="1903-02-24">24. 2. 1903</date>
+                    <date cert="low" when="1903-02-26">26. 2. 1903</date>
+                    <date when="1903-04-08">8. 4. 1903</date>
+                    <date when="1903-04-10">10. 4. 1903</date>
+                    <date when="1903-04-10">10. 4. 1903</date>
+                    <date when="1904-11-14">14. 11. 1904</date>
+                    <date when="1904-11-15">15. 11. 1904</date>
+                    <date when="1904-11-18">18. 11. 1904</date>
+                    <date when="1904-11-19">19. 11. 1904</date>
+                    <date when="1904-11-21">21. 11. 1904</date>
+                    <date when="1909-08-24">24. 8. 1909</date>
+                    <date when="1909-08-25">25. 8. 1909</date>
+                    <date when="1909-08-07">7. 8. 1909</date>
+                    <date when="1909-08-28">28. 8. 1909</date>
+                    <date when="1909-08-29">29. 8. 1909</date>
+                    <date when="1909-08-30">30. 8. 1909</date>
+                    <date when="1910-07-26">26. 7. 1910</date>
+                    <date when="1911-10-30">30. 10. 1911</date>
+                    <date when="1911-10-31">31. 10. 1911</date>
+                    <date when="1911-10-31">31. 10. 1911</date>
+                    <date when="1911-11-01">1. 11. 1911</date>
+                    <date when="1912-11-12">12. 11. 1912</date>
+                </item>
+                <item>
+                    <name>Abrahan Schwadron</name>
+                    <date when="1911-01-10">10. 1. 1911</date>
+                </item>
+                <item>
+                    <name>Gustav Schwarzkopf</name>
+                    <date when="1895-07-19">19. 7. 1895</date>
+                    <date when="1895-07-28">28. 7. 1895</date>
+                    <date when="1897-05-09">9. 5. 1897</date>
+                    <date when="1897-05-23">23. 5. 1897</date>
+                    <date when="1899-08-25">25. 8. 1899</date>
+                    <date when="1899-09-09">9. 9. 1899</date>
+                    <date when="1899-09-29">29. 9. 1899</date>
+                    <date when="1900-07-09">9. 7. 1900</date>
+                </item>
+                <item>
+                    <name>Herr Seligmann</name>
+                    <date when="1909-02-01">1. 2. 1909</date>
+                </item>
+                <item>
+                    <name>Franz Servaes</name>
+                    <date when="1908-09-23">23. 9. 1908</date>
+                </item>
+                <item>
+                    <name>Else Singer</name>
+                    <date when="1894-10-30">30. 10. 1894</date>
+                    <date when="1894-12-12">12. 12. 1894</date>
+                    <date when="1894-12-24">24. 12. 1894</date>
+                    <date when="1895-06-07">7. 6. 1895</date>
+                    <date when="1895-07-27">27. 7. 1895</date>
+                    <date when="1895-09-28">28. 9. 1895</date>
+                </item>
+                <item>
+                    <name>Adolf von Sonnenthal</name>
+                    <date when="1892-12-19">19. 12. 1892</date>
+                    <date when="1904-12-20">20. 12. 1904</date>
+                    <date when="1906-05-31">31. 5. 1906</date>
+                </item>
+                <item>
+                    <name>Hermine von Sonnenthal</name>
+                    <date when="1911-05-11">11. 5. 1911</date>
+                </item>
+                <item>
+                    <name>Richard Specht</name>
+                    <date when="1896-03-04">4. 3. 1896</date>
+                </item>
+                <item>
+                    <name>Konstantin Sergejewitsch Stanislawski</name>
+                    <date when="1911-11-30">30. 11. 1911</date>
+                </item>
+                <item>
+                    <name>Paul Stefan</name>
+                    <date when="1910-05-04">4. 5. 1910</date>
+                </item>
+                <item>
+                    <name>Elisabeth s Elisabeth Steinrück</name>
+                </item>
+                <item>
+                    <name>Carl Sternheim</name>
+                    <date when="1911-12-27">27. 12. 1911</date>
+                </item>
+                <item>
+                    <name>Ludwig Strecker</name>
+                    <date when="1909-12-17">17. 12. 1909</date>
+                </item>
+                <item>
+                    <name>Hermann Sudermann</name>
+                    <date when="1907-03-29">29. 3. 1907</date>
+                </item>
+                <item>
+                    <name>Alexander Fürst Sumbatoff</name>
+                    <date when="1906-04-26">26. 4. 1906</date>
+                </item>
+                <item>
+                    <name>Peter Swesditsch</name>
+                    <date when="1910-01-18">18. 1. 1910</date>
+                </item>
+                <item>
+                    <name>Heinrich Teweles</name>
+                    <date cert="low" when="1893-01-15">15. 1. 1893</date>
+                    <date when="1911-05-06">6. 5. 1911</date>
+                </item>
+                <item>
+                    <name>Hermann Ubell</name>
+                    <date when="1898-10-16">16. 10. 1898</date>
+                </item>
+                <item>
+                    <name>Fritz von Unruh</name>
+                    <date when="1912-02-15">15. 2. 1912</date>
+                </item>
+                <item>
+                    <name>Ladislaus Vajda</name>
+                    <date when="1907-03-15">15. 3. 1907</date>
+                </item>
+                <item>
+                    <name>Maurice Vaucaire</name>
+                    <date cert="low" notBefore="1904-01-01" notAfter="1904-02-01">1. 1904</date>
+                </item>
+                <item>
+                    <name>Karl Vollmoeller</name>
+                    <date when="1904-06-02">2. 6. 1904</date>
+                    <date when="1905-01-02">2. 1. 1905</date>
+                    <date when="1905-01-10">10. 1. 1905</date>
+                    <date when="1905-09-26">26. 9. 1905</date>
+                </item>
+                <item>
+                    <name>Olga Waissnix</name>
+                    <date when="1886-10-22">22. 10. 1886</date>
+                    <date when="1886-10-31">31. 10. 1886</date>
+                    <date when="1886-11-12">12. 11. 1886</date>
+                    <date cert="low" when="1887-06-21">21. 6. 1887</date>
+                    <date cert="low" when="1887-09-16">16. 9. 1887</date>
+                    <date when="1887-12-31">31. 12. 1887</date>
+                    <date cert="low" when="1888-04-30">30. 4. 1888</date>
+                    <date when="1888-05-24">24. 5. 1888</date>
+                    <date cert="low" when="1888-06-01">1. 6. 1888</date>
+                    <date when="1889-02-25">25. 2. 1889</date>
+                    <date when="1889-08-27">27. 8. 1889</date>
+                    <date notBefore="1890-09-01" notAfter="1890-10-01">9. 1890</date>
+                    <date when="1890-11-14">14. 11. 1890</date>
+                    <date when="1891-01-16">16. 1. 1891</date>
+                    <date cert="low" notBefore="1801-02-01" notAfter="1801-03-01">2. 1801</date>
+                    <date when="1893-04-07">7. 4. 1893</date>
+                    <date when="1893-10-26">26. 10. 1893</date>
+                    <date when="1893-11-27">27. 11. 1893</date>
+                    <date when="1893-11-28">28. 11. 1893</date>
+                
+                    <date when="1893-12-11">11. 12. 1893</date>
+                    <date when="1895-09-30">30. 9. 1895</date>
+                    <date when="1895-10-16">16. 10. 1895</date>
+                    <date when="1896-06-27">27. 6. 1896</date>
+                    <date when="1806-08-14">14. 8. 1806</date>
+                    <date when="1897-02-26">26. 2. 1897</date>
+                    <date when="1897-03-29">29. 3. 1897</date>
+                </item>
+                <item>
+                    <name>Zinaida Wengerova</name>
+                    <date when="1910-01-23">23. 1. 1910</date>
+                </item>
+                <item>
+                    <name>Wilhelm von Weymetal</name>
+                    <date when="1902-05-13">13. 5. 1902</date>
+                </item>
+                <item>
+                    <name>Salomon Zimmels</name>
+                    <date when="1912-10-10">10. 10. 1912</date>
+                </item>
+                <item>
+                    <name>Hanns von Zobeltitz</name>
+                    <date when="1907-10-19">19. 10. 1907</date>
+                </item>
+
+            </list>
+        </body>
+    </text>
+</TEI>

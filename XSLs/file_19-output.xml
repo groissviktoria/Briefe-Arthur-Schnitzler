@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">26-28</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1887-12-31">31. 12. 1887</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>[Berlin,
+Ende April 88</dateline>
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Wer Briefe, wie Ihren letzten so lange nicht beantwortet, ver¬
+dient gar nicht, daß er sie bekommt, denn Sie glauben nicht,
+Sie wissen vielleicht gar nicht mehr, was für ein Ton durch
+diesen letzten Brief durchgegangen ist ... Der reine Frühling!— Wahrhaftig! Blütenduft wehte heraus. Sie besitzen die Ge¬
+nialität des Herzens, gnädige Frau, aber Sie werfen Ihre Werke
+in die Flammen. Meistens! Wenn ich den Brief so oft beant¬
+wortet hätte, als ich ihn las, so hätten Sie wohl ein Dutzend
+Briefe seitdem bekommen. Aber ich fand, so sonderbar es
+klingt, in all diesen Tagen weder Stimmung noch Lust! Ich
+weiß überhaupt nicht, was in der letzten Zeit mit mir vorgeht.
+Ich schrumpfe ein, mir ist, als hätte mein Geist nicht für einen
+Heller Schwungkraft mehr. Ich muß hoffen, dass das eine vor¬
+übergehende Phase ist; sonst könnt ich die Bude zusperren.— Stimmungslosigkeit —, kennen Sie das?! wissen Sie, was das
+für einen Menschen heißt, der sozusagen seinen täglichen ge¬
+mütlichen Unterhalt von seinen Stimmungen bestreitet! - Und
+diese Worte dringen zu Ihnen aus einer Stadt, die mir neu ist,
+die mich mit ihrem Eindruck überstürzen sollte. — Wo faß'
+ich Dich, unendliche Naturl —- Mein Blut ist starr, irgend
+ein Fluidum, das durchflammt, fehlt. — Ich will nicht ungerecht
+sein: ich habe hier auch schon interessante Stunden erlebt; ja
+Stunden sogar, wo eine Ahnung wahrhaften Lebens mir auf¬
+ging. Doch war dies nicht bei Hiller, nicht im Thiergarten,
+nicht Unter den Linden, nicht im Café Bauer, nicht im
+L'Anglais (das gesperrt ist!) — es war im Deutschen Theater
+bei classischen Stücken. Ist das nicht komisch? Ich bin im
+Grunde keiner von den wirklich frivolen; das wird mir manch¬
+mal klar; ich bin doch: —Entschuldigen Sie, gnädige Frau; ich will lieber einmal ver¬
+suchen, einen Brief an Sie zu vollenden, ohne mich zu loben.
+Wenn ich ein paar Seiten schreibe, fang ich nemlich immer an,
+auf meine Vorzüglichkeit hinzudeuten, was ich mir für die
+liebe Leserin doch als etwas langweilig vorstelle...Ich lese Ihren Brief wieder. Wie kommt das nur? Sagte ich
+nicht Frühlingshauch? — Ist es nicht mehr Herbsthauch?
+Erinnerungeng... Immer die! Und ist es nur das?..
+„Decrescendog — sagten Sie. Das war auch, was mich pfrois¬
+sirteg.Ach, es hat keinen Sinn, über solche Dinge aus der Entfernung
+zu reden; ich könnte Ihnen wohl schon was sagen. „Billigg
+denken Sie sich, aber bitte sehr, erinnem Sie sich nur einmal
+sehr genau, aber sehr genau, und es wird Ihnen einfallen.
+Bitte, schließen Sie die Augen und erinnern Sie sich.— Ich reise von hier bald ab. Zuerst nach Wien, dann nach
+London. Vielleicht haben Sie Lust, mir bald zu antworten:
+dann trifft mich Ihr Brief noch bis Freitag den 11. Mai hier. Ich
+bleibe dann einige Zeit in Wien; wie lange weiß ich nicht; da¬
+hin schreiben Sie mir, wenn es beliebt, Hauptpost restante;
+Pfingsten reis“ ich ab; habe ich bis dahin noch keine Antwort
+von Ihnen, so erfahren Sie aus London die Adresse
+Ihres Sie wahrhaft verehrenden und ergebnen</p>
+               <closer>Arthur S.</closer>
+               <postscript>Von der Ada Christen kenn ich gar nichts.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>

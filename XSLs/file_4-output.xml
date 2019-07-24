@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">3-5</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1883-07-24">24. 7. 1883</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline/>
+                  <salute/>
+               </opener>
+               <p>Sei nicht böse — das bitt' ich dich — vor allem, daß ich so
+schreibfaul bin. Aber es ist wirklich unausstehlich langweilig
+in Wien und ich fürchte immer, dass die Langeweile wie ein
+Fluidum sich in die Poren des Briefpapiers versteckt und dann
+auch in Ischl ihr Wesen treibt. Und das will ich beileibe nicht!
+Ich wünsche Euch das beste Wetter, die angenehmste Gesell¬
+schaft, das größte Amusement; ich wünsche, daß Ihr Euch in
+Ischl so wohl, so heimisch fühlt wie zu Hause u würde ein
+diesbezügliches Geständnis, ohne beleidigt zu sein, ja mit dem
+größten Vergnügen hinnehmen.. Wie ich meine Freiheit be¬
+nütze, fragst du —? Oh liebste Mama, Du „machst Ironieg.
+Also höre: Gestern mußten wir wieder exerciren, heute hab
+ich von 6 — 8 Inspektion bei einem Cadet-Corporal, der bei
+dem miserabeln Wetter Zahnschmerzen bekommen und ein
+Glas Opium über den Durst getrunken hat. Freitag ist wieder
+exerciren, Samstag Nachtmanöver am Laaberg (schöne Gegend
+— aber wenigstens sieht man in der Nacht nicht, wo man ist!) —
+gar nicht zu sprechen von den täglichen Frühvisiten und
+schließlich von der Nachmittagsvisite, die ich vom 1.-1o.
+August habe Wie gesagt, es ist schrecklich. — Wenn du üb¬
+rigens meinst, daß Vöslau besonders entzückend ist, theure
+Mama, so ist das einer jener Holzwege, von denen bereits diealten Römer sagten: Irren ist menschlich. Allerdings hat man
+viel Anspracheg draußen; man sieht sozusagen vor lauter Be¬
+kannten die Waldwiese nicht (was übrigens ganz gut ist) und
+ich freue mich immer sehr, liebe, verwandte Gesichter zu sehn
+— aber wenn ich an Ischl denke . . . ?! Du weißt gar nicht,
+liebe Mama, wie gut du's hast! — Dem 1. Großpapa geht es im
+ganzen recht gut; er fühlt sich zwar etwas schwach, im all¬
+gemeinen aber ist er viel besser....Gestern war ich aus lauter Verzweiflg — meine Feder er¬
+röthet — im Fürsttheater. Das Stück hieß (sogar im Fürsttheater
+frozzelt man mich): Frei will er sein. Frozzeln erinnert mich
+Julius wird schon wissen warum) an die Fische im Wolfgang¬
+see und bringt mich vermittelst dieser Ideenassociation darauf,
+euch um die geringsten Kleinigkeiten zu fragen, welche das
+reizende Salzkammergut betreffen. Also erzählt, erzählt — !? Ist
+der Wolfgangsee noch immer so nafs wie früher (heuer viel¬
+leicht noch mehr!) Der Schafberg noch immer so hoch? War ich
+noch immer noch immer nicht oben? Oh ich werde ganz con¬
+fus — und ich will schließen, umsomehr, als mich die militärische
+Pflicht zu dem Opiumcadeten ruft, welcher wahrscheinlich so¬
+fort gesund wird, wenn ich eintrete. Oder vielleicht muß er
+mich als Medicament löffelweise einnehmen — einen andern
+Grund für die Notwendigkeit meines Dortseins weiss ich
+wirklich nicht.Julius wird morgen, spätestens übermorgen einen Brief von
+mir erhalten, unterdessen mag er gebeten sein, alle meine
+Bekannten (beiderlei Geschlechtes) zu grüßen; ihn, Gisa und
+dich küss' ich herzlichst, bitte alle um häufige Nachrichten und
+bin</p>
+               <closer>Euer Euchliebender
+Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

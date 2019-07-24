@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">6-6</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-08-09">9. 8. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien.
+9/8 86</dateline>
+                  <salute>Liebste Mama!</salute>
+               </opener>
+               <p>— Schlecht geht’s heute — in der Ordination nemlich — knapp
+die Reisespesen hereingebracht —In Reichenau ists übrigens reizend. Neulich war Gustl Pick da
+und spielte uns seine feschesten „Tanzg vor; Samstag war ein
+höchst animirtes Kränzchen, und nur der Gedanke, meine
+theuern in Ischl endlich wiederzusehen, macht mir den Ab¬
+schied vom Saurüssel und Atzberg so leicht. Ich denke Sam¬
+stag morgens bei Euch einzutreffen, da ich Donnerstag und
+Freitag durch projectirte größere Partien noch festgehalten bin.
+— Der Thalhof, in specie Frau Waisnix u Frau Kohnberger er¬
+widern deine Grüße aufs herzlichste.Es grüßt und küßt dich tausendmal</p>
+               <closer>Dein treuer Sohn
+Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>

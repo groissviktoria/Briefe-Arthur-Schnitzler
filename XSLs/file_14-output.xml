@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">18-17</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-07">7. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin,
+“ April 88.</dateline>
+                  <salute>Liebste Eltern!</salute>
+               </opener>
+               <p>Mir kommt vor, als wäre ich schon Wochen lang hier. Die Lin¬
+den sind mir ganz bekannt, und sogar an die abscheuliche
+Aussprache der Leute beginn' ich mich zu gewöhnen. Ich habe
+Berlin ganz und voll auf mich wirken lassen. Ich suchte noch
+niemanden auf, um in meinen Eindrücken als Fremder nicht
+gestört zu werden. Das Leben und Treiben imponirte mir gar
+nicht. Es ist vielleicht in manchen Straßen voller als in Wien,
+und um Mitternacht gibt es in der Umgegend des Café Bauer
+mehr Leute als zu der Zeit irgendwo auf dem Ring, aber ich
+kann das durchaus nicht so großartig finden. Es gehen halt
+mehr Leute spät schlafen als in Wien. Die „niedern Ständeg,
+mit denen man ja als Ankommender und Wohnungssuchen¬
+der vor allem zu thun hat, sind höchst widerlich. Jeder Kellner
+ist ein Intelligenzlackel; jeder Portier ist arrogant und jeder</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

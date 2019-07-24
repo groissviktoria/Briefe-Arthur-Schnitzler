@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">29-</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-05-23">23. 5. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>London,
+23/5 88</dateline>
+                  <salute>Liebste Eltern!</salute>
+               </opener>
+               <p>Eben habe ich ein Telegramm an Euch abgesandt u nun folgt
+die ausführlichere Bearbeitung. —Ich muß Euch vor allem aus Paris berichten, daß sich dort alles
+wohl befindet, daß Sandor genau so aussieht, wie vor 15 Jah¬
+ren, und daß die Stadt Paris mich fascinirt hat. Ich mus sagen,
+dafs ich mich riesig darauf freue, im Herbst dort einige Wo¬
+chen zu verbringen.Ich habe in den 24 Stunden meines Aufenthalts möglich viel
+gesehen; ich war im Louvre, im Pantheon, ich habe den Arc de
+triomphe bewundert und bin in den Champs Elysées spazie¬
+ren gefahren. Ich war im Quartier latin, und habe das Treiben
+vor der Oper betrachtet; die Eleganz der Avenue d'léna ist
+mir nicht fremder als der Naturalismus der Hallen. Ich habe
+im Café Riche morgens meine Chokolade getrunken, und habe
+Abends im Hippodrom die goldene Pariser Jugend in ihren
+hippischen Begeisterungen belauscht.—Gestern Abends fuhren wir, d. h. Felix und ich weg. Von Calais
+auf einem jener kleinen Nachtdampfer nach Dover. Es wurden
+ziemlich viel Leute seekrank: ich befand mich außerordentlich
+wohl: ja, eine leichte Uebelkeit, die mich auf der Eisenbahn
+befallen hatte, verschwand auf der offnen See. Als wir in
+Dover ans Land stiegen, that die Sonne vis à vis von uns
+genau dasselbe. Zuerst incognito, als kleiner rother Feuerball,
+aber bald konnte sie ihre himmlische Herkunft nicht mehr ver¬
+bergen und strahlte einen ganzen Frühling aus. Die Sonne
+und die polnischen Juden — sie müssen sich immer zu der¬
+kennen geben.Heute früh kamen wir also in London an; Otto erwartete uns
+an der Bahn, und wir fuhren in das reizende Häuschen, das
+Felix bewohnt. Dieser Garten, dieses Grün — und dieses Früh¬
+stück — es war herrlich. Dann fuhren wir mit einer jener hun¬
+dert Bahnen zu einer jener hundert Stationen, die London
+mitten in seinem Herzen hat. Wir kamen bei London bridge
+an. Das läßt sich nun gar nicht schildern. Es ist großartig und
+ekelhaft. Der Verkehr auf der Londoner Brücke ist bekanntlich
+(ich weiß es seit zwei Stunden) der colossalste, der existirt.
+Ununterbrochen wird man überfahren, überholt, zertreten.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>
