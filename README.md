@@ -10,7 +10,7 @@ Der Ordner **XSLs** beinhaltet jegliche XSL-Dateien die für die Transformation 
 
 - **merge.xsl** schreibt alle Dateien in einem Ordner in ein gemeinsames XML-Dokument.
 - **Rename Elements.xsl** entfernt nicht benötigte Elemente und versieht die übrigen mit kürzeren Tags (üblicherweise TEI-tags)
-- **unpack page.xsl** packt schlicht das Element Page aus, sodass die Inhalte der Briefe nicht mehr an die Seiteneinteilung gebunden sind. (Dieses einfache XSL besteht hauptsächlich zur Verkettung mehrerer XSLs zu einem Transformations-Szanario
+- **unpack page.xsl** packt schlicht das Element Page aus, sodass die Inhalte der Briefe nicht mehr an die Seiteneinteilung gebunden sind. (Dieses einfache XSL besteht hauptsächlich zur Verkettung mehrerer XSLs zu einem Transformations-Szenario
 - **separate letters.xsl** trennt die trennt die Briefinhalte in TEI-Elemente, die je einen Brief von Anfang bis Ende enthalten.
 - **modify-header(briefe-1).xsl** bzw. **modify-header(briefe-2).xsl** erweitert den teiHeader um die notwendigen Elemente, und ergänzt die bibliographischen Informationen sowie Informationen zu Titel und Adressat. (Briefe 1 bezeichnet die Briefe 1875-1912, Briefe 2 die Briefe 1913-1931)
 - **match-letters-to-dates-Briefv-1.xsl** und **match-letters-to-dates-Briefv-2.xsl** ergänzen das Briefdatum durch Verknüpfung mit der digitaliserten Version der im gedruckten Band enthaltenen Liste von Empfängern und Daten der Briefe. (Briefv-1 bezeichnet die Briefe 1875-1912, Briefv-2 die Briefe 1913-1931)
