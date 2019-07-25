@@ -4,6 +4,7 @@
             <titleStmt>
                <title level="a">Arthur Schnitzler an jeanette Heeger</title>
             </titleStmt>
+            <publicationStmt><publisher></publisher></publicationStmt>
             <sourceDesc>
                <listBibl>
                   <biblStruct>
@@ -27,7 +28,7 @@
                <correspAction type="sent">
                   <persName>Arthur Schnitzler</persName>
                   <placeName/>
-                  <date notBefore="" notAfter=""/>
+                  
                </correspAction>
                <correspAction type="received">
                   <persName>jeanette Heeger</persName>

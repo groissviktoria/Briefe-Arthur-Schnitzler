@@ -6,16 +6,13 @@
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -31,29 +28,28 @@
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1875-04-10">zum. 10. 4. 1875</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>zum 1o. April 1875</dateline>
-                     <salute>Theurer Papa!</salute>
-                  </opener>
-                  <p>Mit frohem Herzen begrüß“ ich den heutigen festlichen Tag.
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1875-04-10">zum. 10. 4. 1875</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>zum 1o. April 1875</dateline>
+                  <salute>Theurer Papa!</salute>
+               </opener>
+               <p>Mit frohem Herzen begrüß“ ich den heutigen festlichen Tag.
 Gefühle des Dankes und der Liebe erwachen stärker denn je in
 meiner Brust, und als Worte überschreiten sie meine Lippen,
 — freilich haben sie auf dem Wege viel von ihrer Wärme und
@@ -65,12 +61,12 @@ Dich kennen, geachtet von aller Welt mögen Deine Tage
 ruhig, ungetrübt selbst vom kleinsten Ungemach dahin¬
 fließen!Ich werde mich bestreben, möglichst viel zu Deinem Glücke
 beizutragen.</p>
-                  <closer>Dein Dich innigliebender Sohn
+               <closer>Dein Dich innigliebender Sohn
 Arthur</closer>
-               </div>
-            </body>
-         </text>
-      </TEI>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -78,16 +74,13 @@ Arthur</closer>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -98,34 +91,33 @@ Arthur</closer>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">1-</biblScope>
+                        <biblScope unit="pp">1-2</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1875-07-17">17. 7. 1875</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline/>
-                     <salute>Liebe Mama!</salute>
-                  </opener>
-                  <p>„Von heute bis auf morgen
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1875-07-17">17. 7. 1875</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline/>
+                  <salute>Liebe Mama!</salute>
+               </opener>
+               <p>„Von heute bis auf morgen
 Ist eine lange Fristesagte einer unsrer deutschen Dichter; aber in dieser langen
 Frist hat sich nicht so viel ereignet, daß man vier Octavseiten
 damit ausfüllen könnte.Aber — die Phönizier haben die Schreibekunst einmal erfun¬
@@ -133,11 +125,30 @@ den, und diese Gewohnheit hat sich bis auf uns vererbt.Du könntest Dir eigentli
 schreibe. Gestern habe ich die drei Mandl’s engagirt, mit mir
 einen kleinen Waldspaziergang zu machen. Wir einigten uns
 um ½6 in der Frühe auf dem Platze zu sein. Ich spaziere um
-¼ 6 aus dem Hause und setze mich auf eine Bank auf der</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+¼ 6 aus dem Hause und setze mich auf eine Bank auf derWaldwiese, die wir genau bestimmt hatten. Ich warte. Es wird
+½6. Das Kleeblatt der Mandl erscheint nicht. Es wird ¾6.
+Die Erwarteten scheinen noch äußerst selig zu schlummern.
+Die Glocke verkündet die sechste Stunde. Keine Spur von den
+Langschläfern. ¼ 7. Eben so wenig. Um ½7 endlich reift der
+Strick meiner Geduld; (denn das kann man nicht mehr den
+Geduldsfaden nennen), und ich ziehe mit der längsten Nase
+ab, die je irgend ein enttäuschtes Menschenkind gehabt hat.
+Wenn Dich dieses Abenteuer nicht interessirt, — ich trage keine
+Schuld dran; wenigstens hat mein Brief um eine Octavseite
+zugenommen, und Du plagst Dich um die Zeit, in der Du das
+liest, weniger in der Küche u. mit der Nähmaschine.- Heute war ich auch schon im Bad. Gottlobl es war sehr an¬
+genehm. Zuletzt muß ich noch auf den Spruch zurückkommen,
+mit dem ich diese Zeilen eröffnet habe; nur mit einer kleinen
+Veränderung.2Zwischen heut und morgen
+Liegt keine lange Frist.“Das soll sich der Papa zu Herzen nehmen und nicht gar zu
+sehr eilen, mich abzuholen; denn ——Gottlobl es war alles sehr angenehm.</p>
+               <closer>Dein dankbarer Sohn
+Arthur.</closer>
+               <postscript>N.B. Viele Grüße der ganzen Sippschaft.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -160,16 +171,13 @@ um ½6 in der Frühe auf dem Platze zu sein. Ich spaziere um
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -180,44 +188,51 @@ um ½6 in der Frühe auf dem Platze zu sein. Ich spaziere um
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">2-</biblScope>
+                        <biblScope unit="pp">2-3</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1878-04-10">10. 4. 1878</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>10/4 1878</dateline>
-                     <salute>Theuerster Papa!</salute>
-                  </opener>
-                  <p>An dem heutigen Tage bringe auch ich Dir die herzlichsten,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1878-04-10">10. 4. 1878</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>10/4 1878</dateline>
+                  <salute>Theuerster Papa!</salute>
+               </opener>
+               <p>An dem heutigen Tage bringe auch ich Dir die herzlichsten,
 tiefgefühlten Glückwünsche dar. Sie wollen dasselbe sagen,
 was ich täglich in meinem Innersten denke, was mein Herz
 stets und unverändert hegt. Sie fassen in Worte, was besser
 ungesagt bliebe; da diese Worte ja doch weit hinter dem zu¬
 rückblieben, was das Herz empfindet. Mögst Du noch lang
-und glücklich leben; alle Deine Wünsche mögen in fröhliche</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+und glücklich leben; alle Deine Wünsche mögen in fröhlicheErfüllung gehen, so daß Zufriedenheit in Dein Herz einkehrt,
+und Deine Tage in ungetrübter Heiterkeit dahinfließen. Sor¬
+gen mögen Dir stets fern bleiben, und jedweder Segen des
+Himmels und der Erde möge Dich beglücken.Dafs alles, was ich in diesen Zeilen niedergelegt, weit schöner
+sich erfüllt, als ich es auszudrücken wüßte, ist der innigste
+Wunsch und die ersehnteste Hoffnung
+Deines dankbaren und Dich innigstliebenden Sohnes</p>
+               <closer>Arthur.</closer>
+               <postscript>An Julius herzlichen Gruß u Kuß</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -233,16 +248,13 @@ und glücklich leben; alle Deine Wünsche mögen in fröhliche</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -253,34 +265,33 @@ und glücklich leben; alle Deine Wünsche mögen in fröhliche</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">3-</biblScope>
+                        <biblScope unit="pp">3-5</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1883-07-24">24. 7. 1883</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline/>
-                     <salute/>
-                  </opener>
-                  <p>Sei nicht böse — das bitt' ich dich — vor allem, daß ich so
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1883-07-24">24. 7. 1883</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline/>
+                  <salute/>
+               </opener>
+               <p>Sei nicht böse — das bitt' ich dich — vor allem, daß ich so
 schreibfaul bin. Aber es ist wirklich unausstehlich langweilig
 in Wien und ich fürchte immer, dass die Langeweile wie ein
 Fluidum sich in die Poren des Briefpapiers versteckt und dann
@@ -301,11 +312,39 @@ gar nicht zu sprechen von den täglichen Frühvisiten und
 schließlich von der Nachmittagsvisite, die ich vom 1.-1o.
 August habe Wie gesagt, es ist schrecklich. — Wenn du üb¬
 rigens meinst, daß Vöslau besonders entzückend ist, theure
-Mama, so ist das einer jener Holzwege, von denen bereits die</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+Mama, so ist das einer jener Holzwege, von denen bereits diealten Römer sagten: Irren ist menschlich. Allerdings hat man
+viel Anspracheg draußen; man sieht sozusagen vor lauter Be¬
+kannten die Waldwiese nicht (was übrigens ganz gut ist) und
+ich freue mich immer sehr, liebe, verwandte Gesichter zu sehn
+— aber wenn ich an Ischl denke . . . ?! Du weißt gar nicht,
+liebe Mama, wie gut du's hast! — Dem 1. Großpapa geht es im
+ganzen recht gut; er fühlt sich zwar etwas schwach, im all¬
+gemeinen aber ist er viel besser....Gestern war ich aus lauter Verzweiflg — meine Feder er¬
+röthet — im Fürsttheater. Das Stück hieß (sogar im Fürsttheater
+frozzelt man mich): Frei will er sein. Frozzeln erinnert mich
+Julius wird schon wissen warum) an die Fische im Wolfgang¬
+see und bringt mich vermittelst dieser Ideenassociation darauf,
+euch um die geringsten Kleinigkeiten zu fragen, welche das
+reizende Salzkammergut betreffen. Also erzählt, erzählt — !? Ist
+der Wolfgangsee noch immer so nafs wie früher (heuer viel¬
+leicht noch mehr!) Der Schafberg noch immer so hoch? War ich
+noch immer noch immer nicht oben? Oh ich werde ganz con¬
+fus — und ich will schließen, umsomehr, als mich die militärische
+Pflicht zu dem Opiumcadeten ruft, welcher wahrscheinlich so¬
+fort gesund wird, wenn ich eintrete. Oder vielleicht muß er
+mich als Medicament löffelweise einnehmen — einen andern
+Grund für die Notwendigkeit meines Dortseins weiss ich
+wirklich nicht.Julius wird morgen, spätestens übermorgen einen Brief von
+mir erhalten, unterdessen mag er gebeten sein, alle meine
+Bekannten (beiderlei Geschlechtes) zu grüßen; ihn, Gisa und
+dich küss' ich herzlichst, bitte alle um häufige Nachrichten und
+bin</p>
+               <closer>Euer Euchliebender
+Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -331,16 +370,13 @@ Mama, so ist das einer jener Holzwege, von denen bereits die</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -356,29 +392,28 @@ Mama, so ist das einer jener Holzwege, von denen bereits die</p>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate notBefore="18847-06-01" notAfter="18847-09-01">Sommer. 18847</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Sommer 18847</dateline>
-                     <salute>Liebster Papa!</salute>
-                  </opener>
-                  <p>Der gestrige Tag war gräulich verregnet; die projectirte Partie
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="18847-06-01" notAfter="18847-09-01">Sommer. 18847</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Sommer 18847</dateline>
+                  <salute>Liebster Papa!</salute>
+               </opener>
+               <p>Der gestrige Tag war gräulich verregnet; die projectirte Partie
 geht daher erst heute, meine Abreise morgen Samstag von¬
 statten. Daran schlieft sich eine Bitte. Es geht mir mit mei¬
 nem Gelde nach Zahlg der Hotelrechnung und der Fahrt nach
@@ -400,14 +435,19 @@ begierig auf Deine Nachrichten, deren Du für uns wohl in¬
 teressantere bereit haben wirst als wir für Dich. Jeden Vor¬
 mittag von der Entdeckung neuer Bacillen zu hören und gleich
 dazu von einem Mittel, das sie bereits in hunderttausendper¬
-zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
-                  <closer>Dein dankbarer Sohn
+zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wieerhebend muß das sein; und ein wie viel erhebenderes, gleich
+den Abend darauf bei einem Glase Champagner über die Zu¬
+versicht und das — Selbstbewußstsein jener Forscher lächeln zu
+können, die bei all ihrem Eifer jeden Moment an irgend was
+unüberwindliches anrennen —
+Es grüßt u küsst Dich herzlich</p>
+               <closer>Dein dankbarer Sohn
 Arthur.</closer>
-                  <postscript>An Julius herzlichen Gruß u Kuß</postscript>
-               </div>
-            </body>
-         </text>
-      </TEI>
+               <postscript>An Julius herzlichen Gruß u Kuß</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -415,16 +455,13 @@ Arthur.</closer>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -435,35 +472,34 @@ Arthur.</closer>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">5-</biblScope>
+                        <biblScope unit="pp">5-6</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>[Bad Ischl,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="1884-06-01" notAfter="1884-09-01">Sommer. 1884</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>[Bad Ischl,
 Sommer 1884</dateline>
-                     <salute>Theurer Papa!</salute>
-                  </opener>
-                  <p>Trotz allem  d. h. trotz der (im ganzen) mäßigen Gesell¬
+                  <salute>Theurer Papa!</salute>
+               </opener>
+               <p>Trotz allem  d. h. trotz der (im ganzen) mäßigen Gesell¬
 schaft hier und trotz des nicht ganz sommeraufenthaltsgemä¬
 ßen Studiums sehne ich mich vorderhand nach unserm Wien
 sehr wenig zurück. Du wohl auch nicht, der jetzt sicher ein ab¬
@@ -472,11 +508,18 @@ begierig auf Deine Nachrichten, deren Du für uns wohl in¬
 teressantere bereit haben wirst als wir für Dich. Jeden Vor¬
 mittag von der Entdeckung neuer Bacillen zu hören und gleich
 dazu von einem Mittel, das sie bereits in hunderttausendper¬
-zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wieerhebend muß das sein; und ein wie viel erhebenderes, gleich
+den Abend darauf bei einem Glase Champagner über die Zu¬
+versicht und das — Selbstbewußstsein jener Forscher lächeln zu
+können, die bei all ihrem Eifer jeden Moment an irgend was
+unüberwindliches anrennen —
+Es grüßt u küsst Dich herzlich</p>
+               <closer>Dein Dich innigliebender
+Arthur.</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -491,16 +534,13 @@ zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Mutter</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -516,30 +556,29 @@ zentiger Lösung vertilgt, (aber nur bei Kaninchen nützt) — wie</p>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1886-08-09">9. 8. 1886</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Wien.
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-08-09">9. 8. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien.
 9/8 86</dateline>
-                     <salute>Liebste Mama!</salute>
-                  </opener>
-                  <p>— Schlecht geht’s heute — in der Ordination nemlich — knapp
+                  <salute>Liebste Mama!</salute>
+               </opener>
+               <p>— Schlecht geht’s heute — in der Ordination nemlich — knapp
 die Reisespesen hereingebracht —In Reichenau ists übrigens reizend. Neulich war Gustl Pick da
 und spielte uns seine feschesten „Tanzg vor; Samstag war ein
 höchst animirtes Kränzchen, und nur der Gedanke, meine
@@ -549,12 +588,12 @@ stag morgens bei Euch einzutreffen, da ich Donnerstag und
 Freitag durch projectirte größere Partien noch festgehalten bin.
 — Der Thalhof, in specie Frau Waisnix u Frau Kohnberger er¬
 widern deine Grüße aufs herzlichste.Es grüßt und küßt dich tausendmal</p>
-                  <closer>Dein treuer Sohn
+               <closer>Dein treuer Sohn
 Arthur</closer>
-               </div>
-            </body>
-         </text>
-      </TEI>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -563,16 +602,13 @@ Arthur</closer>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -583,42 +619,70 @@ Arthur</closer>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">6-</biblScope>
+                        <biblScope unit="pp">6-8</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1886-09-21">21. 9. 1886</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Wien
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-09-21">21. 9. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien
 21./9/86</dateline>
-                     <salute>Theuerster Papa! -</salute>
-                  </opener>
-                  <p>Heute habe ich dir bereits von neuen Patienten zu vermelden.
+                  <salute>Theuerster Papa! -</salute>
+               </opener>
+               <p>Heute habe ich dir bereits von neuen Patienten zu vermelden.
 Gestern erschien ein blutleerer, magen- und lungenleidender
 Friseurgehilfe; heute ein Hauptmann des Ruhestandes (einer
-derjenigen, die „das nächste Mal so frei sein werdeng) und</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+derjenigen, die „das nächste Mal so frei sein werdeng) undeine Köchin. Merkwürdig, daß gar kein Papst oder Kaiser zu
+mir in die Privatordination kommt. —Der erste Patient, der heute eintrat, gleichfalls ein neuer,
+machte, als er meiner ansichtig wurde, ein schauderhaft blödes
+Gesicht;  ich, die Bedeutung dieses Gesichtes nur allzugut
+kennend, erwiderte auf diesen stummen Ausdruck seiner Ent¬
+täuschung sofort: „Der Professor kommt erst Ende der Wo¬
+cheg, worauf jener irgend eine Bemerkung machte, welche mir
+offenbar begreiflich machen sollte, daß ihn eigentlich nur der
+Ruf deines Namens, lieber Papa, hergelockt... und ver¬
+schwandFrau Margulies aus Sophia entliess ich heute ygebessert — auf
+Verlangeng in ihre Heimat; sie zahlte für ihre 6 Visiten und
+brachte heute als „Zuwagg gleich einen Sohn mit, der große
+Mandeln hatte, was uns beiden wenig Beschwerden machte.— Gestern reiste die Brodenserin ab, der du eine Mandel her¬
+ausgeschnitten hast. —Am häufigsten erscheinen die Sängerinen, Lehrerinen, u.s.w.
+Das wär“ ein Malheur, wenn so eine einmal im Ernst ge¬
+sund würde. „Sie erben sich aber vom Vater zum Sohne,
+vom Professor zum Assistenten — wie eine ew'ge Krankheit
+fort.4 —— Uber deine bisherigen Berliner Berichte, aus denen je¬
+denfalls eine gute Laune, und eine vollkommene Zufrie¬
+denheit mit deiner Reise spricht, waren wir — trotz ihrer
+Kürze alle sehr erfreut. Was! es ist doch ein Genuß, nur Kor¬
+respondenzkarten zu schreiben.. Wenn einen so ein Brief¬
+papier anstarrt mit seinen vier großen weißen arroganten
+Seiten .. man steht anfangs immer ganz rathlos da, wenn
+einem noch so viel einfällt. Begreifst du jetzt meine berühm¬
+ten Reisecorrespondenzen? Ich bin offenbar hereditär be¬
+lastet.Ich schließe in der Hoffnung, daß du dich an der Spree fern
+vom Getümmel des medizinischen Wiener Lebens, der Mon¬
+tags-Revue und Antipolikliniker so gut erholst, als das bei</p>
+               <closer>Arthur</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -681,16 +745,13 @@ dankbarer Sohn</Unicode>
         </TextRegion>
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -701,36 +762,35 @@ dankbarer Sohn</Unicode>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">8-</biblScope>
+                        <biblScope unit="pp">8-10</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1886-10-22">22. 10. 1886</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Wien. Freitag
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-10-22">22. 10. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien. Freitag
 3 Uhr Nachts.
 [22. Oktober 1886</dateline>
-                     <salute>Verehrteste gnädige Frau!</salute>
-                  </opener>
-                  <p>Sie wünschen einen Brief von mir, der nur lustiges enthält —
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Sie wünschen einen Brief von mir, der nur lustiges enthält —
 und wissen recht gut, daß ich Ihnen nichts abschlagen kann, —
 hier haben Sie also Ihren „lustigeng Brief -
 Erfahren Sie denn, gnädige Frau, vor allem, daß auf der gan¬
@@ -756,84 +816,46 @@ empfindet in jedem Localbericht den Reiz einer pikanten, psy¬
 chologischen Thatsache; die Feuilletons — und wären sie selbst
 von Pötzl oder Frey — sind mir Caviar für meinen literarischen
 Appetit, und wenn ich mich über die politischen Ereignisse
-orientire, so schwelge ich mit jenem Manne aus den Fliegen¬</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
-        
-        
-        
-        
-    
-
-    
-    
-        
-        
-        
-        
-        
-        
-        
-    
-
-    
-    
-        
-        
-        
-        
-        
-        <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
-            <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
-            </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
-            <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
-                  <biblStruct>
-                     <monogr>
-                        <author>Schnitzler, Arthur</author>
-                        <title level="m">Briefe 1875–1912</title>
-                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
-                        <imprint>
-                           <pubPlace>Frankfurt am Main</pubPlace>
-                           <publisher>S. Fischer</publisher>
-                           <date when="1981">1981</date>
-                        </imprint>
-                        <biblScope unit="pp">10-</biblScope>
-                     </monogr>
-                  </biblStruct>
-               </listBibl>
-            </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1886-10-31">31. 10. 1886</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
-         </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>31/10 86</dateline>
-                     <salute>Verehrteste gnädige Frau!</salute>
-                  </opener>
-                  <p>Um mich ganz „hineinzufeuerng in die Medizin, halte ich
+orientire, so schwelge ich mit jenem Manne aus den Fliegen¬den Blättern in dem stolzen Bewußtsein, ein Zeitgenosse zu
+sein!—Ich spaziere nun nach Hause; alle Leute, die mir entgegen¬
+kommen, sind mir ein Gegenstand aufrichtigsten Interesses;
+ich bin unausgesetzt in der Verfassung jenes Schwärmers, der
+odiesen Kuß der ganzen Weltg geben möchte, und wenn ich
+nicht die demselben Schwärmer entfahrene Außerung: Seid
+umschlungen, Millionen! — in That umsetze, so sind sicher nur
+die Millionen und nicht ich daran schuld. —
+Nach dem „Dinerg studiere ich oder arbeite dies, jenes — im¬
+mer mit jener heiligen ruhigen Begeisterung, die ein gütiges
+Geschick mir schon in die Wiege legte. Der Abend ist der Ge¬
+selligkeit gewidmet — man kommt mit ein paar Bekannten zu¬
+sammen — ausnahmslos Prachtmenschen — alle verstehen es
+mitzureden, mitzufühlen. Misgunst existirt nicht — dabei amü¬
+sirt man sich königlich; die Witze, die man hört, sind alle neu,
+die Mots so geistreich, die Betrachtungen über des Tages Ar¬
+beit und Vergnügen so fesselnd — so anregend. — Manchmal
+macht man auch einen Besuch; alle Leute die man besucht,
+sind natürlich liebenswürdig und — besonders! — feinfühlig;
+jeder hütet sich, an irgend etwas zu rühren, das einen andern
+vielleicht verletzen oder gar schmerzen könnte —
+Häufig genug ist auch das Theater der Abschluß des Tags. Die
+heitern Stücke erfreuen mich durch ihren Humor und bei
+schlechten Witzen denk ich: es gibt noch schlechtere — in ern¬
+sten Dramen oder Opern — wenn irgend ein Held an einer
+traurigen Leidenschaft krankt oder gar daran zu Grunde geht,
+überkommt mich mit süßem Schauer das Bewußtsein: So ein
+Narr könntest Du ja nie sein! - und wieder hab ich einen
+Grund mich unnennbar selig zu fühlen.Wenn ich dann spät Abends oder Nachts den verstrichenen
+Tag an mir vorüber ziehen lasse, dann hab ich die Empfin¬
+dung, so recht aus dem vollen gelebt zu haben; und das Wort
+Fausts: Entbehren sollst Du, sollst entbehren, das ist der ewi¬
+ge Gesangg kommt mir vor wie die abgeschmackte Phraseeines nervösen Poeten. Die wonnige Ruhe, die mein Gefühls¬
+leben wie mit schützenden Schleiern umhüllt, läßt mich nie¬
+mals irgend ein Sehnen empfinden — nie irgend ein seelisches
+Leid erdulden... und so ziehen meine Tage in tief inner¬
+lichem Gleichmaß und Gleichmut hin, wonach Sie, verehrteste
+gnädige Frau, ja einsehen müssen, daß es keinen Menschen
+gibt, der Ihnen leichter einen — lustigen Brief schreiben konnte
+alsUm mich ganz „hineinzufeuerng in die Medizin, halte ich
 morgen meinen feierlichen Einzug ins Krankenhaus als Se¬
 cundararzt der psychiatrischen Abtheilung. da ich ein Stim¬
 mungsfex bin, liegt mir das Gebiet am nächsten. Oh, ich
@@ -853,11 +875,182 @@ redet Unsinn — aber es steckt Originalität — manchmal viel¬
 leicht was großes darin! Sein Geist spinnt Fäden zwischen den
 heterogensten Dingen, die er früher mit seinem armseligen
 Normalverstand nie hätte knüpfen können. Er wird phanta¬
-stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.Gleichviel; es sind sozusagen die Truppen da  nur fehlt die
+Strategie.Allerdings könnt ich das auch ganz anders malen; weit andre
+Bilder aufrollen - aber da wir nur in Briefen und nicht in Oe¬
+tavbänden correspondiren, muß ich darauf verzichten. Da
+morgen nicht nur der erste - sondern noch dazu ein Montag
+ist, wäre morgen eine glänzende Gelegenheit, etwas Ge¬
+scheidtes anzufangen; und da der Montag noch dazu ein Feier¬
+tag ist, könnte es mit einer gewissen Feierlichkeit geschehen!
+„Ins allgemeine möcht ich gerne tauchen und mit dem großen
+Strom der Zeiten gehn. Aus dem vollen leben! Das wäre es!Schon wieder Gelegenheit zu einem Octavband, der wahr¬
+scheinlich etwas confus ausfallen würde. — Die verrückte Ab¬
+theilung wirft ihre Schatten voraus. —Mein Zimmer im Spital will ich mir möglichst ostimmungs¬
+voll herrichten. Ich gehöre nemlich zu den unglückseligen
+Leuten, die eine weiße Tapete am Arbeiten hindern kann.
+Gute Ausrede, denken Sie sich. - Und dann ist’s auch wegen
+der Contraste! — Ich bitte sehr: stellen Sie sich vor, dieser Brief
+sei ein Auszug aus einem unglaublich langen Briefe, der Ihnen
+eigentlich zugedacht ist. Mein Geist wirft sonderbare Blasen
+aufs. An jede einzelne Bemerkung schließen sich nemlich in
+meinem Kopf eine solche Fülle von andern an, dass es mir um
+den Kopf, die Bemerkungen und manches andere beinahe leid
+thut. — Jal noch etwas literarisches! Ihr Interesse für den alten
+Sagenkreis hat, wie Sie ja wissen, meine lebhafte Zustimmung;
+aber ich muß sagen, in manchem kenn ich mich kaum aus, was
+mich natürlich (bei meiner Sympathie für die alte deutsche
+Literatur) häufig verstimmt. Wenn es mir nur Zeit und Um¬
+stände gestatteten mich intensiver mit all den alten Liedern zu
+beschäftigen! Wenn ich könnte, wie ich wollte; es wäre un¬
+sagbar herrlich; ich schwärme für die alte deutsche Sage. (Wie¬
+der ein Octavband.) — Herrn M.C. Herz hab ich neulich ge¬
+sprochen; im Momente, wo ich diese Zeilen schreibe, dürfte er
+wohl in Reichenau sein, wohin er, wie er mir sagt, jeden Sonn¬tag wallfahrtet. „Dem Walde dank ich seinen Grußg. Wie
+schön muß es jetzt da draußen sein! Hier — schrecklich! die
+Sonne und dabei ein kalter Wind, der die letzten gelben Blät¬
+ter über den Ring hinfegt. — Die Natur ist trübsinnig und ver¬
+sucht zu lächeln. —Erlauben Sie mir, Ihnen meine ehrfurchtsvollsten Grüße zu
+senden und erfreuen Sie bald mit ein paar Zeilen</p>
+               <closer>Ihr ergebener
+Arthur Schnitzler</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">10-12</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-10-31">31. 10. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>31/10 86</dateline>
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Um mich ganz „hineinzufeuerng in die Medizin, halte ich
+morgen meinen feierlichen Einzug ins Krankenhaus als Se¬
+cundararzt der psychiatrischen Abtheilung. da ich ein Stim¬
+mungsfex bin, liegt mir das Gebiet am nächsten. Oh, ich
+schwärme für Contraste! Denken Sie nur! man unterhält sich
+mit einem Verrückten und läßt sich von den Trugbildern sei¬
+ner Phantasie umgaukeln — und dann tritt man hinaus — mit¬
+ten in das Reich der Vernunft — unter seinesgleichen sozusagen
+und berauscht sich geradezu an all der Masse von Verstand,
+die noch auf der Welt herrscht. Alles in allem genommen übt
+der Wahnsinn einen zauberischen Reiz auf mich aus. Stellen
+Sie sich einen gewöhnlichen Menschen vor... haben Sie sich
+ihn vorgestellt — gutl denken Sie sich ein halbstündiges Ge¬
+spräch mit ihm nichts wird berührt, was nicht die bare All¬
+täglichkeit wäre ... man taucht unter in Banalität — der
+Mensch wird verrückt. Plötzlich ist er geistreich, amusant. Er
+redet Unsinn — aber es steckt Originalität — manchmal viel¬
+leicht was großes darin! Sein Geist spinnt Fäden zwischen den
+heterogensten Dingen, die er früher mit seinem armseligen
+Normalverstand nie hätte knüpfen können. Er wird phanta¬
+stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.Gleichviel; es sind sozusagen die Truppen da  nur fehlt die
+Strategie.Allerdings könnt ich das auch ganz anders malen; weit andre
+Bilder aufrollen - aber da wir nur in Briefen und nicht in Oe¬
+tavbänden correspondiren, muß ich darauf verzichten. Da
+morgen nicht nur der erste - sondern noch dazu ein Montag
+ist, wäre morgen eine glänzende Gelegenheit, etwas Ge¬
+scheidtes anzufangen; und da der Montag noch dazu ein Feier¬
+tag ist, könnte es mit einer gewissen Feierlichkeit geschehen!
+„Ins allgemeine möcht ich gerne tauchen und mit dem großen
+Strom der Zeiten gehn. Aus dem vollen leben! Das wäre es!Schon wieder Gelegenheit zu einem Octavband, der wahr¬
+scheinlich etwas confus ausfallen würde. — Die verrückte Ab¬
+theilung wirft ihre Schatten voraus. —Mein Zimmer im Spital will ich mir möglichst ostimmungs¬
+voll herrichten. Ich gehöre nemlich zu den unglückseligen
+Leuten, die eine weiße Tapete am Arbeiten hindern kann.
+Gute Ausrede, denken Sie sich. - Und dann ist’s auch wegen
+der Contraste! — Ich bitte sehr: stellen Sie sich vor, dieser Brief
+sei ein Auszug aus einem unglaublich langen Briefe, der Ihnen
+eigentlich zugedacht ist. Mein Geist wirft sonderbare Blasen
+aufs. An jede einzelne Bemerkung schließen sich nemlich in
+meinem Kopf eine solche Fülle von andern an, dass es mir um
+den Kopf, die Bemerkungen und manches andere beinahe leid
+thut. — Jal noch etwas literarisches! Ihr Interesse für den alten
+Sagenkreis hat, wie Sie ja wissen, meine lebhafte Zustimmung;
+aber ich muß sagen, in manchem kenn ich mich kaum aus, was
+mich natürlich (bei meiner Sympathie für die alte deutsche
+Literatur) häufig verstimmt. Wenn es mir nur Zeit und Um¬
+stände gestatteten mich intensiver mit all den alten Liedern zu
+beschäftigen! Wenn ich könnte, wie ich wollte; es wäre un¬
+sagbar herrlich; ich schwärme für die alte deutsche Sage. (Wie¬
+der ein Octavband.) — Herrn M.C. Herz hab ich neulich ge¬
+sprochen; im Momente, wo ich diese Zeilen schreibe, dürfte er
+wohl in Reichenau sein, wohin er, wie er mir sagt, jeden Sonn¬tag wallfahrtet. „Dem Walde dank ich seinen Grußg. Wie
+schön muß es jetzt da draußen sein! Hier — schrecklich! die
+Sonne und dabei ein kalter Wind, der die letzten gelben Blät¬
+ter über den Ring hinfegt. — Die Natur ist trübsinnig und ver¬
+sucht zu lächeln. —Erlauben Sie mir, Ihnen meine ehrfurchtsvollsten Grüße zu
+senden und erfreuen Sie bald mit ein paar Zeilen</p>
+               <closer>Ihren ergebenen
+Arthur Schnitzler</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -886,16 +1079,13 @@ stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Olga Waissnir</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -906,35 +1096,34 @@ stisch — er wird ein Poét — wenn auch der letzte Zug fehlt.</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">12-</biblScope>
+                        <biblScope unit="pp">12-13</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate notBefore="" notAfter=""/>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnir</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Wien,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="" notAfter=""/>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnir</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien,
 12. Nov. 1886.</dateline>
-                     <salute>Verehrteste gnädige Frau!</salute>
-                  </opener>
-                  <p>Da sitz ich ungeheuer gemütlich meine Nachmittagscigarre
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Da sitz ich ungeheuer gemütlich meine Nachmittagscigarre
 rauchend in der Kanzlei unsrer Abtheilung und werde von
 Satz zu Satz von den Leuten, die kommen u gehn, unterbro¬
 chen. Die Leute, die da kommen und gehn, sind nemlich die
@@ -955,11 +1144,37 @@ Existenz jagt die armen Teufel in die Schnapsboutique (Som¬
 lauer war es nicht), und dann jagt sie der Schnaps in den Irr¬
 sinn — zu uns. Oh ich könnte Ihnen Dramen erzählen! - Und
 jetzt — die Contraste! Man spaziert aus der Zelle der Tobsüch¬
-tigen heraus und überlegt gerade, was für ein schneidiges Ge¬</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+tigen heraus und überlegt gerade, was für ein schneidiges Ge¬fühl der Kesselflicker jetzt haben muß, welcher sich fest ein¬
+bildet, er habe eine Million geerbt - und findet sich auch schon
+auf der Straße unter einer Masse von Vernünftigen! Es gibt
+wirklich viel von der Sorte —— Und eine viertel Stunde später
+streckt man sich behaglich auf einem Fauteuil im Café aus und
+freut sich, wie fidel die Vernünftigen Billard und Karten spie¬
+len.. Und ein paar Momente später findet man sich in einem
+Concertsaale wieder, und es umbraust einen in all ihrer un¬
+faßbaren Göttlichkeit Musik mit all ihren Wundern. Man
+schließt die Augen und schwelgt. Doch auch nicht; wenn z.B.
+irgend ein unmögliches Frauenzimmer aufs Podium tritt und
+mit einer stupenden Stimmlosigkeit eine Arie angeblich
+esingts. O Dilettanten! Dilettanten! - Sie sind die Tempel¬
+schänder im Heiligtum der Kunst —Im übrigen bewundere ich Ihre Intuitionsgabe. Nur Sie kön¬
+nen eine solche besitzen. Auch möchte ich, wenn sich doch
+einige kleine Fehler eingeschlichen haben, lieber die Wirklich¬
+keit als Ihre Intuition corrigiren. Was den Glückstag betrifft,
+so ging er mit jener Spurlosigkeit vorüber, welche sämtliche in
+der letzten Zeit hingegangnen Tage auszeichnete. Hélas!Lesen Sie was schönes? Und was? Abgesehen von den deut¬
+schen Sagen, von denen ich hoffe, daß dieselben Sie mit eben
+derselben unsagbaren Gewalt anregen und fesseln wie mich.
+Ich kann mir nicht denken, dafs sich in dieser Hinsicht meine
+Vorliebe auch nur um den Schein eines Scheins je würde än¬
+dern können. Es gibt nichts herrlicheres für mich!</p>
+               <closer>Nehmen Sie den ehrfurchtsvollsten Gruß von Ihrem unver¬
+änderlich ergebenen
+ArthSch</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -976,16 +1191,13 @@ tigen heraus und überlegt gerade, was für ein schneidiges Ge¬</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -996,124 +1208,263 @@ tigen heraus und überlegt gerade, was für ein schneidiges Ge¬</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">13-</biblScope>
+                        <biblScope unit="pp">13-15</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1886-11-12">12. 11. 1886</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Dienstag Nachts auf dem Journale
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1886-11-12">12. 11. 1886</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Dienstag Nachts auf dem Journale
 [21. Juni 1887</dateline>
-                     <salute>Verehrte gnädige Frau!</salute>
-                  </opener>
-                  <p>Die Decoration vor allem: Eine echt österreichische Kanzlei¬
-stube. Ich an einem hohen Schreibepult, Bücher, Acten rechts,</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
-        
-        
-        
-        
-    
-
-    
-    
-        
-        
-        
-        
-        
-        
-        
-    
-
-    
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
-            <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
-            </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
-            <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
-                  <biblStruct>
-                     <monogr>
-                        <author>Schnitzler, Arthur</author>
-                        <title level="m">Briefe 1875–1912</title>
-                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
-                        <imprint>
-                           <pubPlace>Frankfurt am Main</pubPlace>
-                           <publisher>S. Fischer</publisher>
-                           <date when="1981">1981</date>
-                        </imprint>
-                        <biblScope unit="pp">15-</biblScope>
-                     </monogr>
-                  </biblStruct>
-               </listBibl>
-            </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1887-06-21">21. 6. 1887</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
-         </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>(16. September 1887</dateline>
-                     <salute>Verehrte gnädige Frau!</salute>
-                  </opener>
-                  <p>Ich danke Ihnen! - Für alles; denn Sie sind so ein Wesen, dem
+                  <salute>Verehrte gnädige Frau!</salute>
+               </opener>
+               <p>Die Decoration vor allem: Eine echt österreichische Kanzlei¬
+stube. Ich an einem hohen Schreibepult, Bücher, Acten rechts,links. Die Wände geweißt; die Bilder des Kaiserpaars in
+schmucklosem Rahmen mir gegenüber. Eine Standuhr; tick
+tack — tick tack, nur langsamer. Zwei Gasflammen mir zu
+Häupten; die Flammen brennen mit jenem eigentümlichen
+gleichförmig zischenden Geräusche. Draußen knarrt noch ab
+und zu eine Thür — der Schritt eines Beamten oder Dieners
+hallt zwischen den Tragbahren, den hölzernen Bänken auf
+dem steinernen Boden des Vorzimmers. Draußen vor den Fen¬
+stern Einsamkeit, Nacht, kalter Wind. Ich müßte einen Mono¬
+log halten, wenn ich nicht schriebe. In Jamben offenbar. Doch
+nein; ich plaudere; ruhig, gemütlich; — mit Ihnen. Sie sitzen
+neben mir, ich höre, verzeihen Sie das harte Wort, Ihre weiche
+Stimme. Sie glauben nicht, was Sie für hübsche Dinge sagen,
+wenn Sie nicht dabei sind — während Sie vielleicht mit einer
+frischen Sommerfrischlerin vor dem Thalhof auf und ab spa¬
+zieren — auf der Terrasse, auf die die vielen stillen, fernen
+Sterne herunterschauen. Guten Abend, Kassiopeia! Mir ist,
+als hört' ich Ihre Schritte auf dem Kies; ich sehe ein paar
+Lichter aus den Fenstern glühen; ich sehe das weite schlafende
+Thal [vor] mir, Ihnen zu Füßen; mir ist, als tönten vom Cur¬
+hause noch Stimmen her. Ich bin hier und dort; allein und mit
+Ihnen. — Die bew'ge Frageg ——— Ja? - Die zertretene Mar¬schall Niel heb“ ich in Gedanken auf; ich athme ihren Duft; ich
+lege sie zwischen die Blätter des yguten Kameradeng. Einen
+bessern findst du nit.—Und der heurige Sommer? Mitte Juli dürft ich Urlaub nehmen;
+meine Leute sind in Ischl; einen Theil der Zeit verbringe ich
+jedenfalls dort; vielleicht fahr ich dann zu den bairischen
+Schlössern oder tiefer in die Berge — was weifs ich? Keineswegs
+nehm ich den einzig richtigen Weg; die Fremdenliste sagt bis
+jetzt wenig tröstliches. Mitte August bin ich vielleicht wieder
+hier; meinen Papa zu vertreten - Mediziner vom Scheitel bis
+zur Zehe! Ach ich bin jetzt überhaupt so vermedizinirt. Außer
+Abend fast immer im Spital; journalistisch-medizinisch thätig
+— 's ist eigentlich recht öde. Ich bin immer froh, wenn einmalDame Phantasei mich heimsucht und fortreift und mich Ihrer
+unverbrüchlichen Liebe versichert. Es ist eine odeutsche Braut¬
+schaftg, die mich mit ihr verbindet. Jahrelang geht’s schon so
+fort. Ich fürchte schier, wir werden nebeneinander verblühen.— Oh manchmal ist mir so gottsjämmerlich zu Muthe -— Eben wurde ich wieder gestört. Man brachte einen verrück¬
+ten Kutscher ins Spital, der bereits tagelang in den Straßen
+Wiens herumirrt und etwas sucht, was er nicht finden kann.
+Wenns ein Poêt wäre, so wärs’s das mit Recht so beliebte
+Ideal, das er sucht; die blaue Blume. Es gibt Leute, die so
+glücklich sind und täglich ihre blaue Blume finden. Sie kaufen
+sich ein Los, machen den Haupttreffer, und die rootausend
+Gulden sind ihre blaue Blume. Dort einer trinkt sich mit Fusel
+voll und der Rausch ist seine blaue Blume. Monsieur Gaston
+klopft bei Mlle. Fifine vom Vaudeville an und sie sagt: Oh es
+ist mir ein Vergnügen Ihre blaue Blume zu sein. Andre aber
+wissen wohl, wo ihre blaue Blume blüht und dürfen sie nicht
+pflücken. Die falschen blauen Blumen, deren es so viele gibt,
+welken gar rasch, wenn man sie gepflückt; — die echte erblüht
+erst recht an dem Herzen des Romantikers, für den sie be¬
+stimmt ist. —Mein verrückter Kutscher ist untergebracht — erlauben Sie mir,
+Ihnen unter diesem angenehmen Eindrucke Gute Nacht zu
+sagen.Ich danke Ihnen! - Für alles; denn Sie sind so ein Wesen, dem
 man in einem fort danken muß. Vor allem für die Liebens¬
 würdigkeit, das Sie existiren — obzwar diese Liebenswürdig¬
 keit nicht auf mich gemünzt ist — dann für Ihren Brief, aus
-dem es mir so herrlich entgegenwehte wie von einem Glet¬</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+dem es mir so herrlich entgegenwehte wie von einem Glet¬scherfeld, auf das die Mittagssonne strahlt — dann selbst für
+die Versicherungen meiner Unausstehlichkeit, in denen ich Ih¬
+nen nur theilweise beistimme —— Denn — Ihnen kann ichs ja
+gestehen - au fond bin ich gar nicht so unausstehlich — und
+wenn ich keine Launen hätte, könnte man sich sogar mit mir
+vertragen —Ihr Interesse für das was ich odichte u componireg hat mich
+zwar gerührt; doch in einem Sinne zu einem heftigen Lächeln
+verleitet — Wenn mir ein paar Accorde einfallen — so heißen
+Sie das — Composition! Was thäten Sie denn, wenn ich Sym¬
+phonien schriebe —! Gewiß nicht! — Den Dichter laß ich — wenn
+auch mit schamhaftem Erröthen — gelten — denn sehn Sie,
+wenn so die Poesie über mich kommt - wie bei andern Kran¬
+ken ein Fieber, dann spür ich manchmal oder glaube zu spüren,
+daßs irgend was in meinem Kopf oder Herzen rege wird, das
+die Allgemeinheit nicht mit mir theilt. Man irrt sich da frei¬
+lich: man glaubt Schöpfer zu sein und ist nur Enthusiast ——
+gleichviel. Es gibt da wunderbare Momente — man ist ganz
+wo anders — man ist höher, man ist überall — man ist ein Gott.
+— Freilich ein vacirender.Ich schreibe jetzt Erzählungen, von denen Sie wohl ein oder
+die andre interessiren wird; die Stoffe sind meist etwas barock;
+die Ausführung gedrängt — Von der (größern) Erzählung
+Gabrielens Reue hab ich Ihnen wohl schon geschrieben? Sie
+werden sie, wenn ich mir erlauben darf, Sie Ihnen vorzulegen,
+in Kürze lesen - Nun dies und manches andre wollen wir wohl
+noch mündlich durchsprechen.Ihren nächsten Brief bitte zu adressiren Wiesbaden, Natur¬
+forscherversammlung. Dahin fahre ich nemlich morgen Sams¬
+tag ab, um bis Ende nächster Woche dort zu verweilen. Ich
+werde wohl gleich in den ersten Tagen meines Dortseins so
+glücklich sein, die Schwingen ihres Geistes um mich rauschen
+zu hören! Zu deutsch: schreiben Sie mir bald.zu, gnädige Frau, mein Schicksal ist nicht gerade liebenswür¬
+dig gegen mich....Trotzdem hab’ ich es zu Stande gebracht, in der letzten
+Zeit einige schöne Stunden zu erleben, die ich freilich keinem
+Menschen verdanke. Aber ich habe geschrieben und es ist mir
+so manches eingefallen. Vielleicht ist dieses ein Unsinn und
+jenes Schund — gleichviell... Ich erinnere mich, dieses Thema
+bereits seiner Zeit berührt zu haben, und ich habe den Muth
+nicht, es auszuführen —Mir ist jetzt nicht eben wohl, gnädige Frau, wahrhaftig, und
+manches quält mich!Leben Sie wohl, ich erwarte die zwölfte Stunde, das neue Jahr,
+nicht; es kommt sicher von selbst, wie alles dumme. — Mein
+Glas hör ich klingen oder ists der Cognac in meinem Kopf?
+— Ich sehe eben: der goldne Rand ist theilweis abgesprungen;
+— mein altes Unglück.</p>
+               <closer>Le vötre
+ArthSch</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
+            </titleStmt>
+            <sourceDesc>
+               <listBibl>
+                  <biblStruct>
+                     <monogr>
+                        <author>Schnitzler, Arthur</author>
+                        <title level="m">Briefe 1875–1912</title>
+                        <editor>Hg. Therese Nickl und Heinrich Schnitzler</editor>
+                        <imprint>
+                           <pubPlace>Frankfurt am Main</pubPlace>
+                           <publisher>S. Fischer</publisher>
+                           <date when="1981">1981</date>
+                        </imprint>
+                        <biblScope unit="pp">15-18</biblScope>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1887-06-21">21. 6. 1887</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>(16. September 1887</dateline>
+                  <salute>Verehrte gnädige Frau!</salute>
+               </opener>
+               <p>Ich danke Ihnen! - Für alles; denn Sie sind so ein Wesen, dem
+man in einem fort danken muß. Vor allem für die Liebens¬
+würdigkeit, das Sie existiren — obzwar diese Liebenswürdig¬
+keit nicht auf mich gemünzt ist — dann für Ihren Brief, aus
+dem es mir so herrlich entgegenwehte wie von einem Glet¬scherfeld, auf das die Mittagssonne strahlt — dann selbst für
+die Versicherungen meiner Unausstehlichkeit, in denen ich Ih¬
+nen nur theilweise beistimme —— Denn — Ihnen kann ichs ja
+gestehen - au fond bin ich gar nicht so unausstehlich — und
+wenn ich keine Launen hätte, könnte man sich sogar mit mir
+vertragen —Ihr Interesse für das was ich odichte u componireg hat mich
+zwar gerührt; doch in einem Sinne zu einem heftigen Lächeln
+verleitet — Wenn mir ein paar Accorde einfallen — so heißen
+Sie das — Composition! Was thäten Sie denn, wenn ich Sym¬
+phonien schriebe —! Gewiß nicht! — Den Dichter laß ich — wenn
+auch mit schamhaftem Erröthen — gelten — denn sehn Sie,
+wenn so die Poesie über mich kommt - wie bei andern Kran¬
+ken ein Fieber, dann spür ich manchmal oder glaube zu spüren,
+daßs irgend was in meinem Kopf oder Herzen rege wird, das
+die Allgemeinheit nicht mit mir theilt. Man irrt sich da frei¬
+lich: man glaubt Schöpfer zu sein und ist nur Enthusiast ——
+gleichviel. Es gibt da wunderbare Momente — man ist ganz
+wo anders — man ist höher, man ist überall — man ist ein Gott.
+— Freilich ein vacirender.Ich schreibe jetzt Erzählungen, von denen Sie wohl ein oder
+die andre interessiren wird; die Stoffe sind meist etwas barock;
+die Ausführung gedrängt — Von der (größern) Erzählung
+Gabrielens Reue hab ich Ihnen wohl schon geschrieben? Sie
+werden sie, wenn ich mir erlauben darf, Sie Ihnen vorzulegen,
+in Kürze lesen - Nun dies und manches andre wollen wir wohl
+noch mündlich durchsprechen.Ihren nächsten Brief bitte zu adressiren Wiesbaden, Natur¬
+forscherversammlung. Dahin fahre ich nemlich morgen Sams¬
+tag ab, um bis Ende nächster Woche dort zu verweilen. Ich
+werde wohl gleich in den ersten Tagen meines Dortseins so
+glücklich sein, die Schwingen ihres Geistes um mich rauschen
+zu hören! Zu deutsch: schreiben Sie mir bald.zu, gnädige Frau, mein Schicksal ist nicht gerade liebenswür¬
+dig gegen mich....Trotzdem hab’ ich es zu Stande gebracht, in der letzten
+Zeit einige schöne Stunden zu erleben, die ich freilich keinem
+Menschen verdanke. Aber ich habe geschrieben und es ist mir
+so manches eingefallen. Vielleicht ist dieses ein Unsinn und
+jenes Schund — gleichviell... Ich erinnere mich, dieses Thema
+bereits seiner Zeit berührt zu haben, und ich habe den Muth
+nicht, es auszuführen —Mir ist jetzt nicht eben wohl, gnädige Frau, wahrhaftig, und
+manches quält mich!Leben Sie wohl, ich erwarte die zwölfte Stunde, das neue Jahr,
+nicht; es kommt sicher von selbst, wie alles dumme. — Mein
+Glas hör ich klingen oder ists der Cognac in meinem Kopf?
+— Ich sehe eben: der goldne Rand ist theilweis abgesprungen;
+— mein altes Unglück.</p>
+               <closer>Le vötre pour toujours
+AS.</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1144,16 +1495,13 @@ dem es mir so herrlich entgegenwehte wie von einem Glet¬</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1164,35 +1512,34 @@ dem es mir so herrlich entgegenwehte wie von einem Glet¬</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">18-</biblScope>
+                        <biblScope unit="pp">18-17</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-04-07">7. 4. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann und Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-07">7. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin,
 “ April 88.</dateline>
-                     <salute>Liebste Eltern!</salute>
-                  </opener>
-                  <p>Mir kommt vor, als wäre ich schon Wochen lang hier. Die Lin¬
+                  <salute>Liebste Eltern!</salute>
+               </opener>
+               <p>Mir kommt vor, als wäre ich schon Wochen lang hier. Die Lin¬
 den sind mir ganz bekannt, und sogar an die abscheuliche
 Aussprache der Leute beginn' ich mich zu gewöhnen. Ich habe
 Berlin ganz und voll auf mich wirken lassen. Ich suchte noch
@@ -1206,10 +1553,10 @@ mehr Leute spät schlafen als in Wien. Die „niedern Ständeg,
 mit denen man ja als Ankommender und Wohnungssuchen¬
 der vor allem zu thun hat, sind höchst widerlich. Jeder Kellner
 ist ein Intelligenzlackel; jeder Portier ist arrogant und jeder</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1222,16 +1569,13 @@ ist ein Intelligenzlackel; jeder Portier ist arrogant und jeder</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1242,35 +1586,34 @@ ist ein Intelligenzlackel; jeder Portier ist arrogant und jeder</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">17-</biblScope>
+                        <biblScope unit="pp">17-20</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1887-09-16">16. 9. 1887</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Wien
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1887-09-16">16. 9. 1887</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Wien
 31. Dec 1887</dateline>
-                     <salute>Verehrteste gnädige Frau!</salute>
-                  </opener>
-                  <p>Sylvester! — Ich aber sitze mutterseelenallein in meinem Spi¬
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Sylvester! — Ich aber sitze mutterseelenallein in meinem Spi¬
 talszimmer und habe „Dienstg. In diesem Augenblicke unter¬
 halten Sie sich köstlich und haben keine Ahnung, daß ich mit
 Ihnen rede. Es liegt etwas recht erbärmliches darin, daß man
@@ -1301,11 +1644,53 @@ derjenige, der es heut in trüber Schneenacht an die Lippen
 führt, wird stets derselbe bleiben, stets. Ich wollte jetzt irgend
 etwas thun, daß Sie mich hören müßten. Es nagt an mir,
 daß Sie in dieser Sekunde gar nichts von mir wissen. Lächer¬
-lich — toll! Nun, wie Sie meinen, aber eines geben Sie mir</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+lich — toll! Nun, wie Sie meinen, aber eines geben Sie mirDienstmann thut, als wenn er Deutschland groß gemacht
+hätte. Die wahrhafte arische Frechheit, die viel unsympathi¬
+scher ist als die jüdische, ist hier zu Hause. Von der Billigkeit
+merk ich gar nichts. Vor allem die Wohnungen! Ich habe mir
+natürlich die gewissen Studentenwohnungen in der medicini¬
+schen Gegend angesehen. Wo am Hausthor nicht angeschlagen
+steht Herrschaftlich möblirte Wohnungeng, resp. „Zimmer
+da soll man lieber gar nicht hinschaun. Die gewöhnlichen
+Zimmer von 35-50, 60 Mark sind ein Graus. Schlecht gemalte
+Wände, zerfetzte Möbel und zerlumpte Familien. Endlich fand
+ich in der Dorotheenstraße 60 ein verhältnismäfsig anständi¬
+ges Heim, dessen für Berlin merkwürdig geschmackvolle Aus¬
+stattung mir auffiel. Allerdings gehört es einem - Tapezierer.
+Den Preis werde ich Euch in Raten mittheilen. Heute die erste:
+vierzig Mark.Gegessen hab ich in dem sogenannten Wr. Restaurant (nach
+unsern Begriffen dritten Ranges) wo es etwas theurer aber be¬
+deutend schlechter ist als im Riedhof. Ein schmieriger Kerl, der
+herumgeht, Geschäftsführer spielt und wienerisch spricht, so¬
+wie das Vorhandensein von Gulyas und Eiernockerln sollen
+das wienerische markiren. Beispiele der Preise: Brodsuppe
+3o Pfng, Omelette 1 Mark u. s. w.—Schrecklich ist die Kälte, die hier herrscht. Mich friert in mei¬
+nem Ueberzieher erbärmlich. Den gestrigen Abend sah ich mir
+Francillon im Residenztheater an. Es wird nicht so übel ge¬
+spielt. —— Jetzt gedenke ich einige Professoren-Besuche zu machen,
+über die mein nächster Brief berichten soll. So allein in einer
+fremden Stadt herum laufen, ist wirklich öd! Einen Wiener,
+den ich noch nie früher gesprochen, traf ich heute früh in dem
+Café Bauer, was geradezu wohlthuend auf mich wirkte. Um
+mich ganz glücklich zu machen, jüdelte er sogar ein bischen.
+Julius wäre ihm sicher um den Hals gefallen.Ja noch eins: An den großen Anschlagsäulen, wo die Theater
+etc angekündigt sind, liest man große Plakate: D. A. B. Deut¬scher Antisemiten Bund. Die Mitglieder sind eingeladen zu
+dem Vortrage des Hrn X. X. aus Y.: Ueber den Antisemi¬
+tismus als Partei etc. etc. — Sie schämen sich nicht einmal, das
+Gesindel!Die Straßen sind fast alle von einer fabelhaften Länge; einige,
+die sich geniren, fangen plötzlich in der Mitte an anders zu
+heißen; eine Straße, ungefähr von der Länge der Langegasse
+in Wien heißt „ Kurze-Straßeg. — Charakteristisch!Die Geschäfte alle weit weniger brillant als in Wien; die Ele¬
+gants von einem protzigen Militairschritt, als wenn sie eben
+aus der Schlacht kämen. —</p>
+               <closer>Indem ich zugebe, dafs ich sehr viel übertrieben habe, bin ich
+Euer Euch innigst liebender
+Arthur.</closer>
+               <postscript>Grüße u Küsse an Julius u Gisa.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1336,16 +1721,13 @@ lich — toll! Nun, wie Sie meinen, aber eines geben Sie mir</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1356,34 +1738,33 @@ lich — toll! Nun, wie Sie meinen, aber eines geben Sie mir</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">20-</biblScope>
+                        <biblScope unit="pp">20-22</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-04-10">etwa. 10. 4. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann und Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin</dateline>
-                     <salute>Theuerste Eltern! —</salute>
-                  </opener>
-                  <p>Ich kann natürlich nicht sagen, daß ich mich hier bereits hei¬
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-10">etwa. 10. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin</dateline>
+                  <salute>Theuerste Eltern! —</salute>
+               </opener>
+               <p>Ich kann natürlich nicht sagen, daß ich mich hier bereits hei¬
 misch fühle — aber fremd durchaus nicht mehr. Auch hab ich
 Berlin in manchem Unrecht gethan: es geht wirklich ein grof¬
 städtischer, ein ganz andrer Zug als in Wien durch dieses Le¬
@@ -1398,11 +1779,129 @@ milien (jeder Art) ziehen durch die Straßen und freuen sich
 der deutschen Einheit, sowie des eignen bedeutenden Lebens.
 Wen das dynastische Gefühl zu erdrücken droht, der hat einen
 schwarzen Flor um den Arm und thut, als wenn der deutsche
-Kaiser speciell ihm gestorben sei. — Die Theater, wie man mir</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+Kaiser speciell ihm gestorben sei. — Die Theater, wie man mirerzählt und wie ich zum Theil selbst gesehen, sind alle immer
+voll; in einem ist Francillon zum roo., im andern die Schüt¬
+zenliesl zum zoo., im dritten Farinelli zum roo., im vierten
+die Reise um die Erde zum 62 z. mal u.s.w.— Daß das Leben jedoch hier billiger ist für den, der doch etwas
+sehen und nicht Volksküchen oder Stalehner-Kost zu sich neh¬
+men will, als bei uns, kann ich und mit mir auch competentere
+Beurtheiler nicht finden. Ich benütze diese Gelegenheit Euch
+die zweite Rate meines Miethzinses anzugeben: 35.— Zusam¬
+men 75. Jede Kleinigkeit extra, Bedienung, Licht, etc. - Aller¬
+dings wohne ich jetzt wenigstens nett - und — es mag ja ein
+Fehler von mir sein — in einem schäbigen Local zu wohnen
+raubt mir alle Stimmung! —Nun von meinen Besuchen: Fränkl äußerst liebenswürdig.
+Scheint pedantisch, anständig, nicht bedeutend. Oben in seiner
+Poliklinik große Nettigkeit; liebenswürdiger Assistent Rosen¬
+berg (Mentholwahnsinn). Man ist oben von 12-3. Gestern hab
+ich bereits einen Nasenpolypen kauterisirt und adenoide Ve¬
+getationen an der hintern Rachenwand, die hier viel häufiger
+sind als in Wien, mittelst einer in Wien glaub“ ich nicht üb¬
+lichen Methode operirt.Krause hat seine Poliklinik zur selben Zeit; er empfing mich
+mit einer etwas blasirten Liebenswürdigkeit, wird im Sommer¬
+semester kaum lesen, und läfst sozusagen immer den histori¬
+schen Hintergrund durchschimmern, wenn er auftritt. Doch
+stehe mir das Material zur Verfügung. —
+Lazarus, den ich dieser Tage aufsuche, soll zur selben Zeit
+lesen. —Leyden ist verreist.—Die eigentlichen Vorlesungen beginnen erst Ende April. Nun
+einige wichtige Fragen, um deren stricte Beantwortung höf¬
+lichst gebeten wird:Soll ich Westphal besuchen?Wie heißt gunserg Kalischer mit dem Vornamen.Soll ich Mar August Fritsche besuchen?Wie heift der von dir gemeinte Rosenthal mit dem Vor¬
+namen? Wie Behrend’ Ist er Sanitätsrat oder Docent? - Heute
+such' ich Gerhardt, Senator auf. —
+Bei Tewele war ich Sonntag.Auch Josef Kainz war dort, ein „Urwienerg mit zwei reizen¬
+den Kindern.Frau Rodenberg empfing mich mit vollendeter Liebenswürdig¬
+keit; ihren Mann habe ich noch nicht kennengelernt; ich lasse
+Dr Schiff aufs allerherzlichste danken! —
+Fränkl „hofftg mich auch bald im Kreise der Seinen sehn zu
+können. —— Journalistisch ist hier nichts zu leisten, bevor das Semester
+anfängt: es ist alles ganz todt; viele sind verreist. —
+Nun noch etwas: Ich habe die Miethe im vorhinein bezahlt,
+und auch in den allerersten Tagen als Debutant mehr aus¬
+gegeben, als mein Durchschnittsgeld per Tag ausmacht. Mie¬
+the und Reise (mit Gepäck etc.) allein machen ungefähr
+160 Mark. Bleiben vo. Seit Donnerstag Abend bin ich da: ihr
+begreift also dafs es mir sehr lieb wäre, schon Freitag im Be¬
+sitze weitern Geldes zu sein! Es ist sehr peinlich, mit zehn
+Mark herumzugehn! Wie denkst du, liebster Papa, über einen
+wenn auch nur minimalen Reservefond, der bezweckt, daß ich
+Samstag nicht immer gar zu bärmliche herumgehe? — Ich un¬
+terwerfe mich ganz Euern weisen Entschlüssen. Hrn. Benve¬
+nisti hab ich aufgesucht; er war sehr charmant. - Ist das Geld
+(für alle Fälle! ich werds nicht brauchen!) bei Bleichröder an¬
+gewiesen? —Gestern Vormittag war ich mit Dr. Löb im Krankenhaus
+Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬tal, wo Hr Dr. Heilsmann (er hat bei Papa gehört) den Cice¬
+rone machte. Heute führte mich Prof. Lewin, der Papa herzlich
+grüßt, in seiner Abthlg auf der Charité umher; u ich machte
+die Visite mit. Gestern Abend war ich bei Rodenbergs zu
+einem pfreundschaftlichen Theeg geladen; man war allgemein
+sehr intelligent. Die Tochter des Hauses hat natürlich ein Au¬
+tographenalbum mit geistreichen Worten der größten Dichter:
+So hat z.B. lbsen hineingeschrieben. „Berlin, den 12. März
+1888. Henrik lbseng. — (Aus!) Dann war ein Baron da, der
+lbsen und den Geschmack der Haustochter verdammte, einen
+langen arischen Bart sowie allgemeine Bildung hatte. Die gras¬
+sirt überhaupt hier schrecklich. An unserm Tisch (es wurde
+nemlich ein ziemlich gelungener Versuch gemacht zu soupiren)
+waren wir unser 6, drei Damen und drei Herren, und jeder
+konnte über alles mitreden. Einer fand zu meinem größten
+Ergötzen, daß die Wiener Kaffeehäuser anu gar keinen Ver¬
+gleich mit den Berliner Kaffeehäusern aushielten.&amp; Der s.Z.
+berühmte Pianist Schulhof spielte ein paar halbvergangene
+Klavierstücke u mußte sich gleich darauf ins Stammbuch der
+Haustochter schreiben. Er kritzelte Noten hin. Da passirte ihm— ein Klex; den er sofort zum E. ernannte. „Eine Pfundnoteg
+rief ein älterer Witzbold aus; was große Heiterkeit hervor¬
+rief. Nach dem Souper bekam man, wie hier üblich, wieder
+Bier zu trinken, Patzenhoferg. Ein Assistent von Virchow,
+Dr. Israel, war anwesend und natürlich spielte auch die Bron¬
+chitis des Kaisers in die Unterhaltung. Glaubt nur nicht, daf
+Berlin düster gestimmt ist. Berlin kann überhaupt nicht ge¬
+stimmt sein; man kann sich hier gewiß unterhalten, man kann
+sich ärgern, man kann einen Schmerz empfinden (den eignen),
+aber von dem intimen Reiz der „Stimmungg ist nichts zu be¬
+merken. Sonderbar berührte es mich, als ich hundert Schritte
+weit vom königlichen Schlosse ausrufen hörte „Schlechtere
+Nachrichten vom Kaiser — nur zehn Pfennige! —— Und auf Mackenzie schimpft man hier! Das ist fabelhaft.
+Tobold war mir interessant. Er zeigte mir ein Modell (keinBild!) des kaiserlichen Kehlkopfes, das er sich nach der Con¬
+sultation vom 18. Mai v.]. angefertigt. Alle waren damals
+klar darüber: Carcinom. Alle schlugen Laryngofissur vor, die
+damals wirklich leicht ausführbar — es ermöglicht hätte, das
+allein erkrankte linke wahre Stimmband zu entfernen. Nur
+M. war für endolaryngeale Behandlung; u wollte zuwarten.
+Nun sagt Tobold, wenn die Laryngofissur gemacht worden
+wäre, so hätte dieselbe das Leben des Patienten sicher auf
+lange, auf Jahre erhalten, verschließt sich aber, wie es scheint,
+der großen Möglichkeit, daß nach Entfernung des kranken
+Stimmbands von der Wundfläche aus noch viel rascher, als es
+nun geschehen, neue Wucherungen carc. Natur vielleicht her¬
+vorgesprieft wären. Tobold wirft M. geradezu Ungeschicklich¬
+keit vor, was man hier sehr vielfach hört. Auch auf Krause ist
+man nicht gut zu sprechen. Tobold wollte s.Z. den Papa und
+Störk zur Consultation vorschlagen und hätte dir dann, wie er
+mir sagte, jedenfalls telegraphirt „Halten Sie sich bereite.- Der Kronprinz zieht fast täglich mit dem bekannten „klin¬
+genden Spieleg über die Linden. Schreckliche conventionelle
+Lüge. Und Berlin ist weder aufgeregt, noch verdüstert: nur
+ein Theaterdirector sagte mir: Zwei Landestrauer in einer
+Sähsong, das halten wir nich aus!— Ich habe noch einige Fragen zu stellen, um deren möglichst
+schleunige Beantwortung ich bitte: Ein Doctor Fraunstädter
+macht eine Arbeit über Tuberculose u. Syphilis; er ersucht um
+eine Zusammenstellung der diesbezüglichen Arbeiten aus dei¬
+ner Feder, l.Papa. — Ein Dr. Greifenhagen aus Rußland frägt
+nach dem Beginn des nächsten Kurses.— Dr. Kalischer wird die Güte haben, mir ehestens eine Zu¬
+sammenstellung jener Vereine etc. zu machen, an welche die
+Zusendung der I. Kl. Rsch geboten wäre: das Blatt kennt hier
+nemlich kein Mensch, außer mir und Dr. Kalischer. —Von Rodenberg beste Grüße. Ich lasse Hrn Dr. Schiff nochmals
+bestens danken: man war sehr liebenswürdig gegen mich.Mit meinen Besuchen komm ich noch immer nicht zu Ende: ichhabe über 40 zu machen, doch auch was andres zu thun; die
+Entfernungen sind groß, fast alle haben zur selben Zeit 4-5,
+5-6 Sprechstunde; einen od den andern trifft man nicht u.s.w.
+— Ende nächster Woche hoff ich fertig zu sein.—
+Julius u Gisa bitte ich um Entschuldigung, daß ich noch immer
+nicht ihre l. Zeilen speciell beantwortet habe: es wird schon
+kommen!</p>
+               <closer>Ich grüße und küsse Euch alle tausendmal.</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1439,16 +1938,13 @@ Kaiser speciell ihm gestorben sei. — Die Theater, wie man mir</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1459,40 +1955,108 @@ Kaiser speciell ihm gestorben sei. — Die Theater, wie man mir</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">22-</biblScope>
+                        <biblScope unit="pp">22-25</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-04-21">21. 4. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann und Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-21">21. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
 I2z.] April 88</dateline>
-                     <salute>Liebste Eltern! —</salute>
-                  </opener>
-                  <p>Gestern Vormittag war ich mit Dr. Löb im Krankenhaus
-Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+                  <salute>Liebste Eltern! —</salute>
+               </opener>
+               <p>Gestern Vormittag war ich mit Dr. Löb im Krankenhaus
+Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬tal, wo Hr Dr. Heilsmann (er hat bei Papa gehört) den Cice¬
+rone machte. Heute führte mich Prof. Lewin, der Papa herzlich
+grüßt, in seiner Abthlg auf der Charité umher; u ich machte
+die Visite mit. Gestern Abend war ich bei Rodenbergs zu
+einem pfreundschaftlichen Theeg geladen; man war allgemein
+sehr intelligent. Die Tochter des Hauses hat natürlich ein Au¬
+tographenalbum mit geistreichen Worten der größten Dichter:
+So hat z.B. lbsen hineingeschrieben. „Berlin, den 12. März
+1888. Henrik lbseng. — (Aus!) Dann war ein Baron da, der
+lbsen und den Geschmack der Haustochter verdammte, einen
+langen arischen Bart sowie allgemeine Bildung hatte. Die gras¬
+sirt überhaupt hier schrecklich. An unserm Tisch (es wurde
+nemlich ein ziemlich gelungener Versuch gemacht zu soupiren)
+waren wir unser 6, drei Damen und drei Herren, und jeder
+konnte über alles mitreden. Einer fand zu meinem größten
+Ergötzen, daß die Wiener Kaffeehäuser anu gar keinen Ver¬
+gleich mit den Berliner Kaffeehäusern aushielten.&amp; Der s.Z.
+berühmte Pianist Schulhof spielte ein paar halbvergangene
+Klavierstücke u mußte sich gleich darauf ins Stammbuch der
+Haustochter schreiben. Er kritzelte Noten hin. Da passirte ihm— ein Klex; den er sofort zum E. ernannte. „Eine Pfundnoteg
+rief ein älterer Witzbold aus; was große Heiterkeit hervor¬
+rief. Nach dem Souper bekam man, wie hier üblich, wieder
+Bier zu trinken, Patzenhoferg. Ein Assistent von Virchow,
+Dr. Israel, war anwesend und natürlich spielte auch die Bron¬
+chitis des Kaisers in die Unterhaltung. Glaubt nur nicht, daf
+Berlin düster gestimmt ist. Berlin kann überhaupt nicht ge¬
+stimmt sein; man kann sich hier gewiß unterhalten, man kann
+sich ärgern, man kann einen Schmerz empfinden (den eignen),
+aber von dem intimen Reiz der „Stimmungg ist nichts zu be¬
+merken. Sonderbar berührte es mich, als ich hundert Schritte
+weit vom königlichen Schlosse ausrufen hörte „Schlechtere
+Nachrichten vom Kaiser — nur zehn Pfennige! —— Und auf Mackenzie schimpft man hier! Das ist fabelhaft.
+Tobold war mir interessant. Er zeigte mir ein Modell (keinBild!) des kaiserlichen Kehlkopfes, das er sich nach der Con¬
+sultation vom 18. Mai v.]. angefertigt. Alle waren damals
+klar darüber: Carcinom. Alle schlugen Laryngofissur vor, die
+damals wirklich leicht ausführbar — es ermöglicht hätte, das
+allein erkrankte linke wahre Stimmband zu entfernen. Nur
+M. war für endolaryngeale Behandlung; u wollte zuwarten.
+Nun sagt Tobold, wenn die Laryngofissur gemacht worden
+wäre, so hätte dieselbe das Leben des Patienten sicher auf
+lange, auf Jahre erhalten, verschließt sich aber, wie es scheint,
+der großen Möglichkeit, daß nach Entfernung des kranken
+Stimmbands von der Wundfläche aus noch viel rascher, als es
+nun geschehen, neue Wucherungen carc. Natur vielleicht her¬
+vorgesprieft wären. Tobold wirft M. geradezu Ungeschicklich¬
+keit vor, was man hier sehr vielfach hört. Auch auf Krause ist
+man nicht gut zu sprechen. Tobold wollte s.Z. den Papa und
+Störk zur Consultation vorschlagen und hätte dir dann, wie er
+mir sagte, jedenfalls telegraphirt „Halten Sie sich bereite.- Der Kronprinz zieht fast täglich mit dem bekannten „klin¬
+genden Spieleg über die Linden. Schreckliche conventionelle
+Lüge. Und Berlin ist weder aufgeregt, noch verdüstert: nur
+ein Theaterdirector sagte mir: Zwei Landestrauer in einer
+Sähsong, das halten wir nich aus!— Ich habe noch einige Fragen zu stellen, um deren möglichst
+schleunige Beantwortung ich bitte: Ein Doctor Fraunstädter
+macht eine Arbeit über Tuberculose u. Syphilis; er ersucht um
+eine Zusammenstellung der diesbezüglichen Arbeiten aus dei¬
+ner Feder, l.Papa. — Ein Dr. Greifenhagen aus Rußland frägt
+nach dem Beginn des nächsten Kurses.— Dr. Kalischer wird die Güte haben, mir ehestens eine Zu¬
+sammenstellung jener Vereine etc. zu machen, an welche die
+Zusendung der I. Kl. Rsch geboten wäre: das Blatt kennt hier
+nemlich kein Mensch, außer mir und Dr. Kalischer. —Von Rodenberg beste Grüße. Ich lasse Hrn Dr. Schiff nochmals
+bestens danken: man war sehr liebenswürdig gegen mich.Mit meinen Besuchen komm ich noch immer nicht zu Ende: ichhabe über 40 zu machen, doch auch was andres zu thun; die
+Entfernungen sind groß, fast alle haben zur selben Zeit 4-5,
+5-6 Sprechstunde; einen od den andern trifft man nicht u.s.w.
+— Ende nächster Woche hoff ich fertig zu sein.—
+Julius u Gisa bitte ich um Entschuldigung, daß ich noch immer
+nicht ihre l. Zeilen speciell beantwortet habe: es wird schon
+kommen!</p>
+               <closer>Tausend herzliche Grüße und Küsse von Euerm Euch innig
+liebenden</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1533,16 +2097,13 @@ Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an jeanette Heeger</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1553,35 +2114,34 @@ Friedrichshain; einem prachtvollen in Pavillons erbauten Spi¬</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">25-</biblScope>
+                        <biblScope unit="pp">25-26</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate notBefore="" notAfter=""/>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>jeanette Heeger</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date notBefore="" notAfter=""/>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>jeanette Heeger</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
 Aprilk 88</dateline>
-                     <salute/>
-                  </opener>
-                  <p>Mein ewig geliebter Schatz! Ich denk mir, du mußt dich wieder
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Mein ewig geliebter Schatz! Ich denk mir, du mußt dich wieder
 über meinen gestrigen Brief geärgert haben — es ist nichts an¬
 zufangen mit mir: nur mit deinen Küssen kannst du meinen
 bitterbösen Mund schließen. Sooft deine Briefe kommen, bin
@@ -1602,11 +2162,36 @@ ich dich und mich? Mich — ja gut —! aber dich, das ist gemein,
 weil du's nicht verdienst, weil ja wirklich alles vorbei ist! —
 Ach, und doch alle diese elenden infamen Worte, du würdest
 sie mir zugute halten, wenn du einen Begriff von dem wüthen¬
-den Egoismus meiner Leidenschaft fühltest! — Einmal sagtest</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+den Egoismus meiner Leidenschaft fühltest! — Einmal sagtestdu.Es gibt Fälle, wo man nicht anders kanng, — oder so
+ähnlich. Um Himmelswillen, jetzt bin ich weg von dir, und
+wenn es wirklich so ist — Es ist ein Unsinn, und nebenbei
+wirklich eine Gemeinheit, daß ich das nicht lassen kann!
+Fühlst du es auch, daß alle diese Quälerein nur, nur meine
+Liebe sind! Fühlst du auch, das ich, während ich kleinlich und
+ungerecht deine arme Liebe peinige, zu gleicher Zeit dir zu
+Füßen sinken möchte und dir sagen: Nie ist ein Wesen so ge¬
+liebt worden - Und doch: ich bin ja nicht bei dir: du siehst
+nicht, wie ich jetzt am Schreibtisch sitze, ach Gott, meine Ver¬
+zweiflung, meine Sehnsucht siehst du nicht — du kannst nicht
+diese Geister bannen, die wieder alle auf mich losgelassen
+sind, denn du bist nicht da —Wenn ich wirklich edel wäre, müßt ich diesen Brief zerreißen;
+aber ich bin nicht edel genug: ich muß die grausame Genug¬
+thuung haben daß du weißt, wie ich mich zermartre wegen
+— Schatten und Unsinn. Heut ist einer meiner allerschlimm¬
+sten Tage, und du verstehst es! Bist du mir böse? Kränkst du
+dich? Oh wenn ich nur bei dir sein könnte, deine süßen Lip¬
+pen küssen, es wär ja alles wieder gut! Dann müßtest du auch
+an mich und nur an mich denken — Oh warum hab ich diesen
+Brief geschrieben? Warum hab ich die Kraft nicht, ihn zurück¬
+zuhalten. Zerreif ihn gleich: denk er ist einer jener bittern
+Launen, die man ihm verzeihen muß, denn so bitter kann nur
+die wahnsinnigste süßeste Liebe sein! Ja, bist gut, mein
+Schatz!</p>
+               <closer>Dein A</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1621,16 +2206,13 @@ den Egoismus meiner Leidenschaft fühltest! — Einmal sagtest</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Olga Waissnix</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1641,42 +2223,85 @@ den Egoismus meiner Leidenschaft fühltest! — Einmal sagtest</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">26-</biblScope>
+                        <biblScope unit="pp">26-28</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1887-12-31">31. 12. 1887</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Olga Waissnix</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>[Berlin,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1887-12-31">31. 12. 1887</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Olga Waissnix</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>[Berlin,
 Ende April 88</dateline>
-                     <salute>Verehrteste gnädige Frau!</salute>
-                  </opener>
-                  <p>Wer Briefe, wie Ihren letzten so lange nicht beantwortet, ver¬
+                  <salute>Verehrteste gnädige Frau!</salute>
+               </opener>
+               <p>Wer Briefe, wie Ihren letzten so lange nicht beantwortet, ver¬
 dient gar nicht, daß er sie bekommt, denn Sie glauben nicht,
 Sie wissen vielleicht gar nicht mehr, was für ein Ton durch
-diesen letzten Brief durchgegangen ist ... Der reine Frühling!</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+diesen letzten Brief durchgegangen ist ... Der reine Frühling!— Wahrhaftig! Blütenduft wehte heraus. Sie besitzen die Ge¬
+nialität des Herzens, gnädige Frau, aber Sie werfen Ihre Werke
+in die Flammen. Meistens! Wenn ich den Brief so oft beant¬
+wortet hätte, als ich ihn las, so hätten Sie wohl ein Dutzend
+Briefe seitdem bekommen. Aber ich fand, so sonderbar es
+klingt, in all diesen Tagen weder Stimmung noch Lust! Ich
+weiß überhaupt nicht, was in der letzten Zeit mit mir vorgeht.
+Ich schrumpfe ein, mir ist, als hätte mein Geist nicht für einen
+Heller Schwungkraft mehr. Ich muß hoffen, dass das eine vor¬
+übergehende Phase ist; sonst könnt ich die Bude zusperren.— Stimmungslosigkeit —, kennen Sie das?! wissen Sie, was das
+für einen Menschen heißt, der sozusagen seinen täglichen ge¬
+mütlichen Unterhalt von seinen Stimmungen bestreitet! - Und
+diese Worte dringen zu Ihnen aus einer Stadt, die mir neu ist,
+die mich mit ihrem Eindruck überstürzen sollte. — Wo faß'
+ich Dich, unendliche Naturl —- Mein Blut ist starr, irgend
+ein Fluidum, das durchflammt, fehlt. — Ich will nicht ungerecht
+sein: ich habe hier auch schon interessante Stunden erlebt; ja
+Stunden sogar, wo eine Ahnung wahrhaften Lebens mir auf¬
+ging. Doch war dies nicht bei Hiller, nicht im Thiergarten,
+nicht Unter den Linden, nicht im Café Bauer, nicht im
+L'Anglais (das gesperrt ist!) — es war im Deutschen Theater
+bei classischen Stücken. Ist das nicht komisch? Ich bin im
+Grunde keiner von den wirklich frivolen; das wird mir manch¬
+mal klar; ich bin doch: —Entschuldigen Sie, gnädige Frau; ich will lieber einmal ver¬
+suchen, einen Brief an Sie zu vollenden, ohne mich zu loben.
+Wenn ich ein paar Seiten schreibe, fang ich nemlich immer an,
+auf meine Vorzüglichkeit hinzudeuten, was ich mir für die
+liebe Leserin doch als etwas langweilig vorstelle...Ich lese Ihren Brief wieder. Wie kommt das nur? Sagte ich
+nicht Frühlingshauch? — Ist es nicht mehr Herbsthauch?
+Erinnerungeng... Immer die! Und ist es nur das?..
+„Decrescendog — sagten Sie. Das war auch, was mich pfrois¬
+sirteg.Ach, es hat keinen Sinn, über solche Dinge aus der Entfernung
+zu reden; ich könnte Ihnen wohl schon was sagen. „Billigg
+denken Sie sich, aber bitte sehr, erinnem Sie sich nur einmal
+sehr genau, aber sehr genau, und es wird Ihnen einfallen.
+Bitte, schließen Sie die Augen und erinnern Sie sich.— Ich reise von hier bald ab. Zuerst nach Wien, dann nach
+London. Vielleicht haben Sie Lust, mir bald zu antworten:
+dann trifft mich Ihr Brief noch bis Freitag den 11. Mai hier. Ich
+bleibe dann einige Zeit in Wien; wie lange weiß ich nicht; da¬
+hin schreiben Sie mir, wenn es beliebt, Hauptpost restante;
+Pfingsten reis“ ich ab; habe ich bis dahin noch keine Antwort
+von Ihnen, so erfahren Sie aus London die Adresse
+Ihres Sie wahrhaft verehrenden und ergebnen</p>
+               <closer>Arthur S.</closer>
+               <postscript>Von der Ada Christen kenn ich gar nichts.</postscript>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1705,16 +2330,13 @@ diesen letzten Brief durchgegangen ist ... Der reine Frühling!</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an Karl Emil Franzos</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1725,35 +2347,34 @@ diesen letzten Brief durchgegangen ist ... Der reine Frühling!</p>
                            <publisher>S. Fischer</publisher>
                            <date when="1981">1981</date>
                         </imprint>
-                        <biblScope unit="pp">28-</biblScope>
+                        <biblScope unit="pp">28-29</biblScope>
                      </monogr>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-04-29">29. 4. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Karl Emil Franzos</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-04-29">29. 4. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Karl Emil Franzos</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
 29. 4. 88.</dateline>
-                     <salute>Hochverehrter Herr!</salute>
-                  </opener>
-                  <p>Ich nehme mir die Freiheit, Ihnen zwei Erzählungen zu über¬
+                  <salute>Hochverehrter Herr!</salute>
+               </opener>
+               <p>Ich nehme mir die Freiheit, Ihnen zwei Erzählungen zu über¬
 senden, von denen ich mir selbst kaum einbilden will, daß sie
 für Ihre „Dtsch. Dichtung der Vorzüge genug besitzen. Je¬
 denfalls aber wäre mir ein Urtheil von Ihnen höchst er¬
@@ -1763,11 +2384,11 @@ Sache zu reden, da ich in dem Augenblicke dieser Bitte am
 liebsten ein ganz und gar unbekannter, gewiß aber nicht der
 gut empfohlene und so liebenswürdig aufgenommene „Sohn
 meines Vatersg sein möchte.</p>
-                  <closer>Mit besondrer Hochachtung</closer>
-               </div>
-            </body>
-         </text>
-      </TEI>
+               <closer>Mit besondrer Hochachtung</closer>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1783,16 +2404,13 @@ meines Vatersg sein möchte.</p>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an den Vater</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1808,30 +2426,29 @@ meines Vatersg sein möchte.</p>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-05-10">etwa. 10. 5. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>Berlin
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-05-10">etwa. 10. 5. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>Berlin
 setwa 10. Mai] 88</dateline>
-                     <salute>Theuerster Papa!</salute>
-                  </opener>
-                  <p>Anbei schicke ich die Correctur zurück. Wie schreibt man im
+                  <salute>Theuerster Papa!</salute>
+               </opener>
+               <p>Anbei schicke ich die Correctur zurück. Wie schreibt man im
 Plural: Selfmademen oder self mades men? Mama möge in
 diesem Sinne die ersten Zeilen corrigiren, sie weiss ja doch am
 meisten englisch von uns allen. Sonst hab' ich nur Buchstaben¬
@@ -1853,12 +2470,12 @@ wieder verlassen kann. Ob das nur die erbliche Schnitzlerische
 Unruhe ist, weifs ich nicht. — Ich denke also Montag Abend,
 nachdem ich den Sonntag in Dresden verbringen möchte, wie¬
 der in Wien, bei Euch zu sein, spätestens Dinstag früh.</p>
-                  <closer>Ich grüße und küsse Euch alle tausend Mal als
+               <closer>Ich grüße und küsse Euch alle tausend Mal als
 Dein Dich innigst liebender dankbarer Sohn Arthur</closer>
-               </div>
-            </body>
-         </text>
-      </TEI>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
@@ -1866,16 +2483,13 @@ Dein Dich innigst liebender dankbarer Sohn Arthur</closer>
         
         
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
-         <teiheader>
-         <fileDesc xmlns="">
+      <teiHeader>
+         <fileDesc>
             <titleStmt>
-               <title level="a">Arthur Schnitzler an</title>
+               <title level="a">Arthur Schnitzler an die Eltern</title>
             </titleStmt>
-            <editionStmt/>
-            <publicationStmt/>
-            <seriesStmt/>
             <sourceDesc>
-               <listBibl xmlns:tei="http://www.tei-c.org/ns/1.0">
+               <listBibl>
                   <biblStruct>
                      <monogr>
                         <author>Schnitzler, Arthur</author>
@@ -1891,35 +2505,65 @@ Dein Dich innigst liebender dankbarer Sohn Arthur</closer>
                   </biblStruct>
                </listBibl>
             </sourceDesc>
-            <profileDesc>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName>Arthur Schnitzler</persName>
-                     <placeName/>
-                     <correspDate when="1888-05-23">23. 5. 1888</correspDate>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName>Johann und Louise Schnitzler</persName>
-                  </correspAction>
-               </correspDesc>
-            </profileDesc>
-            <revisionDesc/>
          </fileDesc>
-      </teiheader>
-         <text>
-            <body>
-               <div type="writingSession">
-                  <opener>
-                     <dateline>London,
+         <profileDesc>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName>Arthur Schnitzler</persName>
+                  <placeName/>
+                  <date when="1888-05-23">23. 5. 1888</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName>Johann und Louise Schnitzler</persName>
+               </correspAction>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="writingSession">
+               <opener>
+                  <dateline>London,
 23/5 88</dateline>
-                     <salute>Liebste Eltern!</salute>
-                  </opener>
-                  <p>Eben habe ich ein Telegramm an Euch abgesandt u nun folgt
-die ausführlichere Bearbeitung. —</p>
-               </div>
-            </body>
-         </text>
-      </TEI>
+                  <salute>Liebste Eltern!</salute>
+               </opener>
+               <p>Eben habe ich ein Telegramm an Euch abgesandt u nun folgt
+die ausführlichere Bearbeitung. —Ich muß Euch vor allem aus Paris berichten, daß sich dort alles
+wohl befindet, daß Sandor genau so aussieht, wie vor 15 Jah¬
+ren, und daß die Stadt Paris mich fascinirt hat. Ich mus sagen,
+dafs ich mich riesig darauf freue, im Herbst dort einige Wo¬
+chen zu verbringen.Ich habe in den 24 Stunden meines Aufenthalts möglich viel
+gesehen; ich war im Louvre, im Pantheon, ich habe den Arc de
+triomphe bewundert und bin in den Champs Elysées spazie¬
+ren gefahren. Ich war im Quartier latin, und habe das Treiben
+vor der Oper betrachtet; die Eleganz der Avenue d'léna ist
+mir nicht fremder als der Naturalismus der Hallen. Ich habe
+im Café Riche morgens meine Chokolade getrunken, und habe
+Abends im Hippodrom die goldene Pariser Jugend in ihren
+hippischen Begeisterungen belauscht.—Gestern Abends fuhren wir, d. h. Felix und ich weg. Von Calais
+auf einem jener kleinen Nachtdampfer nach Dover. Es wurden
+ziemlich viel Leute seekrank: ich befand mich außerordentlich
+wohl: ja, eine leichte Uebelkeit, die mich auf der Eisenbahn
+befallen hatte, verschwand auf der offnen See. Als wir in
+Dover ans Land stiegen, that die Sonne vis à vis von uns
+genau dasselbe. Zuerst incognito, als kleiner rother Feuerball,
+aber bald konnte sie ihre himmlische Herkunft nicht mehr ver¬
+bergen und strahlte einen ganzen Frühling aus. Die Sonne
+und die polnischen Juden — sie müssen sich immer zu der¬
+kennen geben.Heute früh kamen wir also in London an; Otto erwartete uns
+an der Bahn, und wir fuhren in das reizende Häuschen, das
+Felix bewohnt. Dieser Garten, dieses Grün — und dieses Früh¬
+stück — es war herrlich. Dann fuhren wir mit einer jener hun¬
+dert Bahnen zu einer jener hundert Stationen, die London
+mitten in seinem Herzen hat. Wir kamen bei London bridge
+an. Das läßt sich nun gar nicht schildern. Es ist großartig und
+ekelhaft. Der Verkehr auf der Londoner Brücke ist bekanntlich
+(ich weiß es seit zwei Stunden) der colossalste, der existirt.
+Ununterbrochen wird man überfahren, überholt, zertreten.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>
         
         
         
